@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%">
+      <stop offset="0" stop-color="#2b3b48"/>
+      <stop offset="0.55" stop-color="#1a2630"/>
+      <stop offset="1" stop-color="#0b1219"/>
+    </radialGradient>
+    <!-- Flag of Georgia, 30x20 units -->
+    <g id="flag">
+      <path fill="#fff" d="m0 0h30v20H0z"/>
+      <g fill="#f00">
+        <path d="m13 0h4v20h-4zM0 8h30v4H0z"/>
+        <g id="c">
+          <g id="b">
+            <path id="a" d="m5.7968 1.954a5.4 5.4 0 0 0 1.4064 0 10.4 10.4 0 0 0 0 4.092 5.4 5.4 0 0 0-1.4064 0 10.4 10.4 0 0 0 0-4.092z"/>
+            <use transform="rotate(90,6.5,4)" xlink:href="#a"/>
+          </g>
+          <use x="17" xlink:href="#b"/>
+        </g>
+        <use y="12" xlink:href="#c"/>
+      </g>
+    </g>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+
+  <!-- title: flag + ქართული, ქალაქის, ქუჩის და ადამიანის სახელები -->
+  <rect x="250" y="152" width="270" height="180" fill="#222"/>
+  <use xlink:href="#flag" transform="translate(238 140) scale(9)"/>
+  <g font-family=".SF Georgian" font-weight="800" font-size="84">
+    <text x="574" y="216" fill="#222">ქართული, ქალაქის, ქუჩის</text>
+    <text x="574" y="320" fill="#222">და ადამიანის სახელები</text>
+    <text x="568" y="210" fill="#ffffff">ქართული, ქალაქის, ქუჩის</text>
+    <text x="568" y="314" fill="#ffffff">და ადამიანის სახელები</text>
+  </g>
+
+  <!-- town: Georgian town-entry sign (GE 5.23.1): white, black border, Georgian over Latin -->
+  <g transform="translate(110 500)">
+    <rect x="12" y="12" width="540" height="280" rx="28" fill="#222"/>
+    <rect width="540" height="280" rx="28" fill="#ffffff" stroke="#111" stroke-width="3"/>
+    <rect x="15" y="15" width="510" height="250" rx="18" fill="none" stroke="#111" stroke-width="10"/>
+    <text x="270" y="134" text-anchor="middle" font-family=".SF Georgian" font-weight="600" font-size="88" fill="#111">სიღნაღი</text>
+    <text x="270" y="220" text-anchor="middle" font-family="DIN Alternate" font-weight="700" font-size="72" letter-spacing="3" fill="#111">SIGHNAGHI</text>
+  </g>
+
+  <!-- street: Tbilisi street plate: blue, name + "ქ", English below, house number -->
+  <g transform="translate(720 500)">
+    <rect x="12" y="12" width="480" height="280" rx="26" fill="#222"/>
+    <rect width="480" height="280" rx="26" fill="#3f62da"/>
+    <text x="26" y="72" font-family=".SF Georgian" font-weight="700" font-size="44" fill="#ffffff">ალაზნის ქ</text>
+    <text x="28" y="116" font-family="Helvetica Neue" font-size="32" fill="#ffffff">Alazani St</text>
+    <text x="456" y="206" text-anchor="end" font-family="Helvetica Neue" font-weight="700" font-size="120" fill="#ffffff">12</text>
+    <text x="26" y="254" font-family=".SF Georgian" font-weight="700" font-size="28" fill="#ffffff">ვაკე</text>
+  </g>
+
+  <!-- person: name card -->
+  <g transform="translate(1280 500)">
+    <rect x="12" y="12" width="520" height="280" rx="28" fill="#222"/>
+    <rect width="520" height="280" rx="28" fill="#ffffff"/>
+    <circle cx="120" cy="108" r="46" fill="#1a2630"/>
+    <path d="M40 222 a80 72 0 0 1 160 0 z" fill="#1a2630"/>
+    <text x="226" y="130" font-family=".SF Georgian" font-weight="700" font-size="62" fill="#1a2630">ნინო</text>
+    <text x="226" y="214" font-family=".SF Georgian" font-weight="700" font-size="62" fill="#1a2630">ლომიძე</text>
+  </g>
+
+  <!-- captions -->
+  <g font-family="Helvetica Neue" font-weight="700" font-size="44" letter-spacing="8" text-anchor="middle" fill="#ffffff">
+    <text x="380" y="880">TOWNS</text>
+    <text x="960" y="880">STREETS</text>
+    <text x="1540" y="880">PEOPLE</text>
+  </g>
+
+  <text x="960" y="420" text-anchor="middle" font-family="Helvetica Neue" font-weight="700" font-size="46" letter-spacing="10" fill="#8fa3b3">GEORGIAN NAMES</text>
+
+  <!-- author credit -->
+  <text x="1872" y="1040" text-anchor="end" font-family="Helvetica Neue" font-size="30" fill="#ffffff" fill-opacity="0.18">@hertzg</text>
+</svg>
