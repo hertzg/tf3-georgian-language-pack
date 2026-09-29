@@ -1,0 +1,240 @@
+[
+ {
+  "msgid": "Generate New Map",
+  "msgstr": "ახალი რუკის გენერირება"
+ },
+ {
+  "msgid": "Load Custom Map",
+  "msgstr": "საკუთარი რუკის ჩატვირთვა"
+ },
+ {
+  "msgid": "Play Custom Map",
+  "msgstr": "საკუთარ რუკაზე თამაში"
+ },
+ {
+  "msgid": "Map Editor",
+  "msgstr": "რუკის რედაქტორი"
+ },
+ {
+  "msgid": "New Game",
+  "msgstr": "ახალი თამაში"
+ },
+ {
+  "msgid": "New Game - Settings",
+  "msgstr": "ახალი თამაში - პარამეტრები"
+ },
+ {
+  "msgid": "World",
+  "msgstr": "სამყარო"
+ },
+ {
+  "msgid": "Settings to configure the world.",
+  "msgstr": "სამყაროს პარამეტრების მორგება."
+ },
+ {
+  "msgid": "Terrain",
+  "msgstr": "რელიეფი"
+ },
+ {
+  "msgid": "Settings to configure the terrain.",
+  "msgstr": "რელიეფის პარამეტრების მორგება."
+ },
+ {
+  "msgid": "Civilization",
+  "msgstr": "ცივილიზაცია"
+ },
+ {
+  "msgid": "Settings to configure the civilization.",
+  "msgstr": "ცივილიზაციის პარამეტრების მორგება."
+ },
+ {
+  "msgid": "Environment",
+  "msgstr": "გარემო"
+ },
+ {
+  "msgid": "Settings to configure the environment.",
+  "msgstr": "გარემოს პარამეტრების მორგება."
+ },
+ {
+  "msgid": "New Game - Load Map",
+  "msgstr": "ახალი თამაში - რუკის ჩატვირთვა"
+ },
+ {
+  "msgid": "Map Size",
+  "msgstr": "რუკის ზომა"
+ },
+ {
+  "msgid": "Map Format",
+  "msgstr": "რუკის ფორმატი"
+ },
+ {
+  "msgid": "Names",
+  "msgstr": "სახელები"
+ },
+ {
+  "msgid": "Economy",
+  "msgstr": "ეკონომიკა"
+ },
+ {
+  "msgid": "Start Year",
+  "msgstr": "საწყისი წელი"
+ },
+ {
+  "msgid": "Map Editor - New Map",
+  "msgstr": "რუკის რედაქტორი - ახალი რუკა"
+ },
+ {
+  "msgid": "Map Editor - Load Map",
+  "msgstr": "რუკის რედაქტორი - რუკის ჩატვირთვა"
+ },
+ {
+  "msgid": "Start Map Editor",
+  "msgstr": "რუკის რედაქტორის გაშვება"
+ },
+ {
+  "msgid": "Start Game",
+  "msgstr": "თამაშის დაწყება"
+ },
+ {
+  "msgid": "Tutorial requires more water. Adjust water settings or change the seed.",
+  "msgstr": "სასწავლო კურსს მეტი წყალი სჭირდება. შეცვალეთ წყლის პარამეტრები ან საწყისი რიცხვი.",
+  "note": "seed = საწყისი რიცხვი everywhere. nplg dictionaries give seed only as თესლი / მარცვალი (plant senses), no computing sense, so a literal word would read as farming"
+ },
+ {
+  "msgid": "Create New Map",
+  "msgstr": "ახალი რუკის შექმნა"
+ },
+ {
+  "msgid": "Create a new empty map in a sandbox environment.",
+  "msgstr": "შექმენით ახალი ცარიელი რუკა თავისუფალ რეჟიმში.",
+  "note": "sandbox = თავისუფალი რეჟიმი"
+ },
+ {
+  "msgid": "Create New Game",
+  "msgstr": "ახალი თამაშის შექმნა"
+ },
+ {
+  "msgid": "Start a new game with a randomly generated map.",
+  "msgstr": "დაიწყეთ ახალი თამაში შემთხვევით გენერირებულ რუკაზე."
+ },
+ {
+  "msgid": "Edit Map",
+  "msgstr": "რუკის რედაქტირება"
+ },
+ {
+  "msgid": "Edit an existing map.",
+  "msgstr": "დაარედაქტირეთ არსებული რუკა."
+ },
+ {
+  "msgid": "Play Map",
+  "msgstr": "რუკაზე თამაში"
+ },
+ {
+  "msgid": "Start a new game with a predefined map.",
+  "msgstr": "დაიწყეთ ახალი თამაში წინასწარ მომზადებულ რუკაზე."
+ },
+ {
+  "msgid": "Difficulty: {difficulty}",
+  "msgstr": "სირთულე: {difficulty}"
+ },
+ {
+  "msgid": "Settings",
+  "msgstr": "პარამეტრები"
+ },
+ {
+  "msgid": "Gameplay Settings",
+  "msgstr": "თამაშის პარამეტრები"
+ },
+ {
+  "msgid": "Mods ({numMods})",
+  "msgstr": "მოდები ({numMods})"
+ },
+ {
+  "msgid": "Add Mods",
+  "msgstr": "მოდების დამატება"
+ },
+ {
+  "msgid": "Change the region from which the names of towns, roads and residents should originate.",
+  "msgstr": "შეცვალეთ რეგიონი, რომლის მიხედვითაც დასახლებებს, გზებსა და მაცხოვრებლებს სახელები დაერქმევა."
+ },
+ {
+  "msgid": "The start year affects the appearance of towns and which vehicles are available.",
+  "msgstr": "საწყისი წელი გავლენას ახდენს დასახლებების იერსახეზე და იმაზე, თუ რომელი სატრანსპორტო საშუალებები იქნება ხელმისაწვდომი."
+ },
+ {
+  "msgid": "Seed",
+  "msgstr": "საწყისი რიცხვი"
+ },
+ {
+  "msgid": "Change the random seed to generate completely different maps.",
+  "msgstr": "შეცვალეთ საწყისი რიცხვი, რომ სრულიად განსხვავებული რუკები მიიღოთ."
+ },
+ {
+  "msgid": "Initial Seed for the Map",
+  "msgstr": "რუკის საწყისი რიცხვი"
+ },
+ {
+  "msgid": "Generator",
+  "msgstr": "გენერატორი"
+ },
+ {
+  "msgid": "This setting controls which generator is used to generate the terrain.",
+  "msgstr": "ეს პარამეტრი განსაზღვრავს, რომელი გენერატორით შეიქმნება რელიეფი."
+ },
+ {
+  "msgid": "Editor's Note",
+  "msgstr": "რედაქტორის შენიშვნა"
+ },
+ {
+  "msgid": "CAMPAIGN_DISCLAIMER",
+  "msgstr": "კამპანიების მიზანია ტრანსპორტის ისტორიის საკვანძო ეტაპების რაც შეიძლება ცოცხლად წარმოჩენა მათ ისტორიულ კონტექსტში.\\nკამპანიები მსოფლიო ისტორიის ბნელ ფურცლებსაც ეხება. ამ ეპიზოდების დაკნინება ან მათი მსხვერპლის დაცინვა არასდროს ყოფილა ჩვენი მიზანი.\\nბოლოს და ბოლოს, არ უნდა დავივიწყოთ, რომ ტრანსპორტის ისტორია ხშირად იყო და დღესაც არის კონფლიქტების, ჩაგვრისა და ზოგჯერ დიდი ტანჯვის ისტორია.\\nშესაბამისად, ცალკეულ მისიებში გადმოცემული შეფასებები თამაშის შემქმნელთა საკუთარ შეხედულებებს არ ასახავს."
+ },
+ {
+  "msgid": "Continue",
+  "msgstr": "გაგრძელება"
+ },
+ {
+  "msgid": "{location} {year}",
+  "msgstr": "{location} {year}"
+ },
+ {
+  "msgid": "Campaign",
+  "msgstr": "კამპანია"
+ },
+ {
+  "msgid": "Earn one star by meeting this requirement.",
+  "msgstr": "შეასრულეთ ეს პირობა და მიიღეთ ერთი ვარსკვლავი."
+ },
+ {
+  "msgid": "Earn two stars by additionally meeting this requirement.",
+  "msgstr": "დამატებით შეასრულეთ ეს პირობა და მიიღეთ ორი ვარსკვლავი."
+ },
+ {
+  "msgid": "Earn three stars by additionally meeting this requirement.",
+  "msgstr": "დამატებით შეასრულეთ ეს პირობა და მიიღეთ სამი ვარსკვლავი."
+ },
+ {
+  "msgid": "Mission Objective",
+  "msgstr": "მისიის მიზანი"
+ },
+ {
+  "msgid": "Completion Requirements",
+  "msgstr": "შესრულების პირობები"
+ },
+ {
+  "msgid": "Earn a special award by completing this task.",
+  "msgstr": "შეასრულეთ ეს დავალება და მიიღეთ სპეციალური ჯილდო."
+ },
+ {
+  "msgid": "Special Award",
+  "msgstr": "სპეციალური ჯილდო"
+ },
+ {
+  "msgid": "Restart",
+  "msgstr": "თავიდან დაწყება"
+ },
+ {
+  "msgid": "Start",
+  "msgstr": "დაწყება"
+ }
+]

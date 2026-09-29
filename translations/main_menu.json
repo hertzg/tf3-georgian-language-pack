@@ -1,0 +1,99 @@
+[
+ {
+  "msgid": "Mods that are still being downloaded will not be available.",
+  "msgstr": "მოდები, რომელთა ჩამოტვირთვაც ჯერ არ დასრულებულა, ხელმისაწვდომი არ იქნება."
+ },
+ {
+  "msgid": "If you continue, unfinished downloads will be cancelled and download progress will be lost. \\n\\nMod Management features will be disabled in the game.",
+  "msgstr": "თუ გააგრძელებთ, დაუსრულებელი ჩამოტვირთვები გაუქმდება და უკვე ჩამოტვირთული ნაწილი დაიკარგება. \\n\\nთამაშში მოდების მართვის ფუნქციები გაითიშება."
+ },
+ {
+  "msgid": "Downloading Mods",
+  "msgstr": "მოდების ჩამოტვირთვა"
+ },
+ {
+  "msgid": "Continue Anyway",
+  "msgstr": "მაინც გაგრძელება"
+ },
+ {
+  "msgid": "Wait",
+  "msgstr": "მოცდა"
+ },
+ {
+  "msgid": "Deluxe Edition",
+  "msgstr": "დელუქს გამოცემა",
+  "note": "Edition name transliterated; 'Deluxe გამოცემა' also works if the Latin brand should stay."
+ },
+ {
+  "msgid": "Standard Edition",
+  "msgstr": "სტანდარტული გამოცემა"
+ },
+ {
+  "msgid": "(+ Pre-Order content)",
+  "msgstr": "(+ წინასწარი შეკვეთის დამატებები)",
+  "note": "დამატებები = add-on content; avoids the loanword კონტენტი."
+ },
+ {
+  "msgid": "Continue",
+  "msgstr": "გაგრძელება"
+ },
+ {
+  "msgid": "Check the Latest Release Notes",
+  "msgstr": "უახლესი ვერსიის ცვლილებების ნახვა",
+  "note": "Verbal-noun style to match the other buttons."
+ },
+ {
+  "msgid": "Settings",
+  "msgstr": "პარამეტრები"
+ },
+ {
+  "msgid": "Credits",
+  "msgstr": "შემქმნელები",
+  "note": "შემქმნელი = creator (big Georgian-English dict). ტიტრები avoided: dictionary gives only 'caption', and it is the Russian титры route."
+ },
+ {
+  "msgid": "Quit Game",
+  "msgstr": "თამაშიდან გასვლა"
+ },
+ {
+  "msgid": "Campaign",
+  "msgstr": "კამპანია"
+ },
+ {
+  "msgid": "New Game",
+  "msgstr": "ახალი თამაში"
+ },
+ {
+  "msgid": "Load Game",
+  "msgstr": "თამაშის ჩატვირთვა"
+ },
+ {
+  "msgid": "Mod Hub",
+  "msgstr": "მოდების ცენტრი",
+  "note": "Dictionary has no ჰაბი; hub = მორგვი (wheel) / გამანაწილებელი (network), neither fits. ცენტრი is attested in the 'X ცენტრი' pattern (დასაქმების ცენტრი = job centre)."
+ },
+ {
+  "msgid": "Map Editor",
+  "msgstr": "რუკის რედაქტორი"
+ },
+ {
+  "msgid": "Quickstart Tutorial",
+  "msgstr": "სწრაფი სასწავლო კურსი"
+ },
+ {
+  "msgid": "Tutorial",
+  "msgstr": "სასწავლო კურსი"
+ },
+ {
+  "msgid": "Map Editor - Load Map",
+  "msgstr": "რუკის რედაქტორი - რუკის ჩატვირთვა"
+ },
+ {
+  "msgid": "Load Map",
+  "msgstr": "რუკის ჩატვირთვა"
+ },
+ {
+  "msgid": "Start Game",
+  "msgstr": "თამაშის დაწყება"
+ }
+]

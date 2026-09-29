@@ -1,0 +1,205 @@
+[
+ {
+  "msgid": "Any Cargo Type",
+  "msgstr": "ნებისმიერი ტვირთი"
+ },
+ {
+  "msgid": "Beverages",
+  "msgstr": "სასმელები"
+ },
+ {
+  "msgid": "Books",
+  "msgstr": "წიგნები"
+ },
+ {
+  "msgid": "Bricks",
+  "msgstr": "აგური"
+ },
+ {
+  "msgid": "Bulk",
+  "msgstr": "ნაყარი ტვირთი",
+  "note": "Cargo class; matches station term ნაყარი ტვირთის ბაქანი."
+ },
+ {
+  "msgid": "Canned Food",
+  "msgstr": "კონსერვები"
+ },
+ {
+  "msgid": "Cement",
+  "msgstr": "ცემენტი"
+ },
+ {
+  "msgid": "Chemicals",
+  "msgstr": "ქიმიკატები"
+ },
+ {
+  "msgid": "Clay",
+  "msgstr": "თიხა"
+ },
+ {
+  "msgid": "Clothes",
+  "msgstr": "ტანსაცმელი"
+ },
+ {
+  "msgid": "Coal",
+  "msgstr": "ქვანახშირი"
+ },
+ {
+  "msgid": "Crude Oil",
+  "msgstr": "ნედლი ნავთობი"
+ },
+ {
+  "msgid": "Dyes",
+  "msgstr": "საღებავები"
+ },
+ {
+  "msgid": "Fabric",
+  "msgstr": "ქსოვილი"
+ },
+ {
+  "msgid": "Fertilizer",
+  "msgstr": "სასუქი"
+ },
+ {
+  "msgid": "Fish",
+  "msgstr": "თევზი"
+ },
+ {
+  "msgid": "Flatbed",
+  "msgstr": "უბორტო ტვირთი",
+  "note": "Cargo class; matches station term უბორტო ტვირთის ბაქანი."
+ },
+ {
+  "msgid": "Fuel",
+  "msgstr": "საწვავი"
+ },
+ {
+  "msgid": "Furniture",
+  "msgstr": "ავეჯი"
+ },
+ {
+  "msgid": "Glass",
+  "msgstr": "მინა"
+ },
+ {
+  "msgid": "Goods",
+  "msgstr": "საქონელი",
+  "note": "Same msgid serves the cargo type and the cargo class; საქონელი fits both (station term: სასაქონლო ბაქანი)."
+ },
+ {
+  "msgid": "Grain",
+  "msgstr": "მარცვლეული"
+ },
+ {
+  "msgid": "Iron Ore",
+  "msgstr": "რკინის მადანი"
+ },
+ {
+  "msgid": "Liquid",
+  "msgstr": "თხევადი ტვირთი",
+  "note": "Cargo class; matches station term თხევადი ტვირთის ბაქანი."
+ },
+ {
+  "msgid": "Logs",
+  "msgstr": "მორები"
+ },
+ {
+  "msgid": "Machines",
+  "msgstr": "მანქანა-დანადგარები"
+ },
+ {
+  "msgid": "Meat",
+  "msgstr": "ხორცი"
+ },
+ {
+  "msgid": "Paper",
+  "msgstr": "ქაღალდი"
+ },
+ {
+  "msgid": "Passengers",
+  "msgstr": "მგზავრები"
+ },
+ {
+  "msgid": "Planks",
+  "msgstr": "ფიცარი"
+ },
+ {
+  "msgid": "Plastic",
+  "msgstr": "პლასტმასა"
+ },
+ {
+  "msgid": "Rubber",
+  "msgstr": "რეზინი"
+ },
+ {
+  "msgid": "Sand",
+  "msgstr": "ქვიშა"
+ },
+ {
+  "msgid": "Sawdust",
+  "msgstr": "ნახერხი"
+ },
+ {
+  "msgid": "Sheet Metal",
+  "msgstr": "ფურცლოვანი ლითონი"
+ },
+ {
+  "msgid": "Steel",
+  "msgstr": "ფოლადი"
+ },
+ {
+  "msgid": "Stone",
+  "msgstr": "ქვა"
+ },
+ {
+  "msgid": "Tires",
+  "msgstr": "საბურავები"
+ },
+ {
+  "msgid": "Tools",
+  "msgstr": "ხელსაწყოები"
+ },
+ {
+  "msgid": "Vegetables",
+  "msgstr": "ბოსტნეული"
+ },
+ {
+  "msgid": "Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებები",
+  "note": "Cargo (vehicles.zip, car models) but the same msgid, with no context, is also the UI label in the line window, finances (acquisitions), the HUD filter over trains/trams/ships and the savegame vehicle count. სატრანსპორტო საშუალებები fits all of them; ავტომობილები (matching ავტომობილების ქარხანა) would be wrong for trains and ships."
+ },
+ {
+  "msgid": "Wool",
+  "msgstr": "მატყლი"
+ },
+ {
+  "msgid": "Aircraft {number}",
+  "msgstr": "თვითმფრინავი {number}"
+ },
+ {
+  "msgid": "Helicopter {number}",
+  "msgstr": "შვეულმფრენი {number}"
+ },
+ {
+  "msgid": "Road Vehicle {number}",
+  "msgstr": "ავტომობილი {number}",
+  "note": "Covers buses and trucks too (ავტობუსი/სატვირთო ავტომობილი are kinds of ავტომობილი)."
+ },
+ {
+  "msgid": "Ship {number}",
+  "msgstr": "გემი {number}"
+ },
+ {
+  "msgid": "Town {number}",
+  "msgstr": "დასახლება {number}",
+  "note": "Fallback town name; matches დასახლება used for town in the sentence file. Stays nominative inside templates, e.g. სადგური „დასახლება 3“."
+ },
+ {
+  "msgid": "Train {number}",
+  "msgstr": "მატარებელი {number}"
+ },
+ {
+  "msgid": "Tram {number}",
+  "msgstr": "ტრამვაი {number}"
+ }
+]

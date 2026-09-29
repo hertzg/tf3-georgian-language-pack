@@ -1,0 +1,445 @@
+[
+ {
+  "msgid": "Public Transport and Residential Supplies",
+  "msgstr": "საზოგადოებრივი ტრანსპორტი და საცხოვრებელი უბნების მომარაგება"
+ },
+ {
+  "msgid": "Public Transport",
+  "msgstr": "საზოგადოებრივი ტრანსპორტი"
+ },
+ {
+  "msgid": "Commercial Supply",
+  "msgstr": "კომერციული უბნების მომარაგება"
+ },
+ {
+  "msgid": "Industrial Supply",
+  "msgstr": "სამრეწველო უბნების მომარაგება"
+ },
+ {
+  "msgid": "Cargo: {type}",
+  "msgstr": "ტვირთი: {type}"
+ },
+ {
+  "msgid": "Received: {count}",
+  "msgstr": "მიღებული: {count}"
+ },
+ {
+  "msgid": "Shop: {count}",
+  "msgstr": "მაღაზია: {count}"
+ },
+ {
+  "msgid": "Work: {count}",
+  "msgstr": "სამსახური: {count}"
+ },
+ {
+  "msgid": "Line Usage: {percentage}",
+  "msgstr": "ხაზების გამოყენება: {percentage}"
+ },
+ {
+  "msgid": "Supplier",
+  "msgstr": "მომწოდებელი"
+ },
+ {
+  "msgid": "Cargo",
+  "msgstr": "ტვირთი"
+ },
+ {
+  "msgid": "Received",
+  "msgstr": "მიღებული"
+ },
+ {
+  "msgid": "Name",
+  "msgstr": "დასახელება"
+ },
+ {
+  "msgid": "Line Usage",
+  "msgstr": "ხაზების გამოყენება"
+ },
+ {
+  "msgid": "Destinations",
+  "msgstr": "დანიშნულების ადგილები"
+ },
+ {
+  "msgid": "Suppliers",
+  "msgstr": "მომწოდებლები"
+ },
+ {
+  "msgid": "Traffic",
+  "msgstr": "საგზაო მოძრაობა"
+ },
+ {
+  "msgid": "Passenger Satisfaction",
+  "msgstr": "მგზავრების კმაყოფილება"
+ },
+ {
+  "msgid": "Cargo Satisfaction",
+  "msgstr": "მომარაგებით კმაყოფილება"
+ },
+ {
+  "msgid": "Noise",
+  "msgstr": "ხმაური"
+ },
+ {
+  "msgid": "Pollution",
+  "msgstr": "დაბინძურება"
+ },
+ {
+  "msgid": "Overview",
+  "msgstr": "მიმოხილვა"
+ },
+ {
+  "msgid": "Statistics",
+  "msgstr": "სტატისტიკა"
+ },
+ {
+  "msgid": "Town",
+  "msgstr": "დასახლება"
+ },
+ {
+  "msgid": "Editor",
+  "msgstr": "რედაქტორი"
+ },
+ {
+  "msgid": "Current Population",
+  "msgstr": "ამჟამინდელი მოსახლეობა"
+ },
+ {
+  "msgid": "{percentage} Towards {nextTownLevelName}",
+  "msgstr": "{percentage} შემდეგ დონემდე: {nextTownLevelName}"
+ },
+ {
+  "msgid": "Town Development Inactive",
+  "msgstr": "დასახლების განვითარება შეჩერებულია"
+ },
+ {
+  "msgid": "District Sizes",
+  "msgstr": "უბნების ზომები"
+ },
+ {
+  "msgid": "Reputation",
+  "msgstr": "რეპუტაცია"
+ },
+ {
+  "msgid": "Bonuses",
+  "msgstr": "ბონუსები"
+ },
+ {
+  "msgid": "Supplies",
+  "msgstr": "მომარაგება"
+ },
+ {
+  "msgid": "Delivery",
+  "msgstr": "მიწოდება"
+ },
+ {
+  "msgid": "Residential",
+  "msgstr": "საცხოვრებელი"
+ },
+ {
+  "msgid": "Commercial",
+  "msgstr": "კომერციული"
+ },
+ {
+  "msgid": "Industrial",
+  "msgstr": "სამრეწველო"
+ },
+ {
+  "msgid": "Traffic Rating",
+  "msgstr": "საგზაო მოძრაობის შეფასება"
+ },
+ {
+  "msgid": "Passenger Happiness Rating",
+  "msgstr": "მგზავრების კმაყოფილების შეფასება"
+ },
+ {
+  "msgid": "Cargo Supply Rating",
+  "msgstr": "ტვირთით მომარაგების შეფასება"
+ },
+ {
+  "msgid": "Noise Rating",
+  "msgstr": "ხმაურის შეფასება"
+ },
+ {
+  "msgid": "Pollution Rating",
+  "msgstr": "დაბინძურების შეფასება"
+ },
+ {
+  "msgid": "Debug Graph",
+  "msgstr": "გამართვის გრაფიკი"
+ },
+ {
+  "msgid": "Residential District",
+  "msgstr": "საცხოვრებელი უბანი"
+ },
+ {
+  "msgid": "Commercial District",
+  "msgstr": "კომერციული უბანი"
+ },
+ {
+  "msgid": "Industrial District",
+  "msgstr": "სამრეწველო უბანი"
+ },
+ {
+  "msgid": "Enable Custom Distribution Weights",
+  "msgstr": "განაწილების საკუთარი წონების ჩართვა"
+ },
+ {
+  "msgid": "Level 1",
+  "msgstr": "დონე 1"
+ },
+ {
+  "msgid": "Level 2",
+  "msgstr": "დონე 2"
+ },
+ {
+  "msgid": "Level 3",
+  "msgstr": "დონე 3"
+ },
+ {
+  "msgid": "Level 4",
+  "msgstr": "დონე 4"
+ },
+ {
+  "msgid": "Reset to Default",
+  "msgstr": "ნაგულისხმევზე დაბრუნება"
+ },
+ {
+  "msgid": "Enable Town Development",
+  "msgstr": "დასახლების განვითარების ჩართვა"
+ },
+ {
+  "msgid": "Cargo Demand",
+  "msgstr": "ტვირთზე მოთხოვნა"
+ },
+ {
+  "msgid": "Target District Capacities",
+  "msgstr": "უბნების სამიზნე ტევადობა"
+ },
+ {
+  "msgid": "District Tool",
+  "msgstr": "უბნების ხელსაწყო"
+ },
+ {
+  "msgid": "Ratings Sensitivity",
+  "msgstr": "შეფასებების მგრძნობელობა"
+ },
+ {
+  "msgid": "Level",
+  "msgstr": "დონე"
+ },
+ {
+  "msgid": "Year Built",
+  "msgstr": "აშენების წელი"
+ },
+ {
+  "msgid": "Consumption Rating",
+  "msgstr": "მოხმარების შეფასება"
+ },
+ {
+  "msgid": "Residents",
+  "msgstr": "მაცხოვრებლები"
+ },
+ {
+  "msgid": "Noise at Building Position: {noise}",
+  "msgstr": "ხმაური შენობასთან: {noise}"
+ },
+ {
+  "msgid": "Historic Preservation",
+  "msgstr": "ისტორიული იერსახის დაცვა"
+ },
+ {
+  "msgid": "Preserves the appearance of the building but it can still level up.",
+  "msgstr": "შენობის იერსახე შენარჩუნდება, თუმცა მისი დონე მაინც შეიძლება გაიზარდოს."
+ },
+ {
+  "msgid": "Production",
+  "msgstr": "წარმოება"
+ },
+ {
+  "msgid": "Configure",
+  "msgstr": "მორგება"
+ },
+ {
+  "msgid": "Production Speed Boost",
+  "msgstr": "წარმოების სიჩქარის ზრდა"
+ },
+ {
+  "msgid": "Annual Maximum Consumption",
+  "msgstr": "მაქსიმალური წლიური მოხმარება"
+ },
+ {
+  "msgid": "No Input",
+  "msgstr": "შემავალი ტვირთის გარეშე"
+ },
+ {
+  "msgid": "No Output",
+  "msgstr": "გამავალი ტვირთის გარეშე"
+ },
+ {
+  "msgid": "{count} Plots",
+  "msgstr": "ნაკვეთები: {count}"
+ },
+ {
+  "msgid": "Supplied: {count}",
+  "msgstr": "მიწოდებული: {count}"
+ },
+ {
+  "msgid": "Connect this location with the transport system to allow for cargo transport to this location.",
+  "msgstr": "დააკავშირეთ ეს ადგილი სატრანსპორტო სისტემასთან, რომ აქ ტვირთის მიტანა შესაძლებელი გახდეს."
+ },
+ {
+  "msgid": "Consumer",
+  "msgstr": "მომხმარებელი"
+ },
+ {
+  "msgid": "Supplied",
+  "msgstr": "მიწოდებული"
+ },
+ {
+  "msgid": "Consumed",
+  "msgstr": "მოხმარებული"
+ },
+ {
+  "msgid": "Produced",
+  "msgstr": "წარმოებული"
+ },
+ {
+  "msgid": "Destroyed",
+  "msgstr": "განადგურებული"
+ },
+ {
+  "msgid": "Cargo Flow",
+  "msgstr": "ტვირთის ნაკადი"
+ },
+ {
+  "msgid": "{total} (- {diff} Due to Delivery Time)",
+  "msgstr": "{total} (- {diff} მიწოდების დროის გამო)"
+ },
+ {
+  "msgid": "{total} (+ {diff} Due to Delivery Time)",
+  "msgstr": "{total} (+ {diff} მიწოდების დროის გამო)"
+ },
+ {
+  "msgid": "Consumption",
+  "msgstr": "მოხმარება"
+ },
+ {
+  "msgid": "Current Consumption",
+  "msgstr": "მიმდინარე მოხმარება"
+ },
+ {
+  "msgid": "Current Production",
+  "msgstr": "მიმდინარე წარმოება"
+ },
+ {
+  "msgid": "Count",
+  "msgstr": "რაოდენობა"
+ },
+ {
+  "msgid": "Max.",
+  "msgstr": "მაქს."
+ },
+ {
+  "msgid": "Industry is expanded to it's full potential.",
+  "msgstr": "საწარმო სრულად არის გაფართოებული."
+ },
+ {
+  "msgid": "Industry is blocked from further expansion.",
+  "msgstr": "საწარმოს შემდგომი გაფართოება შეუძლებელია."
+ },
+ {
+  "msgid": "Workers",
+  "msgstr": "მუშახელი"
+ },
+ {
+  "msgid": "{currentWorkers} of {neededWorkers} Workers",
+  "msgstr": "მუშახელი: {currentWorkers} / {neededWorkers}"
+ },
+ {
+  "msgid": "Year",
+  "msgstr": "წელი",
+  "note": "Period label on the maintenance bar (cost per year)."
+ },
+ {
+  "msgid": "Stocks",
+  "msgstr": "მარაგი"
+ },
+ {
+  "msgid": "No Cargo Currently Stored",
+  "msgstr": "საწყობში ამჟამად ტვირთი არ ინახება"
+ },
+ {
+  "msgid": "Incoming",
+  "msgstr": "შემომავალი"
+ },
+ {
+  "msgid": "Outgoing",
+  "msgstr": "გამავალი"
+ },
+ {
+  "msgid": "Show Company Window",
+  "msgstr": "კომპანიის ფანჯრის ჩვენება"
+ },
+ {
+  "msgid": "Gather and assemble all the necessary resources to complete the project and bring this magnificent structure to life.",
+  "msgstr": "შეაგროვეთ ყველა საჭირო რესურსი, დაასრულეთ პროექტი და გააცოცხლეთ ეს დიდებული ნაგებობა."
+ },
+ {
+  "msgid": "Seeking",
+  "msgstr": "ეძებს"
+ },
+ {
+  "msgid": "Abducting",
+  "msgstr": "იტაცებს"
+ },
+ {
+  "msgid": "Leaving",
+  "msgstr": "მიფრინავს",
+  "note": "Shared by the UFO and the blimp, both fly away, so მიფრინავს."
+ },
+ {
+  "msgid": "State",
+  "msgstr": "მდგომარეობა"
+ },
+ {
+  "msgid": "Speed",
+  "msgstr": "სიჩქარე"
+ },
+ {
+  "msgid": "Abducted",
+  "msgstr": "გატაცებულია"
+ },
+ {
+  "msgid": "Clueless",
+  "msgstr": "ვერაფერს ხვდება",
+  "note": "State of the cow the UFO targets (\"doesn't suspect a thing\")."
+ },
+ {
+  "msgid": "Circling",
+  "msgstr": "წრეებს უვლის"
+ },
+ {
+  "msgid": "Approaching",
+  "msgstr": "უახლოვდება"
+ },
+ {
+  "msgid": "Warehouse",
+  "msgstr": "საწყობი"
+ },
+ {
+  "msgid": "Warehouses",
+  "msgstr": "საწყობები"
+ },
+ {
+  "msgid": "Warehouse Statistics",
+  "msgstr": "საწყობების სტატისტიკა"
+ },
+ {
+  "msgid": "Specialized Warehouse: {boost}",
+  "msgstr": "სპეციალიზებული საწყობი: {boost}"
+ },
+ {
+  "msgid": "Upkeep Warehouses",
+  "msgstr": "საწყობების მოვლა-შენახვა"
+ }
+]

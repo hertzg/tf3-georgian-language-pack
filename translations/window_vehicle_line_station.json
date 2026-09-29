@@ -1,0 +1,265 @@
+[
+ {
+  "msgid": "Specialization:",
+  "msgstr": "სპეციალიზაცია:"
+ },
+ {
+  "msgid": "Vehicle could not be sent to depot.",
+  "msgstr": "სატრანსპორტო საშუალების დეპოში გაგზავნა ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Send to Line",
+  "msgstr": "ხაზზე გაგზავნა"
+ },
+ {
+  "msgid": "Reverse",
+  "msgstr": "შემობრუნება"
+ },
+ {
+  "msgid": "Stop",
+  "msgstr": "გაჩერება",
+  "note": "Button that stops the vehicle. გაჩერება is also the noun for a line stop, so both readings work."
+ },
+ {
+  "msgid": "Clone",
+  "msgstr": "კლონირება"
+ },
+ {
+  "msgid": "Replace",
+  "msgstr": "ჩანაცვლება"
+ },
+ {
+  "msgid": "Modify",
+  "msgstr": "შეცვლა"
+ },
+ {
+  "msgid": "Send to Depot",
+  "msgstr": "დეპოში გაგზავნა"
+ },
+ {
+  "msgid": "Sell",
+  "msgstr": "გაყიდვა"
+ },
+ {
+  "msgid": "Vehicle cannot be sold at this time.",
+  "msgstr": "სატრანსპორტო საშუალების გაყიდვა ახლა შეუძლებელია."
+ },
+ {
+  "msgid": "Stop {current} of {total}",
+  "msgstr": "გაჩერება {current}/{total}"
+ },
+ {
+  "msgid": "(No Target)",
+  "msgstr": "(დანიშნულების გარეშე)"
+ },
+ {
+  "msgid": "Change Color",
+  "msgstr": "ფერის შეცვლა"
+ },
+ {
+  "msgid": "All Cargo Supported",
+  "msgstr": "ნებისმიერი ტვირთი",
+  "note": "Same as Any Cargo Type elsewhere."
+ },
+ {
+  "msgid": "Supported Cargo:",
+  "msgstr": "გადასაზიდი ტვირთი:"
+ },
+ {
+  "msgid": "Top Speed",
+  "msgstr": "მაქსიმალური სიჩქარე"
+ },
+ {
+  "msgid": "Loading Speed",
+  "msgstr": "დატვირთვის სიჩქარე"
+ },
+ {
+  "msgid": "Power",
+  "msgstr": "სიმძლავრე"
+ },
+ {
+  "msgid": "Thrust",
+  "msgstr": "ბიძგი"
+ },
+ {
+  "msgid": "Comfort",
+  "msgstr": "კომფორტი"
+ },
+ {
+  "msgid": "Average Happiness: {amount}",
+  "msgstr": "საშუალო კმაყოფილება: {amount}"
+ },
+ {
+  "msgid": "Average Remaining Delivery Time: {amount}",
+  "msgstr": "მიწოდებამდე დარჩენილი საშუალო დრო: {amount}"
+ },
+ {
+  "msgid": "Maintained",
+  "msgstr": "მომსახურებულია"
+ },
+ {
+  "msgid": "Not Maintained",
+  "msgstr": "არ არის მომსახურებული"
+ },
+ {
+  "msgid": "There is no maintenance information available for this vehicle.",
+  "msgstr": "ამ სატრანსპორტო საშუალების მომსახურების შესახებ ინფორმაცია არ არის."
+ },
+ {
+  "msgid": "Last Year",
+  "msgstr": "გასული წელი"
+ },
+ {
+  "msgid": "Going to Depot",
+  "msgstr": "მიემართება დეპოში"
+ },
+ {
+  "msgid": "In Depot",
+  "msgstr": "დეპოშია"
+ },
+ {
+  "msgid": "Condition",
+  "msgstr": "მდგომარეობა"
+ },
+ {
+  "msgid": "Vehicle Condition: {amount}",
+  "msgstr": "სატრანსპორტო საშუალების მდგომარეობა: {amount}"
+ },
+ {
+  "msgid": "Balance",
+  "msgstr": "ბალანსი"
+ },
+ {
+  "msgid": "Income",
+  "msgstr": "შემოსავალი"
+ },
+ {
+  "msgid": "Running Costs",
+  "msgstr": "მიმდინარე ხარჯები"
+ },
+ {
+  "msgid": "Reservation Priority: Standard",
+  "msgstr": "დაჯავშნის პრიორიტეტი: ჩვეულებრივი",
+  "note": "Track reservation for signals/paths."
+ },
+ {
+  "msgid": "Reservation Priority: High",
+  "msgstr": "დაჯავშნის პრიორიტეტი: მაღალი"
+ },
+ {
+  "msgid": "Reservation Priority: Very High",
+  "msgstr": "დაჯავშნის პრიორიტეტი: ძალიან მაღალი"
+ },
+ {
+  "msgid": "Manage Line",
+  "msgstr": "ხაზის მართვა"
+ },
+ {
+  "msgid": "Rate: {count}",
+  "msgstr": "გამტარობა: {count}",
+  "note": "Line transport capacity per year."
+ },
+ {
+  "msgid": "Frequency: {count}",
+  "msgstr": "ინტერვალი: {count}",
+  "note": "TF shows this as a time between vehicles (e.g. 2 min), which Georgian transport calls ინტერვალი. Use სიხშირე if the value turns out to be a count per hour."
+ },
+ {
+  "msgid": "Invalid",
+  "msgstr": "არასწორი"
+ },
+ {
+  "msgid": "{total} of Lifetime ({age} Remaining)",
+  "msgstr": "ექსპლუატაციის ვადის {total} (დარჩენილია {age})"
+ },
+ {
+  "msgid": "Lifetime Reached",
+  "msgstr": "ექსპლუატაციის ვადა ამოიწურა"
+ },
+ {
+  "msgid": "Vehicle",
+  "msgstr": "სატრანსპორტო საშუალება"
+ },
+ {
+  "msgid": "Age",
+  "msgstr": "ასაკი"
+ },
+ {
+  "msgid": "Currently No Items Transported",
+  "msgstr": "ამჟამად არაფერი გადაიზიდება"
+ },
+ {
+  "msgid": "Transported",
+  "msgstr": "გადაზიდული"
+ },
+ {
+  "msgid": "via",
+  "msgstr": "გავლით",
+  "note": "Georgian გავლით is a postposition and needs a genitive noun before it (თბილისის გავლით). If the game puts a name right after or before it, the phrase won't agree. I couldn't see the layout: the game UI files are compiled."
+ },
+ {
+  "msgid": "Some passengers may leave because the station is overloaded.",
+  "msgstr": "სადგური გადატვირთულია, ამიტომ ზოგიერთი მგზავრი შეიძლება წავიდეს."
+ },
+ {
+  "msgid": "Unhappy Passengers",
+  "msgstr": "უკმაყოფილო მგზავრები"
+ },
+ {
+  "msgid": "Waiting Hall",
+  "msgstr": "მოსაცდელი დარბაზი"
+ },
+ {
+  "msgid": "Passenger and Cargo",
+  "msgstr": "სამგზავრო და სატვირთო"
+ },
+ {
+  "msgid": "Passenger",
+  "msgstr": "სამგზავრო",
+  "note": "Station type filter (station group window), so adjective form like Passenger and Cargo."
+ },
+ {
+  "msgid": "All Cargo Types",
+  "msgstr": "ყველა სახის ტვირთი"
+ },
+ {
+  "msgid": "Terminal is too short for some vehicles.",
+  "msgstr": "ტერმინალი ზოგიერთი სატრანსპორტო საშუალებისთვის მოკლეა."
+ },
+ {
+  "msgid": "Destinations:\\n",
+  "msgstr": "დანიშნულების პუნქტები:\\n"
+ },
+ {
+  "msgid": "Terminals",
+  "msgstr": "ტერმინალები"
+ },
+ {
+  "msgid": "Loaded",
+  "msgstr": "დატვირთული"
+ },
+ {
+  "msgid": "Unloaded",
+  "msgstr": "გადმოტვირთული"
+ },
+ {
+  "msgid": "Manage Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებების მართვა"
+ },
+ {
+  "msgid": "Maintenance Pool",
+  "msgstr": "სარემონტო რესურსი"
+ },
+ {
+  "msgid": "Maintained Vehicles",
+  "msgstr": "მომსახურებული სატრანსპორტო საშუალებები"
+ },
+ {
+  "msgid": "Maximum Usage",
+  "msgstr": "მაქსიმალური გამოყენება"
+ },
+ {
+  "msgid": "Average Usage",
+  "msgstr": "საშუალო გამოყენება"
+ }
+]

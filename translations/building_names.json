@@ -1,0 +1,46 @@
+[
+ {
+  "msgid": "{townName} Port",
+  "msgstr": "ნავსადგური „{townName}“"
+ },
+ {
+  "msgid": "{townName} Warehouse",
+  "msgstr": "საწყობი „{townName}“"
+ },
+ {
+  "msgid": "{townName} Airport",
+  "msgstr": "აეროპორტი „{townName}“"
+ },
+ {
+  "msgid": "{townName} Heliport",
+  "msgstr": "შვეულდრომი „{townName}“"
+ },
+ {
+  "msgid": "{townName} Headquarters",
+  "msgstr": "სათაო ოფისი „{townName}“"
+ },
+ {
+  "msgid": "{townName} Underground Stop",
+  "msgstr": "მიწისქვეშა გაჩერება „{townName}“"
+ },
+ {
+  "msgid": "{townName} Train Depot",
+  "msgstr": "სარკინიგზო დეპო „{townName}“"
+ },
+ {
+  "msgid": "{townName} Road Depot",
+  "msgstr": "საავტომობილო დეპო „{townName}“"
+ },
+ {
+  "msgid": "{townName} Tram Depot",
+  "msgstr": "ტრამვაის დეპო „{townName}“"
+ },
+ {
+  "msgid": "{townName} Ship Depot",
+  "msgstr": "გემების დეპო „{townName}“"
+ },
+ {
+  "msgid": "{townName} Maintenance Building",
+  "msgstr": "სარემონტო შენობა „{townName}“"
+ }
+]

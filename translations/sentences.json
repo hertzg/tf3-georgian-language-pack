@@ -5,7 +5,7 @@
  },
  {
   "msgid": "{amount} Level Progress in {townName}",
-  "msgstr": "{townName}: {amount} დონის პროგრესი"
+  "msgstr": "{townName}: {amount} წინსვლა შემდეგი დონისკენ"
  },
  {
   "msgid": "{industryName} is looking for a reliable partner to transport its workforce. Transport passengers from nearby towns to {industryName} to boost its production.",
@@ -41,7 +41,7 @@
  },
  {
   "msgid": "The required cargo supply to {industryName} has not been fulfilled, violating the terms of the subsidy agreement. Consequences will be applied as stipulated in the contract.",
-  "msgstr": "{industryName} საჭირო ტვირთით არ მომარაგდა, რაც სუბსიდიის შეთანხმების პირობების დარღვევაა. ამოქმედდება ხელშეკრულებით გათვალისწინებული შედეგები."
+  "msgstr": "{industryName} საჭირო ტვირთით არ მომარაგდა, რაც სუბსიდიის შეთანხმების პირობების დარღვევაა. დადგება ხელშეკრულებით გათვალისწინებული შედეგები."
  },
  {
   "msgid": "The subsidy to supply cargo to {industryName} has become unavailable. A missed opportunity, but the next one is sure to come.",
@@ -89,7 +89,7 @@
  },
  {
   "msgid": "Congratulations, you have just started the delivery of products requested by {townName}!",
-  "msgstr": "გილოცავთ! თქვენ ახლახან დაიწყეთ პროდუქციის მიწოდება, რომელსაც {townName} ითხოვს!"
+  "msgstr": "გილოცავთ! თქვენ ახლახან დაიწყეთ საქონლის მიწოდება, რომელსაც {townName} ითხოვს!"
  },
  {
   "msgid": "Congratulations, you have just started delivering cargo requested by {industryName}!",
@@ -101,7 +101,7 @@
  },
  {
   "msgid": "Congratulations, thanks to the excellent care, {townName} was able to grow steadily and reached a new level: {townType}.",
-  "msgstr": "გილოცავთ! თქვენი შესანიშნავი ზრუნვის წყალობით {townName} სტაბილურად გაიზარდა და ახალ საფეხურს მიაღწია: {townType}."
+  "msgstr": "გილოცავთ! თქვენი შესანიშნავი ზრუნვის წყალობით {townName} თანდათან გაიზარდა და ახალ დონეზე ავიდა: {townType}."
  },
  {
   "msgid": "Reputation improved in {townName}.",
@@ -190,7 +190,7 @@
  },
  {
   "msgid": "Buy Vehicles At {name}",
-  "msgstr": "ტრანსპორტის შეძენა: {name}"
+  "msgstr": "სატრანსპორტო საშუალებების შეძენა: {name}"
  },
  {
   "msgid": "{name} ({message})",
@@ -226,15 +226,15 @@
  },
  {
   "msgid": "Buy vehicles at {name}.",
-  "msgstr": "შეიძინეთ ტრანსპორტი: {name}."
+  "msgstr": "შეიძინეთ სატრანსპორტო საშუალებები: {name}."
  },
  {
   "msgid": "Remove vehicles in {name} from list.",
-  "msgstr": "{name}: ამოიღეთ ტრანსპორტი სიიდან."
+  "msgstr": "{name}: ამოიღეთ სატრანსპორტო საშუალებები სიიდან."
  },
  {
   "msgid": "Add vehicles in {name} to list.",
-  "msgstr": "{name}: დაამატეთ ტრანსპორტი სიაში."
+  "msgstr": "{name}: დაამატეთ სატრანსპორტო საშუალებები სიაში."
  },
  {
   "msgid": "Open {name}.",
@@ -254,7 +254,7 @@
  },
  {
   "msgid": "Buy vehicles for {lineName} at {depotName}.",
-  "msgstr": "შეიძინეთ ტრანსპორტი. ხაზი: {lineName}, დეპო: {depotName}."
+  "msgstr": "შეიძინეთ სატრანსპორტო საშუალებები. ხაზი: {lineName}, დეპო: {depotName}."
  },
  {
   "msgid": "Move waypoint to {name}.",
@@ -302,7 +302,7 @@
  },
  {
   "msgid": "Driving",
-  "msgstr": "მანქანით მგზავრობა"
+  "msgstr": "ავტომობილით მგზავრობა"
  },
  {
   "msgid": "At Home",

@@ -1,0 +1,286 @@
+[
+ {
+  "msgid": "Upkeep",
+  "msgstr": "მოვლა-შენახვა",
+  "note": "Same term as 'Upkeep Warehouses' in window_town_industry.json. The value next to it is a cost per period."
+ },
+ {
+  "msgid": "{maintenanceCost}/{maintenancePeriod}",
+  "msgstr": "{maintenanceCost}/{maintenancePeriod}"
+ },
+ {
+  "msgid": "{stored}/{capacity}",
+  "msgstr": "{stored}/{capacity}"
+ },
+ {
+  "msgid": "Average Remaining Delivery Time: {quality}",
+  "msgstr": "მიწოდებამდე დარჩენილი საშუალო დრო: {quality}"
+ },
+ {
+  "msgid": "Any Cargo",
+  "msgstr": "ნებისმიერი ტვირთი"
+ },
+ {
+  "msgid": "Average Remaining Delivery Time: {count}",
+  "msgstr": "მიწოდებამდე დარჩენილი საშუალო დრო: {count}"
+ },
+ {
+  "msgid": "Discard All Cargo",
+  "msgstr": "მთელი ტვირთის განადგურება",
+  "note": "Discarded cargo is lost; matches 'Destroyed' => განადგურებული in the cargo stats."
+ },
+ {
+  "msgid": "Unspecified",
+  "msgstr": "დაუზუსტებელი"
+ },
+ {
+  "msgid": "{count}/{capacity}",
+  "msgstr": "{count}/{capacity}"
+ },
+ {
+  "msgid": "Input Stocks",
+  "msgstr": "შემავალი ტვირთის მარაგი",
+  "note": "Matches 'No Input' => შემავალი ტვირთის გარეშე and 'Stocks' => მარაგი."
+ },
+ {
+  "msgid": "Output Stocks",
+  "msgstr": "გამავალი ტვირთის მარაგი"
+ },
+ {
+  "msgid": "Time Scale",
+  "msgstr": "დროის მასშტაბი"
+ },
+ {
+  "msgid": "{years} Years",
+  "msgstr": "{years} წელი",
+  "note": "Georgian keeps the noun singular after a number (5 წელი)."
+ },
+ {
+  "msgid": "{numerator}/{denominator}",
+  "msgstr": "{numerator}/{denominator}"
+ },
+ {
+  "msgid": "Customers",
+  "msgstr": "მომხმარებლები"
+ },
+ {
+  "msgid": "Currently Here",
+  "msgstr": "ამჟამად აქ"
+ },
+ {
+  "msgid": "On the Way",
+  "msgstr": "გზაში"
+ },
+ {
+  "msgid": "Walk",
+  "msgstr": "ფეხით",
+  "note": "Mode of travel label, next to Car and Lines."
+ },
+ {
+  "msgid": "Car",
+  "msgstr": "ავტომობილი"
+ },
+ {
+  "msgid": "Lines",
+  "msgstr": "ხაზები"
+ },
+ {
+  "msgid": "Visitors",
+  "msgstr": "სტუმრები"
+ },
+ {
+  "msgid": "Connect this location with public transport to enable residents to visit it.",
+  "msgstr": "დააკავშირეთ ეს ადგილი საზოგადოებრივ ტრანსპორტთან, რომ მაცხოვრებლებს აქ მოსვლა შეეძლოთ."
+ },
+ {
+  "msgid": "Connect this location with public transport to allow residents to work here.",
+  "msgstr": "დააკავშირეთ ეს ადგილი საზოგადოებრივ ტრანსპორტთან, რომ მაცხოვრებლებს აქ მუშაობა შეეძლოთ."
+ },
+ {
+  "msgid": "Connect this location with public transport to enable residents to live here.",
+  "msgstr": "დააკავშირეთ ეს ადგილი საზოგადოებრივ ტრანსპორტთან, რომ მაცხოვრებლებს აქ ცხოვრება შეეძლოთ."
+ },
+ {
+  "msgid": "{percentage}",
+  "msgstr": "{percentage}"
+ },
+ {
+  "msgid": "Time Left",
+  "msgstr": "დარჩენილი დრო"
+ },
+ {
+  "msgid": "Currently no passengers in this vehicle.",
+  "msgstr": "ამ სატრანსპორტო საშუალებაში ამჟამად მგზავრები არ არიან."
+ },
+ {
+  "msgid": "Enter Cockpit",
+  "msgstr": "კაბინაში შესვლა",
+  "note": "Switches the camera to the driver's/pilot's view."
+ },
+ {
+  "msgid": "No Maintenance Pool",
+  "msgstr": "სარემონტო რესურსი არ არის",
+  "note": "Maintenance Building = სარემონტო შენობა, so the pool it fills is სარემონტო რესურსი."
+ },
+ {
+  "msgid": "Pool Usage: {amount}",
+  "msgstr": "სარემონტო რესურსის გამოყენება: {amount}"
+ },
+ {
+  "msgid": "Loading",
+  "msgstr": "დატვირთვა"
+ },
+ {
+  "msgid": "Unloading",
+  "msgstr": "გადმოტვირთვა"
+ },
+ {
+  "msgid": " - Speed: {speed}",
+  "msgstr": " - სიჩქარე: {speed}"
+ },
+ {
+  "msgid": "Ensuring safe distance",
+  "msgstr": "უსაფრთხო მანძილის დაცვა"
+ },
+ {
+  "msgid": "At Terminal",
+  "msgstr": "ტერმინალთან"
+ },
+ {
+  "msgid": "Stopping",
+  "msgstr": "ჩერდება"
+ },
+ {
+  "msgid": "Stopped",
+  "msgstr": "გაჩერებულია"
+ },
+ {
+  "msgid": "No Path",
+  "msgstr": "გზა ვერ მოიძებნა"
+ },
+ {
+  "msgid": "Waiting for Free Path",
+  "msgstr": "თავისუფალი გზის მოლოდინი"
+ },
+ {
+  "msgid": "Additional Cargo Not Shown",
+  "msgstr": "დანარჩენი ტვირთი ნაჩვენები არ არის"
+ },
+ {
+  "msgid": "{Cargocount} Additional Cargo Not Shown",
+  "msgstr": "ნაჩვენები არ არის კიდევ {Cargocount} ტვირთი",
+  "note": "Number before the noun, noun stays singular, so it reads right for any count."
+ },
+ {
+  "msgid": "Current Noise: {formattedNoise}",
+  "msgstr": "მიმდინარე ხმაური: {formattedNoise}"
+ },
+ {
+  "msgid": "Current Pollution: {formattedPollution}",
+  "msgstr": "მიმდინარე დაბინძურება: {formattedPollution}"
+ },
+ {
+  "msgid": "Industry",
+  "msgstr": "საწარმო"
+ },
+ {
+  "msgid": "Station",
+  "msgstr": "სადგური"
+ },
+ {
+  "msgid": "Road Station",
+  "msgstr": "საავტომობილო სადგური"
+ },
+ {
+  "msgid": "Train Station",
+  "msgstr": "სარკინიგზო სადგური"
+ },
+ {
+  "msgid": "Tram Station",
+  "msgstr": "ტრამვაის სადგური"
+ },
+ {
+  "msgid": "Port",
+  "msgstr": "ნავსადგური"
+ },
+ {
+  "msgid": "Runway",
+  "msgstr": "ასაფრენ-დასაფრენი ზოლი"
+ },
+ {
+  "msgid": "Helipad",
+  "msgstr": "შვეულმფრენის მოედანი"
+ },
+ {
+  "msgid": "Depot",
+  "msgstr": "დეპო"
+ },
+ {
+  "msgid": "Maintenance Building",
+  "msgstr": "სარემონტო შენობა"
+ },
+ {
+  "msgid": "Construction",
+  "msgstr": "ნაგებობა"
+ },
+ {
+  "msgid": "Animal",
+  "msgstr": "ცხოველი"
+ },
+ {
+  "msgid": "Building",
+  "msgstr": "შენობა"
+ },
+ {
+  "msgid": "Residential Building",
+  "msgstr": "საცხოვრებელი შენობა"
+ },
+ {
+  "msgid": "Commercial Building",
+  "msgstr": "კომერციული შენობა"
+ },
+ {
+  "msgid": "Industrial Building",
+  "msgstr": "სამრეწველო შენობა"
+ },
+ {
+  "msgid": "Resident",
+  "msgstr": "მაცხოვრებელი"
+ },
+ {
+  "msgid": "Line",
+  "msgstr": "ხაზი"
+ },
+ {
+  "msgid": "Rail Crossing",
+  "msgstr": "სარკინიგზო გადასასვლელი",
+  "note": "Level crossing where road meets rail."
+ },
+ {
+  "msgid": "Signal",
+  "msgstr": "სიგნალი",
+  "note": "Same word as the '{townName} Signal #{number}' name template."
+ },
+ {
+  "msgid": "Double Slip Switch",
+  "msgstr": "ორმაგი ჯვარედინი ისარი",
+  "note": "Railway switch = ისარი (NPLG: switch - რკინიგზის ისარი)."
+ },
+ {
+  "msgid": "Crossing",
+  "msgstr": "გადაკვეთა",
+  "note": "Generic crossing (tracks or roads meeting), kept apart from Rail Crossing = გადასასვლელი. Check in game if this is a pedestrian crossing; then use ქვეითთა გადასასვლელი."
+ },
+ {
+  "msgid": "Bridge",
+  "msgstr": "ხიდი"
+ },
+ {
+  "msgid": "Tunnel",
+  "msgstr": "გვირაბი"
+ },
+ {
+  "msgid": "Empty Construction",
+  "msgstr": "ცარიელი ნაგებობა"
+ }
+]

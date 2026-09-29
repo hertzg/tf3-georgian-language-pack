@@ -30,11 +30,11 @@
  },
  {
   "msgid": "HARBOR_LARGE_NAME",
-  "msgstr": "დიდი სამგზავრო/სატვირთო პორტი"
+  "msgstr": "დიდი სამგზავრო/სატვირთო ნავსადგური"
  },
  {
   "msgid": "HARBOR_SMALL_NAME",
-  "msgstr": "მცირე სამგზავრო/სატვირთო პორტი"
+  "msgstr": "მცირე სამგზავრო/სატვირთო ნავსადგური"
  },
  {
   "msgid": "HQ_MODULE_CORNER_L_NAME",
@@ -114,7 +114,7 @@
  },
  {
   "msgid": "INDUSTRIES_CLAY_PIT_NAME",
-  "msgstr": "თიხის კარიერი"
+  "msgstr": "თიხის საბადო"
  },
  {
   "msgid": "INDUSTRIES_COAL_MINE_NAME",
@@ -152,7 +152,7 @@
  },
  {
   "msgid": "INDUSTRIES_FURNITURE_FACTORY_NAME",
-  "msgstr": "ავეჯის ფაბრიკა"
+  "msgstr": "ავეჯის ქარხანა"
  },
  {
   "msgid": "INDUSTRIES_GLASS_WORKS_NAME",
@@ -164,7 +164,7 @@
  },
  {
   "msgid": "INDUSTRIES_LIVESTOCK_FARM_NAME",
-  "msgstr": "მეცხოველეობის ფერმა"
+  "msgstr": "მეცხოველეობის მეურნეობა"
  },
  {
   "msgid": "INDUSTRIES_MACHINE_FACTORY_NAME",
@@ -192,7 +192,7 @@
  },
  {
   "msgid": "INDUSTRIES_QUARRY_NAME",
-  "msgstr": "ქვის კარიერი"
+  "msgstr": "ქვის სამტეხლო"
  },
  {
   "msgid": "INDUSTRIES_RUBBER_FARM_NAME",
@@ -200,11 +200,12 @@
  },
  {
   "msgid": "INDUSTRIES_SAND_EXCAVATOR_NAME",
-  "msgstr": "ქვიშის დრაგა"
+  "msgstr": "ქვიშის მიწახაპია გემი"
  },
  {
   "msgid": "INDUSTRIES_SAND_PIT_NAME",
-  "msgstr": "ქვიშის კარიერი"
+  "msgstr": "ქვიშის კარიერი",
+  "note": "Dictionary: sandpit - ქვიშის კარიერი."
  },
  {
   "msgid": "INDUSTRIES_SAW_MILL_NAME",
@@ -216,7 +217,7 @@
  },
  {
   "msgid": "INDUSTRIES_TEXTILE_FACTORY_NAME",
-  "msgstr": "ტექსტილის ფაბრიკა"
+  "msgstr": "ტექსტილის ქარხანა"
  },
  {
   "msgid": "INDUSTRIES_TIRE_FACTORY_NAME",
@@ -232,7 +233,7 @@
  },
  {
   "msgid": "INDUSTRIES_WEAVING_MILL_NAME",
-  "msgstr": "საქსოვი ფაბრიკა"
+  "msgstr": "საქსოვი ქარხანა"
  },
  {
   "msgid": "LANDMARK_ARENA_OF_VERONA_NAME",

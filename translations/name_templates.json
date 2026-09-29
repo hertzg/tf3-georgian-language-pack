@@ -29,12 +29,13 @@
  },
  {
   "msgid": "{stationName} Exchange",
-  "msgstr": "{stationName} – კვანძი",
-  "note": "კვანძი = junction/hub."
+  "msgstr": "საკვანძო {stationName}",
+  "note": "Dictionary: junction - საკვანძო სადგური, so საკვანძო სადგური „მცხეთა“."
  },
  {
   "msgid": "{stationName} Halt",
-  "msgstr": "{stationName} – გაჩერება"
+  "msgstr": "მცირე {stationName}",
+  "note": "Dictionary: halt - გაჩერება, but after სადგური „X“ a dash suffix reads odd; prefix gives მცირე სადგური „მცხეთა“."
  },
  {
   "msgid": "{stationName} North",

@@ -52,8 +52,8 @@
  },
  {
   "msgid": "STATIONS_AIR_HELIPORT_NAME",
-  "msgstr": "შვეულმფრენების აეროდრომი",
-  "note": "Helicopter root is შვეულმფრენი everywhere; ვერტოდრომი dropped because it uses the ვერტ- root."
+  "msgstr": "შვეულდრომი",
+  "note": "nplg has no heliport term (heliport, helipad, вертодром all 0 hits; ვერტოდრომი 0). Coined შვეულ- + -დრომი, like აეროდრომი."
  },
  {
   "msgid": "STATIONS_RAIL_MODULAR_ADDON_ROOF_A_NAME",
@@ -361,7 +361,7 @@
  },
  {
   "msgid": "STATIONS_WATER_PASSENGER_DOCK_100_25_NAME",
-  "msgstr": "დიდი პირსი"
+  "msgstr": "დიდი ნავმისადგომი"
  },
  {
   "msgid": "STATIONS_WATER_PASSENGER_DOCK_100_50_2_NAME",
@@ -377,7 +377,7 @@
  },
  {
   "msgid": "STATIONS_WATER_PASSENGER_DOCK_50_12_NAME",
-  "msgstr": "მცირე პირსი"
+  "msgstr": "მცირე ნავმისადგომი"
  },
  {
   "msgid": "STATIONS_WATER_PASSENGER_DOCK_50_50_2_NAME",
