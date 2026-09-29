@@ -1,0 +1,398 @@
+[
+ {
+  "msgid": "STATIONS_AIR_AIRFIELD_HANGAR_NAME",
+  "msgstr": "ანგარი",
+  "note": "Airport \"Depot\" is a hangar: ანგარი. Ground depots stay დეპო."
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRFIELD_MAIN_BUILDING_NAME",
+  "msgstr": "მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRFIELD_TERMINAL_NAME",
+  "msgstr": "ტერმინალი"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_2ND_RUNWAY_NAME",
+  "msgstr": "ასაფრენ-დასაფრენი ზოლი"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_ERA_B_LANDING_DIRECTION_NAME",
+  "msgstr": "მიახლოების განათება"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_ERA_C_LANDING_DIRECTION_NAME",
+  "msgstr": "მიახლოების განათება"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_HANGAR_NAME",
+  "msgstr": "ანგარი",
+  "note": "Airport \"Depot\" is a hangar: ანგარი. Ground depots stay დეპო."
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_MAIN_BUILDING_NAME",
+  "msgstr": "მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_TERMINALB_NAME",
+  "msgstr": "საჭესავალი ბილიკი",
+  "note": "Taxiway = საჭესავალი ბილიკი, per native-speaker decision."
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_TERMINAL_HELI_NAME",
+  "msgstr": "შვეულმფრენის ტერმინალი"
+ },
+ {
+  "msgid": "STATIONS_AIR_AIRPORT_TERMINAL_NAME",
+  "msgstr": "ტერმინალი"
+ },
+ {
+  "msgid": "STATIONS_AIR_HELIPAD_NAME",
+  "msgstr": "შვეულმფრენის მოედანი"
+ },
+ {
+  "msgid": "STATIONS_AIR_HELIPORT_NAME",
+  "msgstr": "შვეულმფრენების აეროდრომი",
+  "note": "Helicopter root is შვეულმფრენი everywhere; ვერტოდრომი dropped because it uses the ვერტ- root."
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_ROOF_A_NAME",
+  "msgstr": "ბაქნის სახურავი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_ROOF_B_NAME",
+  "msgstr": "ბაქნის სახურავი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_ROOF_CURVED_C_NAME",
+  "msgstr": "ბაქნის სპეციალური სახურავი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_ROOF_C_NAME",
+  "msgstr": "ბაქნის სახურავი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_STAIRS_A_NAME",
+  "msgstr": "მიწისქვეშა გადასასვლელი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_STAIRS_B_NAME",
+  "msgstr": "მიწისქვეშა გადასასვლელი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_ADDON_STAIRS_C_NAME",
+  "msgstr": "მიწისქვეშა გადასასვლელი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_A_NAME",
+  "msgstr": "მცირე სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_B_NAME",
+  "msgstr": "მცირე სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_CARGO_NAME",
+  "msgstr": "მცირე სატვირთო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_1_C_NAME",
+  "msgstr": "მცირე სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_A_NAME",
+  "msgstr": "საშუალო სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_B_NAME",
+  "msgstr": "საშუალო სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_CARGO_NAME",
+  "msgstr": "საშუალო სატვირთო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_2_C_NAME",
+  "msgstr": "საშუალო სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_A_NAME",
+  "msgstr": "დიდი სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_B_NAME",
+  "msgstr": "დიდი სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_CARGO_NAME",
+  "msgstr": "დიდი სატვირთო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_MAIN_BUILDING_3_C_NAME",
+  "msgstr": "დიდი სამგზავრო მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_A_BULK_NAME",
+  "msgstr": "ნაყარი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_A_FLATBED_NAME",
+  "msgstr": "უბორტო ტვირთის ბაქანი",
+  "note": "Flatbed = უბორტო (without sides), per native-speaker decision."
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_A_GOODS_NAME",
+  "msgstr": "სასაქონლო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_A_LIQUID_NAME",
+  "msgstr": "თხევადი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_A_NAME",
+  "msgstr": "უნივერსალური სატვირთო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_B_BULK_NAME",
+  "msgstr": "ნაყარი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_B_FLATBED_NAME",
+  "msgstr": "უბორტო ტვირთის ბაქანი",
+  "note": "Flatbed = უბორტო (without sides), per native-speaker decision."
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_B_GOODS_NAME",
+  "msgstr": "სასაქონლო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_B_LIQUID_NAME",
+  "msgstr": "თხევადი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_B_NAME",
+  "msgstr": "უნივერსალური სატვირთო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_C_BULK_NAME",
+  "msgstr": "ნაყარი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_C_FLATBED_NAME",
+  "msgstr": "უბორტო ტვირთის ბაქანი",
+  "note": "Flatbed = უბორტო (without sides), per native-speaker decision."
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_C_GOODS_NAME",
+  "msgstr": "სასაქონლო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_C_LIQUID_NAME",
+  "msgstr": "თხევადი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_CARGO_C_NAME",
+  "msgstr": "უნივერსალური სატვირთო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_PASSENGER_A_NAME",
+  "msgstr": "სამგზავრო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_PASSENGER_B_NAME",
+  "msgstr": "სამგზავრო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_PLATFORM_PASSENGER_C_NAME",
+  "msgstr": "სამგზავრო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_A_NAME",
+  "msgstr": "მცირე სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_B_NAME",
+  "msgstr": "მცირე სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_CARGO_NAME",
+  "msgstr": "მცირე სატვირთო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_1_C_NAME",
+  "msgstr": "მცირე სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_A_NAME",
+  "msgstr": "საშუალო სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_B_NAME",
+  "msgstr": "საშუალო სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_CARGO_NAME",
+  "msgstr": "საშუალო სატვირთო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_2_C_NAME",
+  "msgstr": "საშუალო სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_A_NAME",
+  "msgstr": "დიდი სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_B_NAME",
+  "msgstr": "დიდი სამგზავრო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_CARGO_NAME",
+  "msgstr": "დიდი სატვირთო გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_SIDE_BUILDING_3_C_NAME",
+  "msgstr": "დიდი გვერდითი შენობა"
+ },
+ {
+  "msgid": "STATIONS_RAIL_MODULAR_STAIRS_NAME",
+  "msgstr": "გვერდითი შესასვლელი"
+ },
+ {
+  "msgid": "STATIONS_STREET_CARGO_UNIVERSAL_NAME",
+  "msgstr": "უნივერსალური სატვირთო სადგური"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_CARGO_PLATFORM_BULK_NAME",
+  "msgstr": "ნაყარი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_CARGO_PLATFORM_FLATBED_NAME",
+  "msgstr": "უბორტო ტვირთის ბაქანი",
+  "note": "Flatbed = უბორტო (without sides), per native-speaker decision."
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_CARGO_PLATFORM_GOODS_NAME",
+  "msgstr": "სასაქონლო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_CARGO_PLATFORM_LIQUID_NAME",
+  "msgstr": "თხევადი ტვირთის ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_CARGO_PLATFORM_NAME",
+  "msgstr": "უნივერსალური სატვირთო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ENTRANCE_EXIT_NAME",
+  "msgstr": "გზის მიერთება"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ENTRANCE_NAME",
+  "msgstr": "სადგურის შესასვლელი"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ERA_A_PASSENGER_BUILDING_10_10_NAME",
+  "msgstr": "მცირე სამგზავრო შენობა"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ERA_A_PASSENGER_BUILDING_20_20_NAME",
+  "msgstr": "დიდი სამგზავრო შენობა"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ERA_B_PASSENGER_BUILDING_10_10_NAME",
+  "msgstr": "მცირე სამგზავრო შენობა"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ERA_B_PASSENGER_BUILDING_20_20_NAME",
+  "msgstr": "დიდი სამგზავრო შენობა"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ERA_C_PASSENGER_BUILDING_10_10_NAME",
+  "msgstr": "მცირე სამგზავრო შენობა"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_ERA_C_PASSENGER_BUILDING_20_20_NAME",
+  "msgstr": "დიდი სამგზავრო შენობა"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_EXIT_NAME",
+  "msgstr": "სადგურის გასასვლელი"
+ },
+ {
+  "msgid": "STATIONS_STREET_MODULAR_PASSENGER_PLATFORM_NAME",
+  "msgstr": "სამგზავრო ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_STREET_PASSENGER_NAME",
+  "msgstr": "ავტობუსის/ტრამვაის სადგური"
+ },
+ {
+  "msgid": "STATIONS_STREET_SMALL_MID_NAME",
+  "msgstr": "გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_STREET_SMALL_NEW_NAME",
+  "msgstr": "გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_STREET_SMALL_OLD_NAME",
+  "msgstr": "გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_STREET_SMALL_TWOSIDED_MID_NAME",
+  "msgstr": "ორმხრივი გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_STREET_SMALL_TWOSIDED_NEW_NAME",
+  "msgstr": "ორმხრივი გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_STREET_SMALL_TWOSIDED_OLD_NAME",
+  "msgstr": "ორმხრივი გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_STREET_UNDERGROUND_NAME",
+  "msgstr": "მიწისქვეშა გაჩერება"
+ },
+ {
+  "msgid": "STATIONS_WATER_MEDIUM_PIER_NAME",
+  "msgstr": "დიდი ნავმისადგომი"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_100_25_NAME",
+  "msgstr": "დიდი პირსი"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_100_50_2_NAME",
+  "msgstr": "მთავარი ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_100_50_NAME",
+  "msgstr": "დიდი მთავარი შენობა"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_25_25_NAME",
+  "msgstr": "მცირე შენობა"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_50_12_NAME",
+  "msgstr": "მცირე პირსი"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_50_50_2_NAME",
+  "msgstr": "მთავარი ბაქანი"
+ },
+ {
+  "msgid": "STATIONS_WATER_PASSENGER_DOCK_50_50_NAME",
+  "msgstr": "დიდი შენობა"
+ },
+ {
+  "msgid": "STATIONS_WATER_PEDESTRIAN_ENTRANCE_NAME",
+  "msgstr": "საფეხმავლო შესასვლელი"
+ },
+ {
+  "msgid": "STATIONS_WATER_SMALL_PIER_NAME",
+  "msgstr": "მცირე ნავმისადგომი"
+ }
+]

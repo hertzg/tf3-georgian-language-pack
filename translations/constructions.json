@@ -1,0 +1,306 @@
+[
+ {
+  "msgid": "DEPOTS_RAIL_DEPOT_NAME",
+  "msgstr": "სარკინიგზო დეპო"
+ },
+ {
+  "msgid": "DEPOTS_RAIL_MAINT_STATION_NAME",
+  "msgstr": "სარკინიგზო სარემონტო შენობა"
+ },
+ {
+  "msgid": "DEPOTS_ROAD_DEPOT_NAME",
+  "msgstr": "საავტომობილო დეპო"
+ },
+ {
+  "msgid": "DEPOTS_ROAD_MAINT_STATION_NAME",
+  "msgstr": "საავტომობილო სარემონტო შენობა"
+ },
+ {
+  "msgid": "DEPOTS_ROAD_TRAM_DEPOT_NAME",
+  "msgstr": "ტრამვაის დეპო"
+ },
+ {
+  "msgid": "DEPOTS_WATER_MAINT_STATION_NAME",
+  "msgstr": "გემების სარემონტო შენობა"
+ },
+ {
+  "msgid": "DEPOTS_WATER_SHIPYARD_NAME",
+  "msgstr": "გემების დეპო",
+  "note": "English says \"Ship Depot\", so it stays in the depot family: სარკინიგზო/საავტომობილო/ტრამვაის/გემების დეპო."
+ },
+ {
+  "msgid": "HARBOR_LARGE_NAME",
+  "msgstr": "დიდი სამგზავრო/სატვირთო პორტი"
+ },
+ {
+  "msgid": "HARBOR_SMALL_NAME",
+  "msgstr": "მცირე სამგზავრო/სატვირთო პორტი"
+ },
+ {
+  "msgid": "HQ_MODULE_CORNER_L_NAME",
+  "msgstr": "კუთხის შენობა"
+ },
+ {
+  "msgid": "HQ_MODULE_DOME_NAME",
+  "msgstr": "გუმბათი"
+ },
+ {
+  "msgid": "HQ_MODULE_FLAG_CORNER_L_NAME",
+  "msgstr": "დროშა"
+ },
+ {
+  "msgid": "HQ_MODULE_FLAG_GROUND_NAME",
+  "msgstr": "დროშა მიწაზე"
+ },
+ {
+  "msgid": "HQ_MODULE_FLAG_ROOF_L_NAME",
+  "msgstr": "დროშა სახურავზე"
+ },
+ {
+  "msgid": "HQ_MODULE_FOUNTAIN_L_NAME",
+  "msgstr": "დიდი შადრევანი"
+ },
+ {
+  "msgid": "HQ_MODULE_MAIN_NAME",
+  "msgstr": "მთავარი შენობა"
+ },
+ {
+  "msgid": "HQ_MODULE_MAZE_NAME",
+  "msgstr": "მწვანე ლაბირინთი"
+ },
+ {
+  "msgid": "HQ_MODULE_MODULE_L_NAME",
+  "msgstr": "დიდი შენობა"
+ },
+ {
+  "msgid": "HQ_MODULE_MODULE_M_NAME",
+  "msgstr": "საშუალო შენობა"
+ },
+ {
+  "msgid": "HQ_MODULE_MODULE_S_NAME",
+  "msgstr": "აივანი"
+ },
+ {
+  "msgid": "HQ_MODULE_POOL_NAME",
+  "msgstr": "აუზი"
+ },
+ {
+  "msgid": "HQ_MODULE_STATUE_NAME",
+  "msgstr": "ქანდაკება"
+ },
+ {
+  "msgid": "HQ_MODULE_TENNIS_COURT_NAME",
+  "msgstr": "ჩოგბურთის კორტი"
+ },
+ {
+  "msgid": "HQ_MODULE_TREE_OAK_NAME",
+  "msgstr": "უძველესი ხე"
+ },
+ {
+  "msgid": "INDUSTRIES_BREWERY_NAME",
+  "msgstr": "ლუდსახარში"
+ },
+ {
+  "msgid": "INDUSTRIES_BRICKS_WORKS_NAME",
+  "msgstr": "აგურის ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_CEMENT_PLANT_NAME",
+  "msgstr": "ცემენტის ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_CHEMICAL_PLANT_NAME",
+  "msgstr": "ქიმიური ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_CLAY_PIT_NAME",
+  "msgstr": "თიხის კარიერი"
+ },
+ {
+  "msgid": "INDUSTRIES_COAL_MINE_NAME",
+  "msgstr": "ქვანახშირის მაღარო"
+ },
+ {
+  "msgid": "INDUSTRIES_COCONUT_FARM_NAME",
+  "msgstr": "ქოქოსის პლანტაცია"
+ },
+ {
+  "msgid": "INDUSTRIES_COTTON_FARM_NAME",
+  "msgstr": "ბამბის პლანტაცია"
+ },
+ {
+  "msgid": "INDUSTRIES_DUMP_SITE_NAME",
+  "msgstr": "ნაგავსაყრელი",
+  "note": "Dropped 'Gravellona' (an Italian town name baked into the English); the engine prefixes the real town anyway: ნაგავსაყრელი „ვალე“."
+ },
+ {
+  "msgid": "INDUSTRIES_FARM_NAME",
+  "msgstr": "მარცვლეულის მეურნეობა"
+ },
+ {
+  "msgid": "INDUSTRIES_FISHING_GROUNDS_NAME",
+  "msgstr": "სათევზაო მეურნეობა",
+  "note": "Enterprise-style name so it reads well with a quoted town: სათევზაო მეურნეობა „ვალე“."
+ },
+ {
+  "msgid": "INDUSTRIES_FOOD_FACTORY_NAME",
+  "msgstr": "საკონსერვო ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_FOREST_NAME",
+  "msgstr": "ტყესაჭრელი უბანი"
+ },
+ {
+  "msgid": "INDUSTRIES_FURNITURE_FACTORY_NAME",
+  "msgstr": "ავეჯის ფაბრიკა"
+ },
+ {
+  "msgid": "INDUSTRIES_GLASS_WORKS_NAME",
+  "msgstr": "მინის ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_IRON_ORE_MINE_NAME",
+  "msgstr": "რკინის მადნის მაღარო"
+ },
+ {
+  "msgid": "INDUSTRIES_LIVESTOCK_FARM_NAME",
+  "msgstr": "მეცხოველეობის ფერმა"
+ },
+ {
+  "msgid": "INDUSTRIES_MACHINE_FACTORY_NAME",
+  "msgstr": "მანქანათმშენებელი ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_OIL_PLATFORM_NAME",
+  "msgstr": "ნავთობის პლატფორმა"
+ },
+ {
+  "msgid": "INDUSTRIES_OIL_REFINERY_NAME",
+  "msgstr": "ნავთობგადამამუშავებელი ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_OIL_WELL_NAME",
+  "msgstr": "ნავთობის ჭაბურღილი"
+ },
+ {
+  "msgid": "INDUSTRIES_PAPER_MILL_NAME",
+  "msgstr": "ქაღალდის ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_PRINTING_PRESS_NAME",
+  "msgstr": "სტამბა"
+ },
+ {
+  "msgid": "INDUSTRIES_QUARRY_NAME",
+  "msgstr": "ქვის კარიერი"
+ },
+ {
+  "msgid": "INDUSTRIES_RUBBER_FARM_NAME",
+  "msgstr": "კაუჩუკის პლანტაცია"
+ },
+ {
+  "msgid": "INDUSTRIES_SAND_EXCAVATOR_NAME",
+  "msgstr": "ქვიშის დრაგა"
+ },
+ {
+  "msgid": "INDUSTRIES_SAND_PIT_NAME",
+  "msgstr": "ქვიშის კარიერი"
+ },
+ {
+  "msgid": "INDUSTRIES_SAW_MILL_NAME",
+  "msgstr": "სახერხი"
+ },
+ {
+  "msgid": "INDUSTRIES_STEEL_MILL_NAME",
+  "msgstr": "ფოლადის ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_TEXTILE_FACTORY_NAME",
+  "msgstr": "ტექსტილის ფაბრიკა"
+ },
+ {
+  "msgid": "INDUSTRIES_TIRE_FACTORY_NAME",
+  "msgstr": "საბურავების ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_TOOL_FACTORY_NAME",
+  "msgstr": "ხელსაწყოების ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_VEHICLE_FACTORY_NAME",
+  "msgstr": "ავტომობილების ქარხანა"
+ },
+ {
+  "msgid": "INDUSTRIES_WEAVING_MILL_NAME",
+  "msgstr": "საქსოვი ფაბრიკა"
+ },
+ {
+  "msgid": "LANDMARK_ARENA_OF_VERONA_NAME",
+  "msgstr": "ამფითეატრი"
+ },
+ {
+  "msgid": "LANDMARK_EIFFEL_TOWER_NAME",
+  "msgstr": "ეიფელის კოშკი"
+ },
+ {
+  "msgid": "LANDMARK_GREATPYRAMID_NAME",
+  "msgstr": "დიდი პირამიდა"
+ },
+ {
+  "msgid": "LANDMARK_LIGHTHOUSE_NAME",
+  "msgstr": "დიდი შუქურა"
+ },
+ {
+  "msgid": "LANDMARK_NEUSCHWANSTEIN_NAME",
+  "msgstr": "ნოიშვანშტაინის ციხესიმაგრე"
+ },
+ {
+  "msgid": "LANDMARK_OPERA_HOUSE_NAME",
+  "msgstr": "ოპერის თეატრი"
+ },
+ {
+  "msgid": "LANDMARK_SHIP_MUSEUM_NAME",
+  "msgstr": "გემების მუზეუმი"
+ },
+ {
+  "msgid": "LANDMARK_STATUE_OF_LIBERTY_NAME",
+  "msgstr": "თავისუფლების ქანდაკება"
+ },
+ {
+  "msgid": "LANDMARK_SUMMER_PALACE_NAME",
+  "msgstr": "ზაფხულის სასახლე"
+ },
+ {
+  "msgid": "LANDMARK_TAJMAHAL_NAME",
+  "msgstr": "ტაჯ-მაჰალი"
+ },
+ {
+  "msgid": "LANDMARK_WESTMINSTER_NAME",
+  "msgstr": "ვესტმინსტერის სასახლე"
+ },
+ {
+  "msgid": "LANDMARK_WHITE_HERON_CASTLE_NAME",
+  "msgstr": "თეთრი ყანჩის ციხესიმაგრე"
+ },
+ {
+  "msgid": "WAREHOUSE_BULK_NAME",
+  "msgstr": "ნაყარი ტვირთის საწყობი"
+ },
+ {
+  "msgid": "WAREHOUSE_FLATBED_NAME",
+  "msgstr": "უბორტო ტვირთის საწყობი",
+  "note": "Flatbed = უბორტო (without sides), per native-speaker decision."
+ },
+ {
+  "msgid": "WAREHOUSE_GOODS_NAME",
+  "msgstr": "სასაქონლო საწყობი"
+ },
+ {
+  "msgid": "WAREHOUSE_LIQUID_NAME",
+  "msgstr": "თხევადი ტვირთის საწყობი"
+ },
+ {
+  "msgid": "WAREHOUSE_UNIVERSAL_NAME",
+  "msgstr": "უნივერსალური საწყობი"
+ }
+]

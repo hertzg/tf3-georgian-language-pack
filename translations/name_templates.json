@@ -1,0 +1,92 @@
+[
+ {
+  "msgid": "{constructionName} {subConstructionType}",
+  "msgstr": "{constructionName} – {subConstructionType}",
+  "note": "Dash keeps both parts nominative; exact content of subConstructionType unknown."
+ },
+ {
+  "msgid": "{stationName} #{number}",
+  "msgstr": "{stationName} #{number}"
+ },
+ {
+  "msgid": "{stationName} Annex",
+  "msgstr": "{stationName} – დამატებითი",
+  "note": "Georgian railway style: name, dash, adjective (like თბილისი-სამგზავრო)."
+ },
+ {
+  "msgid": "{stationName} Branch",
+  "msgstr": "{stationName} – განშტოება"
+ },
+ {
+  "msgid": "{stationName} Central",
+  "msgstr": "ცენტრალური {stationName}",
+  "note": "Prefix adjective: ცენტრალური სადგური „მცხეთა“."
+ },
+ {
+  "msgid": "{stationName} East",
+  "msgstr": "აღმოსავლეთ {stationName}",
+  "note": "Prefix form: აღმოსავლეთ სადგური „მცხეთა“."
+ },
+ {
+  "msgid": "{stationName} Exchange",
+  "msgstr": "{stationName} – კვანძი",
+  "note": "კვანძი = junction/hub."
+ },
+ {
+  "msgid": "{stationName} Halt",
+  "msgstr": "{stationName} – გაჩერება"
+ },
+ {
+  "msgid": "{stationName} North",
+  "msgstr": "ჩრდილოეთ {stationName}",
+  "note": "Prefix form: ჩრდილოეთ სადგური „მცხეთა“."
+ },
+ {
+  "msgid": "{stationName} Sidings",
+  "msgstr": "{stationName} – სასორტირებო",
+  "note": "Railway style, like თბილისი-სასორტირებო."
+ },
+ {
+  "msgid": "{stationName} South",
+  "msgstr": "სამხრეთ {stationName}"
+ },
+ {
+  "msgid": "{stationName} Transfer",
+  "msgstr": "{stationName} – გადასაჯდომი"
+ },
+ {
+  "msgid": "{stationName} West",
+  "msgstr": "დასავლეთ {stationName}"
+ },
+ {
+  "msgid": "{townName}",
+  "msgstr": "{townName}"
+ },
+ {
+  "msgid": "{townName} {constructionName}",
+  "msgstr": "{constructionName} „{townName}“",
+  "note": "Convention: type first, town as quoted apposition. სათევზაო მეურნეობა „ვალე“."
+ },
+ {
+  "msgid": "{townName} Signal #{number}",
+  "msgstr": "სიგნალი „{townName}“ #{number}"
+ },
+ {
+  "msgid": "{townName} Station",
+  "msgstr": "სადგური „{townName}“",
+  "note": "Like metro/rail announcements: სადგური „რუსთაველი“."
+ },
+ {
+  "msgid": "{townName} Waypoint #{number}",
+  "msgstr": "შუალედური წერტილი „{townName}“ #{number}",
+  "note": "Same term as the line-manager tooltip (Move waypoint to {name})."
+ },
+ {
+  "msgid": "Lower {stationName}",
+  "msgstr": "ქვედა {stationName}"
+ },
+ {
+  "msgid": "Upper {stationName}",
+  "msgstr": "ზედა {stationName}"
+ }
+]

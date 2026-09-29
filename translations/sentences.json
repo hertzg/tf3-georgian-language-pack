@@ -1,0 +1,377 @@
+[
+ {
+  "msgid": "{amount} Reputation in {townName}",
+  "msgstr": "{townName}: {amount} რეპუტაცია"
+ },
+ {
+  "msgid": "{amount} Level Progress in {townName}",
+  "msgstr": "{townName}: {amount} დონის პროგრესი"
+ },
+ {
+  "msgid": "{industryName} is looking for a reliable partner to transport its workforce. Transport passengers from nearby towns to {industryName} to boost its production.",
+  "msgstr": "{industryName} ეძებს სანდო პარტნიორს მუშახელის გადასაყვანად. უზრუნველყავით {industryName} მუშახელით ახლომდებარე დასახლებებიდან და გაზარდეთ მისი წარმოება."
+ },
+ {
+  "msgid": "A subsidy for transporting workers and boosting production of {industryName} is currently running.",
+  "msgstr": "{industryName}: მოქმედებს სუბსიდია მუშახელის გადაყვანასა და წარმოების გაზრდაზე."
+ },
+ {
+  "msgid": "Workers have been transported to {industryName} as agreed and now it is time to collect the much deserved reward.",
+  "msgstr": "{industryName} შეთანხმებისამებრ უზრუნველყოფილია მუშახელით. დროა, მიიღოთ დამსახურებული ჯილდო."
+ },
+ {
+  "msgid": "Workers for {industryName} are still awaiting transportation, breaching our contract. This failure will result in consequences as outlined in the agreement.",
+  "msgstr": "{industryName} კვლავ ელოდება მუშახელს, რაც ჩვენი ხელშეკრულების დარღვევაა. ამ წარუმატებლობას შეთანხმებით გათვალისწინებული შედეგები მოჰყვება."
+ },
+ {
+  "msgid": "The subsidy to transport workers to {industryName} has become unavailable. A missed opportunity, but the next one is sure to come.",
+  "msgstr": "{industryName} აღარ გთავაზობთ მუშახელის გადაყვანის სუბსიდიას. ხელიდან გაშვებული შესაძლებლობაა, მაგრამ შემდეგი აუცილებლად გამოჩნდება."
+ },
+ {
+  "msgid": "{industryName} is looking for a reputable transportation company that can support it with its logistical demands. Transport the required cargo to {industryName} to start its production.",
+  "msgstr": "{industryName} ეძებს კარგი რეპუტაციის მქონე სატრანსპორტო კომპანიას, რომელიც მის ლოჯისტიკურ საჭიროებებს დააკმაყოფილებს. მოამარაგეთ {industryName} საჭირო ტვირთით, რომ წარმოება დაიწყოს."
+ },
+ {
+  "msgid": "A subsidy to supply cargo to {industryName} is currently running.",
+  "msgstr": "{industryName}: მოქმედებს ტვირთის მიწოდების სუბსიდია."
+ },
+ {
+  "msgid": "There is an active reward effect for supplying {industryName} with cargo.",
+  "msgstr": "{industryName}: მოქმედებს ჯილდოს ეფექტი ტვირთის მიწოდებისთვის."
+ },
+ {
+  "msgid": "The required cargo supply to {industryName} has not been fulfilled, violating the terms of the subsidy agreement. Consequences will be applied as stipulated in the contract.",
+  "msgstr": "{industryName} საჭირო ტვირთით არ მომარაგდა, რაც სუბსიდიის შეთანხმების პირობების დარღვევაა. ამოქმედდება ხელშეკრულებით გათვალისწინებული შედეგები."
+ },
+ {
+  "msgid": "The subsidy to supply cargo to {industryName} has become unavailable. A missed opportunity, but the next one is sure to come.",
+  "msgstr": "{industryName} აღარ გთავაზობთ ტვირთის მიწოდების სუბსიდიას. ხელიდან გაშვებული შესაძლებლობაა, მაგრამ შემდეგი აუცილებლად გამოჩნდება."
+ },
+ {
+  "msgid": "{townName} requires a skilled logistics firm. Transport cargo to {townName} to supply it with the requested cargo.",
+  "msgstr": "{townName} საჭიროებს გამოცდილ ლოჯისტიკურ კომპანიას. მოამარაგეთ {townName} მოთხოვნილი ტვირთით."
+ },
+ {
+  "msgid": "A subsidy to supply {townName} with cargo is currently running.",
+  "msgstr": "{townName}: მოქმედებს ტვირთის მიწოდების სუბსიდია."
+ },
+ {
+  "msgid": "There is an active reward effect for supplying {townName} with cargo.",
+  "msgstr": "{townName}: მოქმედებს ჯილდოს ეფექტი ტვირთის მიწოდებისთვის."
+ },
+ {
+  "msgid": "The agreement to supply {townName} has not been fulfilled. This is unacceptable and will have consequences.",
+  "msgstr": "{townName} შეთანხმებისამებრ არ მომარაგდა. ეს მიუღებელია და შედეგებს გამოიწვევს."
+ },
+ {
+  "msgid": "The subsidy to supply {townName} has become unavailable. A missed opportunity, but the next one is sure to come.",
+  "msgstr": "{townName} აღარ გთავაზობთ მომარაგების სუბსიდიას. ხელიდან გაშვებული შესაძლებლობაა, მაგრამ შემდეგი აუცილებლად გამოჩნდება."
+ },
+ {
+  "msgid": "{fromTownName} is looking for a transport provider. Create a transfer-free connection between {fromTownName} and {toTownName} and transport passengers between the two towns.",
+  "msgstr": "{fromTownName} ეძებს გადამზიდავს. დააკავშირეთ {fromTownName} და {toTownName} გადაჯდომის გარეშე და გადაიყვანეთ მგზავრები ამ ორ დასახლებას შორის."
+ },
+ {
+  "msgid": "A subsidy to transport passengers between {fromTownName} and {toTownName} without transfer is currently running.",
+  "msgstr": "მოქმედებს სუბსიდია მგზავრების გადაჯდომის გარეშე გადაყვანაზე: {fromTownName} – {toTownName}."
+ },
+ {
+  "msgid": "There is an active reward effect for connecting {fromTownName} with {toTownName} transfer-free.",
+  "msgstr": "მოქმედებს ჯილდოს ეფექტი გადაჯდომის გარეშე მიმოსვლისთვის: {fromTownName} – {toTownName}."
+ },
+ {
+  "msgid": "The promised transfer-free public transport connection between {fromTownName} and {toTownName} has not been implemented, representing a failure to fulfill contractual obligations.",
+  "msgstr": "დაპირებული საზოგადოებრივი ტრანსპორტის მიმოსვლა გადაჯდომის გარეშე ({fromTownName} – {toTownName}) არ ამოქმედდა, რაც სახელშეკრულებო ვალდებულებების დარღვევაა."
+ },
+ {
+  "msgid": "The subsidy to connect {fromTownName} with {toTownName} transfer-free has become unavailable. A missed opportunity, but the next one is sure to come.",
+  "msgstr": "სუბსიდია გადაჯდომის გარეშე მიმოსვლისთვის ({fromTownName} – {toTownName}) აღარ არის ხელმისაწვდომი. ხელიდან გაშვებული შესაძლებლობაა, მაგრამ შემდეგი აუცილებლად გამოჩნდება."
+ },
+ {
+  "msgid": "Congratulations, you have just started the delivery of products requested by {townName}!",
+  "msgstr": "გილოცავთ! თქვენ ახლახან დაიწყეთ პროდუქციის მიწოდება, რომელსაც {townName} ითხოვს!"
+ },
+ {
+  "msgid": "Congratulations, you have just started delivering cargo requested by {industryName}!",
+  "msgstr": "გილოცავთ! თქვენ ახლახან დაიწყეთ ტვირთის მიწოდება, რომელსაც {industryName} ითხოვს!"
+ },
+ {
+  "msgid": "Congratulations, the first passenger just boarded a transit vehicle in {townName}!",
+  "msgstr": "გილოცავთ! {townName} უკვე სარგებლობს საზოგადოებრივი ტრანსპორტით – პირველი მგზავრი ახლახან ჩაჯდა!"
+ },
+ {
+  "msgid": "Congratulations, thanks to the excellent care, {townName} was able to grow steadily and reached a new level: {townType}.",
+  "msgstr": "გილოცავთ! თქვენი შესანიშნავი ზრუნვის წყალობით {townName} სტაბილურად გაიზარდა და ახალ საფეხურს მიაღწია: {townType}."
+ },
+ {
+  "msgid": "Reputation improved in {townName}.",
+  "msgstr": "{townName}: რეპუტაცია გაუმჯობესდა."
+ },
+ {
+  "msgid": "{stationName} is not connected to a road.",
+  "msgstr": "{stationName} არ არის დაკავშირებული გზასთან."
+ },
+ {
+  "msgid": "{name} is now available.",
+  "msgstr": "{name} უკვე ხელმისაწვდომია."
+ },
+ {
+  "msgid": "{name} are now available.",
+  "msgstr": "{name} უკვე ხელმისაწვდომია.",
+  "note": "Georgian uses the same form for singular and plural inanimate subjects."
+ },
+ {
+  "msgid": "{name} has hit the market and is now available for purchase.",
+  "msgstr": "{name} ბაზარზე გამოვიდა და უკვე შეგიძლიათ შეიძინოთ."
+ },
+ {
+  "msgid": "The road connection between {fromTownName} and {toTownName} has been interrupted.",
+  "msgstr": "საავტომობილო კავშირი გაწყდა: {fromTownName} – {toTownName}."
+ },
+ {
+  "msgid": "Travel time between {fromTownName} and {toTownName} is too long.",
+  "msgstr": "მგზავრობის დრო ძალიან დიდია: {fromTownName} – {toTownName}."
+ },
+ {
+  "msgid": "{stationName} is overcrowded, passengers will be leaving.",
+  "msgstr": "{stationName} გადატვირთულია, მგზავრები წასვლას იწყებენ."
+ },
+ {
+  "msgid": "The prospectors are gathering near {townName} to search for unexploited occurrences of resource \\\"{cargoName}\\\".",
+  "msgstr": "{townName}: გეოლოგები იკრიბებიან დასახლების შემოგარენში, რათა მოძებნონ რესურსის \\\"{cargoName}\\\" აუთვისებელი საბადოები."
+ },
+ {
+  "msgid": "After a long search, the prospectors had to give up the search near {townName} in frustration. No exploitable occurrences of resource \\\"{cargoName}\\\" could be found.",
+  "msgstr": "{townName}: ხანგრძლივი ძიების შემდეგ იმედგაცრუებულ გეოლოგებს დასახლების შემოგარენში ძიების შეწყვეტა მოუწიათ. რესურსის \\\"{cargoName}\\\" ათვისებადი საბადოები ვერ მოიძებნა."
+ },
+ {
+  "msgid": "The prospectors are celebrating themselves and their success. An unexploited occurrence of resource \\\"{cargoName}\\\" near {townName} has been discovered and a new industry will soon be founded.",
+  "msgstr": "{townName}: გეოლოგები თავიანთ წარმატებას ზეიმობენ. დასახლების შემოგარენში აღმოჩენილია რესურსის \\\"{cargoName}\\\" აუთვისებელი საბადო და მალე ახალი საწარმო დაარსდება."
+ },
+ {
+  "msgid": "A sophisticated marketing campaign has been launched in {townName}. While the campaign is running, residents are subtly enticed to use public transportation more often.",
+  "msgstr": "{townName}: დაიწყო დახვეწილი მარკეტინგული კამპანია. სანამ კამპანია მიმდინარეობს, მაცხოვრებლებს შეუმჩნევლად უბიძგებენ, უფრო ხშირად ისარგებლონ საზოგადოებრივი ტრანსპორტით."
+ },
+ {
+  "msgid": "The marketing campaign in {townName} has ended and the residents are once again using the means of transportation that makes the most sense to them.",
+  "msgstr": "{townName}: მარკეტინგული კამპანია დასრულდა და მაცხოვრებლები კვლავ იმ სატრანსპორტო საშუალებით სარგებლობენ, რომელიც მათთვის ყველაზე მიზანშეწონილია."
+ },
+ {
+  "msgid": "\\\"{name}\\\" is a key modifier only, this is not a valid key binding input.",
+  "msgstr": "\\\"{name}\\\" მხოლოდ მოდიფიკატორი კლავიშია – ცალკე მისი მინიჭება ბრძანებაზე არ შეიძლება."
+ },
+ {
+  "msgid": "{name}",
+  "msgstr": "{name}"
+ },
+ {
+  "msgid": "{name}: {value}",
+  "msgstr": "{name}: {value}"
+ },
+ {
+  "msgid": "Prospecting in {townName} is already in progress",
+  "msgstr": "{townName}: საბადოების ძიება უკვე მიმდინარეობს"
+ },
+ {
+  "msgid": "Start Marketing Campaign for {townName}",
+  "msgstr": "მარკეტინგული კამპანიის დაწყება: {townName}"
+ },
+ {
+  "msgid": "Greenify {industryName}",
+  "msgstr": "გამწვანება: {industryName}"
+ },
+ {
+  "msgid": "Add {name} terminal {index} here.",
+  "msgstr": "დაამატეთ აქ: {name}, ტერმინალი {index}."
+ },
+ {
+  "msgid": "Add {name} here.",
+  "msgstr": "დაამატეთ აქ: {name}."
+ },
+ {
+  "msgid": "Buy Vehicles At {name}",
+  "msgstr": "ტრანსპორტის შეძენა: {name}"
+ },
+ {
+  "msgid": "{name} ({message})",
+  "msgstr": "{name} ({message})"
+ },
+ {
+  "msgid": "#{sequence} - {name}",
+  "msgstr": "#{sequence} - {name}"
+ },
+ {
+  "msgid": "Select and Scroll to {lineName}",
+  "msgstr": "მონიშვნა და გადასვლა: {lineName}"
+ },
+ {
+  "msgid": "Select {name}.",
+  "msgstr": "მონიშნეთ {name}."
+ },
+ {
+  "msgid": "Add {name} to selection.",
+  "msgstr": "დაამატეთ {name} მონიშნულებს."
+ },
+ {
+  "msgid": "Remove {name} from selection.",
+  "msgstr": "ამოიღეთ {name} მონიშნულებიდან."
+ },
+ {
+  "msgid": "Add {name} to list.",
+  "msgstr": "დაამატეთ {name} სიაში."
+ },
+ {
+  "msgid": "Remove {name} from list.",
+  "msgstr": "ამოიღეთ {name} სიიდან."
+ },
+ {
+  "msgid": "Buy vehicles at {name}.",
+  "msgstr": "შეიძინეთ ტრანსპორტი: {name}."
+ },
+ {
+  "msgid": "Remove vehicles in {name} from list.",
+  "msgstr": "{name}: ამოიღეთ ტრანსპორტი სიიდან."
+ },
+ {
+  "msgid": "Add vehicles in {name} to list.",
+  "msgstr": "{name}: დაამატეთ ტრანსპორტი სიაში."
+ },
+ {
+  "msgid": "Open {name}.",
+  "msgstr": "გახსენით {name}."
+ },
+ {
+  "msgid": "Create new line starting at {name}.",
+  "msgstr": "შექმენით ახალი ხაზი საწყისი გაჩერებით: {name}."
+ },
+ {
+  "msgid": "{name} terminal {index}",
+  "msgstr": "{name}, ტერმინალი {index}"
+ },
+ {
+  "msgid": "Move stop to {name}.",
+  "msgstr": "გადაიტანეთ გაჩერება აქ: {name}."
+ },
+ {
+  "msgid": "Buy vehicles for {lineName} at {depotName}.",
+  "msgstr": "შეიძინეთ ტრანსპორტი. ხაზი: {lineName}, დეპო: {depotName}."
+ },
+ {
+  "msgid": "Move waypoint to {name}.",
+  "msgstr": "გადაიტანეთ შუალედური წერტილი აქ: {name}."
+ },
+ {
+  "msgid": "Add stop at {name} terminal {index}.",
+  "msgstr": "დაამატეთ გაჩერება: {name}, ტერმინალი {index}."
+ },
+ {
+  "msgid": "Add stop at {name}.",
+  "msgstr": "დაამატეთ გაჩერება: {name}."
+ },
+ {
+  "msgid": "{name}: Not Enough Power",
+  "msgstr": "{name}: არასაკმარისი სიმძლავრე"
+ },
+ {
+  "msgid": "{name}: {speed} (in {time} or {distance})",
+  "msgstr": "{name}: {speed} (დარჩენილია {time} ან {distance})"
+ },
+ {
+  "msgid": "Home",
+  "msgstr": "სახლი"
+ },
+ {
+  "msgid": "Shop",
+  "msgstr": "მაღაზია"
+ },
+ {
+  "msgid": "Work",
+  "msgstr": "სამსახური"
+ },
+ {
+  "msgid": "Unhappy",
+  "msgstr": "უკმაყოფილო"
+ },
+ {
+  "msgid": "Happy",
+  "msgstr": "კმაყოფილი"
+ },
+ {
+  "msgid": "Walking",
+  "msgstr": "ფეხით სიარული"
+ },
+ {
+  "msgid": "Driving",
+  "msgstr": "მანქანით მგზავრობა"
+ },
+ {
+  "msgid": "At Home",
+  "msgstr": "სახლში"
+ },
+ {
+  "msgid": "Shopping",
+  "msgstr": "საყიდლებზე"
+ },
+ {
+  "msgid": "At Work",
+  "msgstr": "სამსახურში"
+ },
+ {
+  "msgid": "Waiting at Station",
+  "msgstr": "სადგურზე ლოდინი"
+ },
+ {
+  "msgid": "Riding Vehicle",
+  "msgstr": "ტრანსპორტით მგზავრობა"
+ },
+ {
+  "msgid": "This resident is happy.",
+  "msgstr": "ეს მაცხოვრებელი კმაყოფილია."
+ },
+ {
+  "msgid": "Locations",
+  "msgstr": "ადგილები"
+ },
+ {
+  "msgid": "CALLOUT_SIMPERSON_LOCATIONS",
+  "msgstr": "მაცხოვრებლის სახლი, სამსახური და მაღაზია, რომელსაც ის სტუმრობს.",
+  "note": "No English text exists: the call in sim_person_eow is commented out, so the game never shows this. Wrote a short description in case it's enabled."
+ },
+ {
+  "msgid": "Happiness",
+  "msgstr": "კმაყოფილება"
+ },
+ {
+  "msgid": "CALLOUT_SIMPERSON_HAPPINESS",
+  "msgstr": "რამდენად კმაყოფილია მაცხოვრებელი და როგორ იცვლება მისი განწყობა.",
+  "note": "No English text exists: commented out in the game source, never shown. Short description written."
+ },
+ {
+  "msgid": "CALLOUT_SIMPERSON_HAPPINESSLOG",
+  "msgstr": "რა მოქმედებდა ბოლო დროს მაცხოვრებლის კმაყოფილებაზე.",
+  "note": "No English text exists: commented out in the game source, never shown. Short description written."
+ },
+ {
+  "msgid": "Current Route",
+  "msgstr": "მიმდინარე მარშრუტი"
+ },
+ {
+  "msgid": "CALLOUT_SIMPERSON_CURRENTROUTE",
+  "msgstr": "საიდან სად მიდის მაცხოვრებელი ახლა და რითი მგზავრობს.",
+  "note": "No English text exists: commented out in the game source, never shown. Short description written."
+ },
+ {
+  "msgid": "{from} – {to}",
+  "msgstr": "{from} – {to}",
+  "note": "Kept as a dash: reads as სახლი – სამსახური on the resident page. The same msgid is also the year range in the vehicle store (1850 – 1900), which the dash suits too."
+ },
+ {
+  "msgid": "From",
+  "msgstr": "საიდან"
+ },
+ {
+  "msgid": "To",
+  "msgstr": "სად",
+  "note": "Pairs with საიდან, as on Georgian ticketing sites."
+ }
+]
