@@ -141,7 +141,7 @@
  },
  {
   "msgid": "Sheet Metal",
-  "msgstr": "ფურცლოვანი ლითონი"
+  "msgstr": "ლითონის ფირფიტა"
  },
  {
   "msgid": "Steel",
@@ -182,8 +182,7 @@
  },
  {
   "msgid": "Road Vehicle {number}",
-  "msgstr": "ავტომობილი {number}",
-  "note": "Covers buses and trucks too (ავტობუსი/სატვირთო ავტომობილი are kinds of ავტომობილი)."
+  "msgstr": "საგზაო ტრანსპორტი {number}"
  },
  {
   "msgid": "Ship {number}",

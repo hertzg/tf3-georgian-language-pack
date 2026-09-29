@@ -9,11 +9,11 @@
  },
  {
   "msgid": "{industryName} is looking for a reliable partner to transport its workforce. Transport passengers from nearby towns to {industryName} to boost its production.",
-  "msgstr": "{industryName} ეძებს სანდო პარტნიორს მუშახელის გადასაყვანად. უზრუნველყავით {industryName} მუშახელით ახლომდებარე დასახლებებიდან და გაზარდეთ მისი წარმოება."
+  "msgstr": "{industryName} ეძებს სანდო პარტნიორს მუშახელის გადასაყვანად. უზრუნველყავით {industryName} მუშახელით ახლომდებარე დასახლებული პუნქტებიდან და გაზარდეთ მისი წარმოება."
  },
  {
   "msgid": "A subsidy for transporting workers and boosting production of {industryName} is currently running.",
-  "msgstr": "{industryName}: მოქმედებს სუბსიდია მუშახელის გადაყვანასა და წარმოების გაზრდაზე."
+  "msgstr": "{industryName} – მოქმედებს სუბსიდია მუშახელის გადაყვანასა და წარმოების გაზრდაზე."
  },
  {
   "msgid": "Workers have been transported to {industryName} as agreed and now it is time to collect the much deserved reward.",
@@ -33,11 +33,11 @@
  },
  {
   "msgid": "A subsidy to supply cargo to {industryName} is currently running.",
-  "msgstr": "{industryName}: მოქმედებს ტვირთის მიწოდების სუბსიდია."
+  "msgstr": "{industryName} – მოქმედებს ტვირთის მიწოდების სუბსიდია."
  },
  {
   "msgid": "There is an active reward effect for supplying {industryName} with cargo.",
-  "msgstr": "{industryName}: მოქმედებს ჯილდოს ეფექტი ტვირთის მიწოდებისთვის."
+  "msgstr": "{industryName} – მოქმედებს ჯილდოს ეფექტი ტვირთის მიწოდებისთვის."
  },
  {
   "msgid": "The required cargo supply to {industryName} has not been fulfilled, violating the terms of the subsidy agreement. Consequences will be applied as stipulated in the contract.",
@@ -69,7 +69,7 @@
  },
  {
   "msgid": "{fromTownName} is looking for a transport provider. Create a transfer-free connection between {fromTownName} and {toTownName} and transport passengers between the two towns.",
-  "msgstr": "{fromTownName} ეძებს გადამზიდავს. დააკავშირეთ {fromTownName} და {toTownName} გადაჯდომის გარეშე და გადაიყვანეთ მგზავრები ამ ორ დასახლებას შორის."
+  "msgstr": "{fromTownName} ეძებს გადამზიდავს. დააკავშირეთ {fromTownName} და {toTownName} გადაჯდომის გარეშე და გადაიყვანეთ მგზავრები ამ ორ დასახლებულ პუნქტს შორის."
  },
  {
   "msgid": "A subsidy to transport passengers between {fromTownName} and {toTownName} without transfer is currently running.",
@@ -138,15 +138,15 @@
  },
  {
   "msgid": "The prospectors are gathering near {townName} to search for unexploited occurrences of resource \\\"{cargoName}\\\".",
-  "msgstr": "{townName}: გეოლოგები იკრიბებიან დასახლების შემოგარენში, რათა მოძებნონ რესურსის \\\"{cargoName}\\\" აუთვისებელი საბადოები."
+  "msgstr": "{townName}: გეოლოგები იკრიბებიან დასახლებული პუნქტის შემოგარენში, რათა მოძებნონ რესურსის \\\"{cargoName}\\\" აუთვისებელი საბადოები."
  },
  {
   "msgid": "After a long search, the prospectors had to give up the search near {townName} in frustration. No exploitable occurrences of resource \\\"{cargoName}\\\" could be found.",
-  "msgstr": "{townName}: ხანგრძლივი ძიების შემდეგ იმედგაცრუებულ გეოლოგებს დასახლების შემოგარენში ძიების შეწყვეტა მოუწიათ. რესურსის \\\"{cargoName}\\\" ათვისებადი საბადოები ვერ მოიძებნა."
+  "msgstr": "{townName}: ხანგრძლივი ძიების შემდეგ იმედგაცრუებულ გეოლოგებს დასახლებული პუნქტის შემოგარენში ძიების შეწყვეტა მოუწიათ. რესურსის \\\"{cargoName}\\\" ათვისებადი საბადოები ვერ მოიძებნა."
  },
  {
   "msgid": "The prospectors are celebrating themselves and their success. An unexploited occurrence of resource \\\"{cargoName}\\\" near {townName} has been discovered and a new industry will soon be founded.",
-  "msgstr": "{townName}: გეოლოგები თავიანთ წარმატებას ზეიმობენ. დასახლების შემოგარენში აღმოჩენილია რესურსის \\\"{cargoName}\\\" აუთვისებელი საბადო და მალე ახალი საწარმო დაარსდება."
+  "msgstr": "{townName}: გეოლოგები თავიანთ წარმატებას ზეიმობენ. დასახლებული პუნქტის შემოგარენში აღმოჩენილია რესურსის \\\"{cargoName}\\\" აუთვისებელი საბადო და მალე ახალი საწარმო დაარსდება."
  },
  {
   "msgid": "A sophisticated marketing campaign has been launched in {townName}. While the campaign is running, residents are subtly enticed to use public transportation more often.",
@@ -230,11 +230,11 @@
  },
  {
   "msgid": "Remove vehicles in {name} from list.",
-  "msgstr": "{name}: ამოიღეთ სატრანსპორტო საშუალებები სიიდან."
+  "msgstr": "{name} – ამოიღეთ სატრანსპორტო საშუალებები სიიდან."
  },
  {
   "msgid": "Add vehicles in {name} to list.",
-  "msgstr": "{name}: დაამატეთ სატრანსპორტო საშუალებები სიაში."
+  "msgstr": "{name} – დაამატეთ სატრანსპორტო საშუალებები სიაში."
  },
  {
   "msgid": "Open {name}.",

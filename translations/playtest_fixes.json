@@ -1,0 +1,26 @@
+[
+ {
+  "msgid": "HEADQUARTERS_NAME",
+  "msgstr": "სათაო ოფისი"
+ },
+ {
+  "msgid": "Industries",
+  "msgstr": "საწარმოები"
+ },
+ {
+  "msgid": "Stations",
+  "msgstr": "სადგურები"
+ },
+ {
+  "msgid": "Towns",
+  "msgstr": "ქალაქები"
+ },
+ {
+  "msgid": "Lines",
+  "msgstr": "ხაზები"
+ },
+ {
+  "msgid": "Depots",
+  "msgstr": "დეპოები"
+ }
+]

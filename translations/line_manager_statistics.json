@@ -1,0 +1,1208 @@
+[
+ {
+  "msgid": "Terminals for Stop {stopnumber}",
+  "msgstr": "გაჩერება {stopnumber}: ტერმინალები"
+ },
+ {
+  "msgid": "Don't Use",
+  "msgstr": "არ გამოიყენება",
+  "note": "Terminal usage option."
+ },
+ {
+  "msgid": "Alternative",
+  "msgstr": "ალტერნატიული"
+ },
+ {
+  "msgid": "Preferred",
+  "msgstr": "პრიორიტეტული"
+ },
+ {
+  "msgid": "Set Terminal Usage",
+  "msgstr": "ტერმინალების გამოყენების მორგება"
+ },
+ {
+  "msgid": "Drag and drop failed.",
+  "msgstr": "გადატანა ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Rename Stop",
+  "msgstr": "გაჩერების გადარქმევა"
+ },
+ {
+  "msgid": "Locate Stop",
+  "msgstr": "გაჩერების ჩვენება რუკაზე",
+  "note": "Locate = jump the camera to it; რუკაზე ჩვენება used for every Locate."
+ },
+ {
+  "msgid": "Locate Waypoint",
+  "msgstr": "შუალედური წერტილის ჩვენება რუკაზე",
+  "note": "Waypoint = შუალედური წერტილი, as in the waypoint name template."
+ },
+ {
+  "msgid": "Configure Stop",
+  "msgstr": "გაჩერების მორგება"
+ },
+ {
+  "msgid": "Move Stop",
+  "msgstr": "გაჩერების გადატანა"
+ },
+ {
+  "msgid": "Move Waypoint",
+  "msgstr": "შუალედური წერტილის გადატანა"
+ },
+ {
+  "msgid": "Select Terminals",
+  "msgstr": "ტერმინალების არჩევა"
+ },
+ {
+  "msgid": "Remove Waypoint",
+  "msgstr": "შუალედური წერტილის წაშლა"
+ },
+ {
+  "msgid": "Remove Stop",
+  "msgstr": "გაჩერების წაშლა"
+ },
+ {
+  "msgid": "Select this line section.",
+  "msgstr": "აირჩიეთ ხაზის ეს მონაკვეთი."
+ },
+ {
+  "msgid": "Add the next stop here by selecting a station in the world.",
+  "msgstr": "შემდეგი გაჩერების აქ დასამატებლად აირჩიეთ სადგური რუკაზე."
+ },
+ {
+  "msgid": "Add the next waypoint here by selecting a location in the world.",
+  "msgstr": "შემდეგი შუალედური წერტილის აქ დასამატებლად აირჩიეთ ადგილი რუკაზე."
+ },
+ {
+  "msgid": "Waypoint",
+  "msgstr": "შუალედური წერტილი"
+ },
+ {
+  "msgid": "No path to stop exists.",
+  "msgstr": "გაჩერებამდე გზა არ არსებობს."
+ },
+ {
+  "msgid": "The same station appears twice consecutively.",
+  "msgstr": "ერთი და იგივე სადგური ზედიზედ ორჯერ მეორდება."
+ },
+ {
+  "msgid": "The stop is incompatible.",
+  "msgstr": "გაჩერება შეუთავსებელია."
+ },
+ {
+  "msgid": "No path from {origin} to {destination}: {reason}.",
+  "msgstr": "გზა არ არსებობს: {origin} → {destination}. მიზეზი: {reason}.",
+  "note": "Station names stay nominative: from/to is shown with an arrow instead of case endings (-დან / -მდე)."
+ },
+ {
+  "msgid": "No path from {origin} to {destination} exists.",
+  "msgstr": "გზა არ არსებობს: {origin} → {destination}."
+ },
+ {
+  "msgid": "No path from {origin} to {destination} [Terminal {terminalDestination}]: {reason}.",
+  "msgstr": "გზა არ არსებობს: {origin} → {destination} [ტერმინალი {terminalDestination}]. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "No path from {origin} to {destination} [Terminal {terminalDestination}] exists.",
+  "msgstr": "გზა არ არსებობს: {origin} → {destination} [ტერმინალი {terminalDestination}]."
+ },
+ {
+  "msgid": "No path from {origin} [Terminal {terminalOrigin}] to {destination}: {reason}.",
+  "msgstr": "გზა არ არსებობს: {origin} [ტერმინალი {terminalOrigin}] → {destination}. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "No path from {origin} [Terminal {terminalOrigin}] to {destination} exists.",
+  "msgstr": "გზა არ არსებობს: {origin} [ტერმინალი {terminalOrigin}] → {destination}."
+ },
+ {
+  "msgid": "No path from {origin} [Terminal {terminalOrigin}] to {destination} [Terminal {terminalDestination}]: {reason}.",
+  "msgstr": "გზა არ არსებობს: {origin} [ტერმინალი {terminalOrigin}] → {destination} [ტერმინალი {terminalDestination}]. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "No path from {origin} [Terminal {terminalOrigin}] to {destination} [Terminal {terminalDestination}] exists.",
+  "msgstr": "გზა არ არსებობს: {origin} [ტერმინალი {terminalOrigin}] → {destination} [ტერმინალი {terminalDestination}]."
+ },
+ {
+  "msgid": "No path from alternative stop {origin} [Terminal {terminalOrigin}] to alternative {destination} [Terminal {terminalDestination}] exists: {reason}.",
+  "msgstr": "გზა არ არსებობს: ალტერნატიული გაჩერება {origin} [ტერმინალი {terminalOrigin}] → ალტერნატიული გაჩერება {destination} [ტერმინალი {terminalDestination}]. მიზეზი: {reason}.",
+  "note": "Apposition: the noun ალტერნატიული გაჩერება is followed by the nominative name."
+ },
+ {
+  "msgid": "No path from alternative stop {origin} [Terminal {terminalOrigin}] to alternative {destination} [Terminal {terminalDestination}] exists.",
+  "msgstr": "გზა არ არსებობს: ალტერნატიული გაჩერება {origin} [ტერმინალი {terminalOrigin}] → ალტერნატიული გაჩერება {destination} [ტერმინალი {terminalDestination}]."
+ },
+ {
+  "msgid": "No path from alternative stop {origin} [Terminal {terminalOrigin}] to {destination} [Terminal {terminalDestination}] exists: {reason}.",
+  "msgstr": "გზა არ არსებობს: ალტერნატიული გაჩერება {origin} [ტერმინალი {terminalOrigin}] → {destination} [ტერმინალი {terminalDestination}]. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "No path from alternative stop {origin} [Terminal {terminalOrigin}] to {destination} [Terminal {terminalDestination}] exists.",
+  "msgstr": "გზა არ არსებობს: ალტერნატიული გაჩერება {origin} [ტერმინალი {terminalOrigin}] → {destination} [ტერმინალი {terminalDestination}]."
+ },
+ {
+  "msgid": "No path from {origin} [Terminal {terminalOrigin}] to alternative stop {destination} [Terminal {terminalDestination}] exists: {reason}.",
+  "msgstr": "გზა არ არსებობს: {origin} [ტერმინალი {terminalOrigin}] → ალტერნატიული გაჩერება {destination} [ტერმინალი {terminalDestination}]. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "No path from {origin} [Terminal {terminalOrigin}] to alternative stop {destination} [Terminal {terminalDestination}] exists.",
+  "msgstr": "გზა არ არსებობს: {origin} [ტერმინალი {terminalOrigin}] → ალტერნატიული გაჩერება {destination} [ტერმინალი {terminalDestination}]."
+ },
+ {
+  "msgid": "{cost}/year",
+  "msgstr": "{cost}/წელი"
+ },
+ {
+  "msgid": "Horse",
+  "msgstr": "ცხენი",
+  "note": "Engine type filter in the vehicle store."
+ },
+ {
+  "msgid": "Steam",
+  "msgstr": "ორთქლი"
+ },
+ {
+  "msgid": "Diesel",
+  "msgstr": "დიზელი"
+ },
+ {
+  "msgid": "Electric",
+  "msgstr": "ელექტრო",
+  "note": "As used for fuel types in Georgian car listings (ბენზინი / დიზელი / ელექტრო)."
+ },
+ {
+  "msgid": "Large",
+  "msgstr": "დიდი"
+ },
+ {
+  "msgid": "Small",
+  "msgstr": "პატარა"
+ },
+ {
+  "msgid": "Weight",
+  "msgstr": "წონა"
+ },
+ {
+  "msgid": "Length",
+  "msgstr": "სიგრძე"
+ },
+ {
+  "msgid": "Tractive Effort",
+  "msgstr": "წევის ძალა"
+ },
+ {
+  "msgid": "New Vehicle",
+  "msgstr": "ახალი სატრანსპორტო საშუალება"
+ },
+ {
+  "msgid": "Vehicles To Replace",
+  "msgstr": "ჩასანაცვლებელი სატრანსპორტო საშუალებები"
+ },
+ {
+  "msgid": "No Description",
+  "msgstr": "აღწერა არ არის"
+ },
+ {
+  "msgid": "Can use tram and rail tracks.",
+  "msgstr": "შეუძლია იმოძრაოს როგორც ტრამვაის, ისე სარკინიგზო ლიანდაგზე."
+ },
+ {
+  "msgid": "Light Rail",
+  "msgstr": "მსუბუქი რელსური ტრანსპორტი"
+ },
+ {
+  "msgid": "Reversible Vehicle",
+  "msgstr": "ორმხრივი მოძრაობის სატრანსპორტო საშუალება",
+  "note": "Can drive in both directions without turning around."
+ },
+ {
+  "msgid": "There are no vehicles matching this category.",
+  "msgstr": "ამ კატეგორიის სატრანსპორტო საშუალებები არ მოიძებნა."
+ },
+ {
+  "msgid": "Year of Availability",
+  "msgstr": "ხელმისაწვდომობის წელი"
+ },
+ {
+  "msgid": "Total Capacity",
+  "msgstr": "ჯამური ტევადობა"
+ },
+ {
+  "msgid": "Load Speed",
+  "msgstr": "დატვირთვის სიჩქარე",
+  "note": "Same as Loading Speed."
+ },
+ {
+  "msgid": "Cost",
+  "msgstr": "ღირებულება"
+ },
+ {
+  "msgid": "Ascending",
+  "msgstr": "ზრდადობით"
+ },
+ {
+  "msgid": "Descending",
+  "msgstr": "კლებადობით"
+ },
+ {
+  "msgid": "Search...",
+  "msgstr": "ძიება..."
+ },
+ {
+  "msgid": "Table Layout",
+  "msgstr": "ცხრილის ხედი"
+ },
+ {
+  "msgid": "Locomotive",
+  "msgstr": "ლოკომოტივი"
+ },
+ {
+  "msgid": "Wagon",
+  "msgstr": "ვაგონი"
+ },
+ {
+  "msgid": "Multiple Unit",
+  "msgstr": "მოტორვაგონიანი მატარებელი"
+ },
+ {
+  "msgid": "Railcar",
+  "msgstr": "თვითმავალი ვაგონი",
+  "note": "Single self-propelled rail car; avoids the Russian loan ავტომოტრისა."
+ },
+ {
+  "msgid": "Compare",
+  "msgstr": "შედარება"
+ },
+ {
+  "msgid": "Remove",
+  "msgstr": "წაშლა"
+ },
+ {
+  "msgid": "Capacity",
+  "msgstr": "ტევადობა"
+ },
+ {
+  "msgid": "Performance",
+  "msgstr": "მახასიათებლები",
+  "note": "Vehicle store tab with speed, power and similar values."
+ },
+ {
+  "msgid": "Vehicles To Replace:",
+  "msgstr": "ჩასანაცვლებელი სატრანსპორტო საშუალებები:"
+ },
+ {
+  "msgid": "Composition has no vehicle with engine.",
+  "msgstr": "შემადგენლობაში ძრავიანი სატრანსპორტო საშუალება არ არის."
+ },
+ {
+  "msgid": " (Not Enough Money)",
+  "msgstr": " (არასაკმარისი თანხა)"
+ },
+ {
+  "msgid": "Vehicles Are Not Valid",
+  "msgstr": "სატრანსპორტო საშუალებები არ გამოდგება"
+ },
+ {
+  "msgid": "Not Enough Money",
+  "msgstr": "არასაკმარისი თანხა"
+ },
+ {
+  "msgid": "Replace Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებების ჩანაცვლება"
+ },
+ {
+  "msgid": "Modify Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებების შეცვლა"
+ },
+ {
+  "msgid": "Remove Alternative Terminal",
+  "msgstr": "ალტერნატიული ტერმინალის წაშლა"
+ },
+ {
+  "msgid": "Add Alternative Terminal",
+  "msgstr": "ალტერნატიული ტერმინალის დამატება"
+ },
+ {
+  "msgid": "{countFeedback} Additional Feedback Messages",
+  "msgstr": "კიდევ {countFeedback} შეტყობინება",
+  "note": "Number before the noun, noun singular, so it reads right for any count."
+ },
+ {
+  "msgid": "+{countFeedback}",
+  "msgstr": "+{countFeedback}"
+ },
+ {
+  "msgid": "Cancel",
+  "msgstr": "გაუქმება"
+ },
+ {
+  "msgid": "Dismiss",
+  "msgstr": "დახურვა"
+ },
+ {
+  "msgid": "Assigned Line",
+  "msgstr": "დანიშნული ხაზი",
+  "note": "The line a vehicle is assigned to."
+ },
+ {
+  "msgid": "Locate",
+  "msgstr": "რუკაზე ჩვენება"
+ },
+ {
+  "msgid": "Rename",
+  "msgstr": "გადარქმევა"
+ },
+ {
+  "msgid": "Going to {depotName}",
+  "msgstr": "მიემართება: {depotName}",
+  "note": "Colon keeps the depot name nominative; matches Going to Depot = მიემართება დეპოში."
+ },
+ {
+  "msgid": "Select",
+  "msgstr": "არჩევა"
+ },
+ {
+  "msgid": "Prefer Waypoints",
+  "msgstr": "უპირატესობა შუალედურ წერტილებს"
+ },
+ {
+  "msgid": "Cancel Moving Stop",
+  "msgstr": "გაჩერების გადატანის გაუქმება"
+ },
+ {
+  "msgid": "Cancel Moving Waypoint",
+  "msgstr": "შუალედური წერტილის გადატანის გაუქმება"
+ },
+ {
+  "msgid": "New Line",
+  "msgstr": "ახალი ხაზი"
+ },
+ {
+  "msgid": "Select Line",
+  "msgstr": "ხაზის არჩევა"
+ },
+ {
+  "msgid": "Select Depot",
+  "msgstr": "დეპოს არჩევა"
+ },
+ {
+  "msgid": "Open Line Window",
+  "msgstr": "ხაზის ფანჯრის გახსნა"
+ },
+ {
+  "msgid": "Rename Line",
+  "msgstr": "ხაზის გადარქმევა"
+ },
+ {
+  "msgid": "Locate Line",
+  "msgstr": "ხაზის ჩვენება რუკაზე"
+ },
+ {
+  "msgid": "Delete Line",
+  "msgstr": "ხაზის წაშლა"
+ },
+ {
+  "msgid": "Cannot delete line.",
+  "msgstr": "ხაზის წაშლა შეუძლებელია."
+ },
+ {
+  "msgid": "Deleting the line will sell all vehicles on the line.",
+  "msgstr": "ხაზის წაშლისას მასზე მომუშავე ყველა სატრანსპორტო საშუალება გაიყიდება."
+ },
+ {
+  "msgid": "Delete",
+  "msgstr": "წაშლა"
+ },
+ {
+  "msgid": "Open Depot Window",
+  "msgstr": "დეპოს ფანჯრის გახსნა"
+ },
+ {
+  "msgid": "Rename Depot",
+  "msgstr": "დეპოს გადარქმევა"
+ },
+ {
+  "msgid": "Locate Depot",
+  "msgstr": "დეპოს ჩვენება რუკაზე"
+ },
+ {
+  "msgid": "Buy Vehicles In Depot",
+  "msgstr": "დეპოში სატრანსპორტო საშუალებების შეძენა"
+ },
+ {
+  "msgid": "Show Road Lines",
+  "msgstr": "საავტომობილო ხაზების ჩვენება",
+  "note": "საავტომობილო as in Road Station / Road Depot."
+ },
+ {
+  "msgid": "Show Tram Lines",
+  "msgstr": "ტრამვაის ხაზების ჩვენება"
+ },
+ {
+  "msgid": "Show Train Lines",
+  "msgstr": "სარკინიგზო ხაზების ჩვენება"
+ },
+ {
+  "msgid": "Show Ship Lines",
+  "msgstr": "საზღვაო ხაზების ჩვენება"
+ },
+ {
+  "msgid": "Show Air Lines",
+  "msgstr": "საჰაერო ხაზების ჩვენება"
+ },
+ {
+  "msgid": "No lines or depots exist.",
+  "msgstr": "ხაზები და დეპოები ჯერ არ არის."
+ },
+ {
+  "msgid": "{autoRename} - {select}",
+  "msgstr": "{autoRename} - {select}"
+ },
+ {
+  "msgid": "Buy Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებების შეძენა"
+ },
+ {
+  "msgid": "Set color for multiple lines?",
+  "msgstr": "დავაყენოთ ფერი რამდენიმე ხაზისთვის?"
+ },
+ {
+  "msgid": "Set Color",
+  "msgstr": "ფერის დაყენება"
+ },
+ {
+  "msgid": "Maximum load of all vehicles combined.",
+  "msgstr": "ყველა სატრანსპორტო საშუალების ჯამური მაქსიმალური ტევადობა.",
+  "note": "Tooltip for Capacity."
+ },
+ {
+  "msgid": "{count}",
+  "msgstr": "{count}"
+ },
+ {
+  "msgid": "Utilization",
+  "msgstr": "გამოყენება",
+  "note": "User's choice: Utilization = დატვირთვა."
+ },
+ {
+  "msgid": "Percentage of the capacity that is currently used.",
+  "msgstr": "ტევადობის რა ნაწილია ამჟამად გამოყენებული, პროცენტებში."
+ },
+ {
+  "msgid": "Frequency",
+  "msgstr": "ინტერვალი",
+  "note": "Same as Frequency: {count} = ინტერვალი: the game shows a time between vehicles, which Georgian transport calls ინტერვალი."
+ },
+ {
+  "msgid": "Time interval between the vehicles.",
+  "msgstr": "დროის ინტერვალი სატრანსპორტო საშუალებებს შორის."
+ },
+ {
+  "msgid": "Rate",
+  "msgstr": "გამტარობა",
+  "note": "Same as Rate: {count} = გამტარობა: yearly transport capacity of the line."
+ },
+ {
+  "msgid": "Amount of cargo or passengers a line can transport per year.",
+  "msgstr": "ტვირთის ან მგზავრების რაოდენობა, რომლის გადაზიდვაც ხაზს წელიწადში შეუძლია."
+ },
+ {
+  "msgid": "Annual profit or loss.",
+  "msgstr": "წლიური მოგება ან ზარალი."
+ },
+ {
+  "msgid": "No line or depot selected.",
+  "msgstr": "ხაზი ან დეპო არჩეული არ არის."
+ },
+ {
+  "msgid": "Select a line or depot.",
+  "msgstr": "აირჩიეთ ხაზი ან დეპო."
+ },
+ {
+  "msgid": "Creating New Line",
+  "msgstr": "ახალი ხაზის შექმნა"
+ },
+ {
+  "msgid": "Add stations by selecting them in the world to see them here.",
+  "msgstr": "აირჩიეთ სადგურები რუკაზე და ისინი აქ გამოჩნდება."
+ },
+ {
+  "msgid": "Cancel Creating New Line",
+  "msgstr": "ახალი ხაზის შექმნის გაუქმება"
+ },
+ {
+  "msgid": "Make Selection",
+  "msgstr": "მონიშვნა"
+ },
+ {
+  "msgid": "Select a vehicle, line or depot in the world.",
+  "msgstr": "აირჩიეთ სატრანსპორტო საშუალება, ხაზი ან დეპო რუკაზე."
+ },
+ {
+  "msgid": "Show Only Visible Lines",
+  "msgstr": "მხოლოდ ხილული ხაზების ჩვენება"
+ },
+ {
+  "msgid": "Stop To Send Vehicles To",
+  "msgstr": "დანიშნულების გაჩერება",
+  "note": "The stop the vehicles are sent to."
+ },
+ {
+  "msgid": "Reverse All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების შემობრუნება"
+ },
+ {
+  "msgid": "Start All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების დაძვრა",
+  "note": "Start vehicles moving again; pairs with Stop All = გაჩერება."
+ },
+ {
+  "msgid": "Stop All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების გაჩერება"
+ },
+ {
+  "msgid": "Set Color for All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების ფერის დაყენება"
+ },
+ {
+  "msgid": "Clone All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების კლონირება"
+ },
+ {
+  "msgid": "Replace All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების ჩანაცვლება"
+ },
+ {
+  "msgid": "Modify All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების შეცვლა"
+ },
+ {
+  "msgid": "Send All Vehicles to Depot",
+  "msgstr": "ყველა სატრანსპორტო საშუალების დეპოში გაგზავნა"
+ },
+ {
+  "msgid": "Sell All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალების გაყიდვა"
+ },
+ {
+  "msgid": "Vehicles could not be assigned to line.",
+  "msgstr": "სატრანსპორტო საშუალებების ხაზზე დანიშვნა ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Missing electric tracks.",
+  "msgstr": "ელექტრიფიცირებული ლიანდაგი არ არის."
+ },
+ {
+  "msgid": "Missing tram tracks.",
+  "msgstr": "ტრამვაის ლიანდაგი არ არის."
+ },
+ {
+  "msgid": "Incompatible tracks.",
+  "msgstr": "ლიანდაგი შეუთავსებელია."
+ },
+ {
+  "msgid": "Missing tram support on tracks.",
+  "msgstr": "ლიანდაგზე ტრამვაის მოძრაობა არ არის გათვალისწინებული."
+ },
+ {
+  "msgid": "No path for big airplanes.",
+  "msgstr": "დიდი თვითმფრინავებისთვის გზა არ არსებობს."
+ },
+ {
+  "msgid": "No path for big ships.",
+  "msgstr": "დიდი გემებისთვის გზა არ არსებობს."
+ },
+ {
+  "msgid": "No vehicle, depot or line selected.",
+  "msgstr": "სატრანსპორტო საშუალება, დეპო ან ხაზი არჩეული არ არის."
+ },
+ {
+  "msgid": "Select a vehicle, depot or line.",
+  "msgstr": "აირჩიეთ სატრანსპორტო საშუალება, დეპო ან ხაზი."
+ },
+ {
+  "msgid": "Main Management Mode",
+  "msgstr": "მართვის ძირითადი რეჟიმი"
+ },
+ {
+  "msgid": "Send to Line Mode",
+  "msgstr": "ხაზზე გაგზავნის რეჟიმი"
+ },
+ {
+  "msgid": "Line Segment Mode",
+  "msgstr": "ხაზის მონაკვეთის რეჟიმი"
+ },
+ {
+  "msgid": "Move Stop Mode",
+  "msgstr": "გაჩერების გადატანის რეჟიმი"
+ },
+ {
+  "msgid": "Move Waypoint Mode",
+  "msgstr": "შუალედური წერტილის გადატანის რეჟიმი"
+ },
+ {
+  "msgid": "Previous",
+  "msgstr": "წინა"
+ },
+ {
+  "msgid": "Simplified View",
+  "msgstr": "გამარტივებული ხედი"
+ },
+ {
+  "msgid": "Color Mode",
+  "msgstr": "ფერების რეჟიმი"
+ },
+ {
+  "msgid": "Cannot add stop.",
+  "msgstr": "გაჩერების დამატება შეუძლებელია."
+ },
+ {
+  "msgid": "Cannot delete stop.",
+  "msgstr": "გაჩერების წაშლა შეუძლებელია."
+ },
+ {
+  "msgid": "Cannot delete the line because vehicles are assigned to it.",
+  "msgstr": "ხაზის წაშლა შეუძლებელია, რადგან მასზე სატრანსპორტო საშუალებებია დანიშნული."
+ },
+ {
+  "msgid": "Cannot add waypoint.",
+  "msgstr": "შუალედური წერტილის დამატება შეუძლებელია."
+ },
+ {
+  "msgid": "Cannot delete waypoint.",
+  "msgstr": "შუალედური წერტილის წაშლა შეუძლებელია."
+ },
+ {
+  "msgid": "Send To Line",
+  "msgstr": "ხაზზე გაგზავნა"
+ },
+ {
+  "msgid": "Cannot find suitable depot reachable from the line.",
+  "msgstr": "ხაზიდან მისაწვდომი შესაფერისი დეპო ვერ მოიძებნა."
+ },
+ {
+  "msgid": "Sell Vehicle",
+  "msgstr": "სატრანსპორტო საშუალების გაყიდვა"
+ },
+ {
+  "msgid": "Delete Stop",
+  "msgstr": "გაჩერების წაშლა"
+ },
+ {
+  "msgid": "Inspector",
+  "msgstr": "ინსპექტორი",
+  "note": "Details panel of the manager window; დეტალები also works if ინსპექტორი reads too technical."
+ },
+ {
+  "msgid": "Line Manager",
+  "msgstr": "ხაზების მართვა",
+  "note": "Window title; matches Manage Line = ხაზის მართვა."
+ },
+ {
+  "msgid": "No Compatible Stock Found",
+  "msgstr": "შესაბამისი მარაგი ვერ მოიძებნა"
+ },
+ {
+  "msgid": "Unload Even if Stocks Are Full",
+  "msgstr": "გადმოტვირთვა, თუნდაც მარაგი სავსე იყოს"
+ },
+ {
+  "msgid": "Unload Only if Stocks Have Capacity",
+  "msgstr": "გადმოტვირთვა მხოლოდ მაშინ, თუ მარაგში ადგილია"
+ },
+ {
+  "msgid": "≤{amount}",
+  "msgstr": "≤{amount}"
+ },
+ {
+  "msgid": "{amount}",
+  "msgstr": "{amount}"
+ },
+ {
+  "msgid": "Select Cargo to Load",
+  "msgstr": "დასატვირთი ტვირთის არჩევა"
+ },
+ {
+  "msgid": "Cargo can only be unloaded at this stop.",
+  "msgstr": "ამ გაჩერებაზე ტვირთის მხოლოდ გადმოტვირთვაა შესაძლებელი."
+ },
+ {
+  "msgid": "Cargo can only be loaded at this stop.",
+  "msgstr": "ამ გაჩერებაზე ტვირთის მხოლოდ დატვირთვაა შესაძლებელი."
+ },
+ {
+  "msgid": "Passengers can only be unloaded at this stop.",
+  "msgstr": "ამ გაჩერებაზე მგზავრებს მხოლოდ ჩასვლა შეუძლიათ."
+ },
+ {
+  "msgid": "Passengers can only be loaded at this stop.",
+  "msgstr": "ამ გაჩერებაზე მგზავრებს მხოლოდ ასვლა შეუძლიათ."
+ },
+ {
+  "msgid": "Fill Level",
+  "msgstr": "შევსების დონე"
+ },
+ {
+  "msgid": "Unload cargo even if stocks are full.",
+  "msgstr": "ტვირთი გადმოიტვირთება მაშინაც, როცა მარაგი სავსეა."
+ },
+ {
+  "msgid": "Force Unload All Cargo On Arrival",
+  "msgstr": "ჩასვლისას მთელი ტვირთის იძულებითი გადმოტვირთვა"
+ },
+ {
+  "msgid": "Unload/destroy if cargo for another load config is available.",
+  "msgstr": "ტვირთი გადმოიტვირთება ან განადგურდება, თუ დატვირთვის სხვა პარამეტრებისთვის ტვირთი ხელმისაწვდომია."
+ },
+ {
+  "msgid": "Destroy Cargo On Arrival When Config Changes",
+  "msgstr": "ჩასვლისას ტვირთის განადგურება, თუ პარამეტრები შეიცვალა"
+ },
+ {
+  "msgid": "Destroy cargo if it made a full roundtrip and there is newer cargo available to load.",
+  "msgstr": "ტვირთი განადგურდება, თუ მან სრული წრე გაიარა და დასატვირთად უფრო ახალი ტვირთია ხელმისაწვდომი."
+ },
+ {
+  "msgid": "Replace with Newer Cargo if Available",
+  "msgstr": "უფრო ახალი ტვირთით ჩანაცვლება, თუ ხელმისაწვდომია"
+ },
+ {
+  "msgid": "Departure Configuration",
+  "msgstr": "გამგზავრების პარამეტრები"
+ },
+ {
+  "msgid": "Load if Available",
+  "msgstr": "დატვირთვა, თუ ხელმისაწვდომია"
+ },
+ {
+  "msgid": "Full Load (Any)",
+  "msgstr": "სრული დატვირთვა (ნებისმიერი)"
+ },
+ {
+  "msgid": "Full Load (All)",
+  "msgstr": "სრული დატვირთვა (ყველა)"
+ },
+ {
+  "msgid": "Max. Additional Wait",
+  "msgstr": "მაქს. დამატებითი ლოდინი"
+ },
+ {
+  "msgid": "Maximum wait time after loading to improve vehicle distribution.",
+  "msgstr": "მაქსიმალური ლოდინის დრო დატვირთვის შემდეგ, რომ სატრანსპორტო საშუალებები ხაზზე თანაბრად განაწილდეს."
+ },
+ {
+  "msgid": "Min. Stop Time",
+  "msgstr": "მინ. დგომის დრო"
+ },
+ {
+  "msgid": "Vehicles stay at least this long at this stop.",
+  "msgstr": "სატრანსპორტო საშუალებები ამ გაჩერებაზე სულ მცირე ამდენ ხანს დგანან."
+ },
+ {
+  "msgid": "Max. Stop Time",
+  "msgstr": "მაქს. დგომის დრო"
+ },
+ {
+  "msgid": "Vehicles stay at most this long at this stop.",
+  "msgstr": "სატრანსპორტო საშუალებები ამ გაჩერებაზე არაუმეტეს ამდენ ხანს დგანან."
+ },
+ {
+  "msgid": "Deselect Vehicle",
+  "msgstr": "სატრანსპორტო საშუალების არჩევის გაუქმება"
+ },
+ {
+  "msgid": "Select Vehicle",
+  "msgstr": "სატრანსპორტო საშუალების არჩევა"
+ },
+ {
+  "msgid": "Rename Vehicle",
+  "msgstr": "სატრანსპორტო საშუალების გადარქმევა"
+ },
+ {
+  "msgid": "Open Vehicle Window",
+  "msgstr": "სატრანსპორტო საშუალების ფანჯრის გახსნა"
+ },
+ {
+  "msgid": "Locate Vehicle",
+  "msgstr": "სატრანსპორტო საშუალების ჩვენება რუკაზე"
+ },
+ {
+  "msgid": "Remove Vehicle From List",
+  "msgstr": "სიიდან ამოღება"
+ },
+ {
+  "msgid": "{yearFrom}",
+  "msgstr": "{yearFrom}"
+ },
+ {
+  "msgid": "{count} x {cost} - {refund}",
+  "msgstr": "{count} x {cost} - {refund}"
+ },
+ {
+  "msgid": "Unavailable",
+  "msgstr": "მიუწვდომელია"
+ },
+ {
+  "msgid": "Not Possible",
+  "msgstr": "შეუძლებელია"
+ },
+ {
+  "msgid": "Model",
+  "msgstr": "მოდელი"
+ },
+ {
+  "msgid": "Max Total Capacity",
+  "msgstr": "მაქს. ჯამური ტევადობა"
+ },
+ {
+  "msgid": "Select a line, vehicle, station or depot.",
+  "msgstr": "აირჩიეთ ხაზი, სატრანსპორტო საშუალება, სადგური ან დეპო."
+ },
+ {
+  "msgid": "Start new line is currently disabled.",
+  "msgstr": "ახალი ხაზის შექმნა ამჟამად გამორთულია."
+ },
+ {
+  "msgid": "Select a station to add stops.",
+  "msgstr": "გაჩერებების დასამატებლად აირჩიეთ სადგური."
+ },
+ {
+  "msgid": "Select the station to which the stop should be moved.",
+  "msgstr": "აირჩიეთ სადგური, სადაც გაჩერება უნდა გადავიდეს."
+ },
+ {
+  "msgid": "Cannot move stop here.",
+  "msgstr": "გაჩერების აქ გადატანა შეუძლებელია."
+ },
+ {
+  "msgid": "Select the location to which the waypoint should be moved.",
+  "msgstr": "აირჩიეთ ადგილი, სადაც შუალედური წერტილი უნდა გადავიდეს."
+ },
+ {
+  "msgid": "Select line section {index}.",
+  "msgstr": "აირჩიეთ ხაზის მონაკვეთი {index}."
+ },
+ {
+  "msgid": "Select a segment.",
+  "msgstr": "აირჩიეთ მონაკვეთი."
+ },
+ {
+  "msgid": "Move waypoint {index}.",
+  "msgstr": "გადაიტანეთ შუალედური წერტილი {index}."
+ },
+ {
+  "msgid": "Move waypoint here.",
+  "msgstr": "გადაიტანეთ შუალედური წერტილი აქ."
+ },
+ {
+  "msgid": "Too close to other waypoint.",
+  "msgstr": "სხვა შუალედურ წერტილთან ძალიან ახლოსაა."
+ },
+ {
+  "msgid": "Ship waypoints must be on water.",
+  "msgstr": "გემების შუალედური წერტილები წყალზე უნდა იყოს."
+ },
+ {
+  "msgid": "Add waypoint here.",
+  "msgstr": "დაამატეთ შუალედური წერტილი აქ."
+ },
+ {
+  "msgid": "(Hold) Add Waypoint",
+  "msgstr": "(ხანგრძლივი დაჭერით) შუალედური წერტილის დამატება"
+ },
+ {
+  "msgid": "Select a line, station or depot to send {count} vehicles to.",
+  "msgstr": "აირჩიეთ ხაზი, სადგური ან დეპო, სადაც {count} სატრანსპორტო საშუალება გაიგზავნება.",
+  "note": "Noun stays singular after the number."
+ },
+ {
+  "msgid": "Line {lineNumber}",
+  "msgstr": "ხაზი {lineNumber}"
+ },
+ {
+  "msgid": "Missing catenaries",
+  "msgstr": "საკონტაქტო ქსელი არ არის",
+  "note": "These fill {reason} in the no-path messages, so no trailing period."
+ },
+ {
+  "msgid": "Missing tram lane",
+  "msgstr": "ტრამვაის ზოლი არ არის"
+ },
+ {
+  "msgid": "Missing tram tracks",
+  "msgstr": "ტრამვაის ლიანდაგი არ არის"
+ },
+ {
+  "msgid": "Missing train tracks",
+  "msgstr": "სარკინიგზო ლიანდაგი არ არის"
+ },
+ {
+  "msgid": "Missing road",
+  "msgstr": "გზა არ არის"
+ },
+ {
+  "msgid": "Could not clone vehicles (not enough money).",
+  "msgstr": "სატრანსპორტო საშუალებების კლონირება ვერ მოხერხდა (არასაკმარისი თანხა)."
+ },
+ {
+  "msgid": "Could not find suitable depot.",
+  "msgstr": "შესაფერისი დეპო ვერ მოიძებნა."
+ },
+ {
+  "msgid": "All Cargo",
+  "msgstr": "ყველა ტვირთი"
+ },
+ {
+  "msgid": "Top Speed for Slopes:",
+  "msgstr": "მაქსიმალური სიჩქარე აღმართზე:"
+ },
+ {
+  "msgid": "Evenly Distributed",
+  "msgstr": "თანაბრად განაწილებული",
+  "note": "Line color schemes."
+ },
+ {
+  "msgid": "Next Reachable Stop",
+  "msgstr": "შემდეგი მისაწვდომი გაჩერება"
+ },
+ {
+  "msgid": "First Cargo Compatible Stop",
+  "msgstr": "პირველი გაჩერება შესაბამისი ტვირთით"
+ },
+ {
+  "msgid": "First Stop",
+  "msgstr": "პირველი გაჩერება"
+ },
+ {
+  "msgid": "First Stop - Last Stop",
+  "msgstr": "პირველი გაჩერება - ბოლო გაჩერება"
+ },
+ {
+  "msgid": "Town - Cargo",
+  "msgstr": "დასახლებული პუნქტი - ტვირთი"
+ },
+ {
+  "msgid": "Town - Carrier",
+  "msgstr": "დასახლებული პუნქტი - ტრანსპორტის სახეობა"
+ },
+ {
+  "msgid": "No Cargo",
+  "msgstr": "ტვირთის გარეშე"
+ },
+ {
+  "msgid": "Carrier",
+  "msgstr": "ტრანსპორტის სახეობა",
+  "note": "Carrier = road / rail / water / air."
+ },
+ {
+  "msgid": "Last Stop",
+  "msgstr": "ბოლო გაჩერება"
+ },
+ {
+  "msgid": "Problems",
+  "msgstr": "პრობლემები"
+ },
+ {
+  "msgid": "Stored",
+  "msgstr": "შენახული"
+ },
+ {
+  "msgid": "Size",
+  "msgstr": "ზომა"
+ },
+ {
+  "msgid": "Population",
+  "msgstr": "მოსახლეობა"
+ },
+ {
+  "msgid": "Private Transport",
+  "msgstr": "კერძო ტრანსპორტი"
+ },
+ {
+  "msgid": "Supply",
+  "msgstr": "მომარაგება"
+ },
+ {
+  "msgid": "Demand",
+  "msgstr": "მოთხოვნა"
+ },
+ {
+  "msgid": "Coverage",
+  "msgstr": "დაფარვა"
+ },
+ {
+  "msgid": "{count}/{total}",
+  "msgstr": "{count}/{total}"
+ },
+ {
+  "msgid": "-",
+  "msgstr": "-"
+ },
+ {
+  "msgid": "Requirements",
+  "msgstr": "მოთხოვნები"
+ },
+ {
+  "msgid": "Product",
+  "msgstr": "პროდუქტი"
+ },
+ {
+  "msgid": "Input",
+  "msgstr": "ნედლეული",
+  "note": "User's choice: industry Input = ნედლეული."
+ },
+ {
+  "msgid": "Output",
+  "msgstr": "პროდუქცია",
+  "note": "User's choice: industry Output = პროდუქცია."
+ },
+ {
+  "msgid": "Workload",
+  "msgstr": "სამუშაო დატვირთვა",
+  "note": "Kept apart from Utilization = დატვირთვა."
+ },
+ {
+  "msgid": "Boosters",
+  "msgstr": "ამაჩქარებლები",
+  "note": "Things that speed up production; same root as Production Speed Boost = წარმოების სიჩქარის ზრდა."
+ },
+ {
+  "msgid": "Workplaces",
+  "msgstr": "სამუშაო ადგილები"
+ },
+ {
+  "msgid": "Shipment",
+  "msgstr": "გადაზიდვა"
+ },
+ {
+  "msgid": "Satisfaction",
+  "msgstr": "კმაყოფილება"
+ },
+ {
+  "msgid": "Show Road Vehicles",
+  "msgstr": "საგზაო ტრანსპორტის ჩვენება",
+  "note": "User's choice: Road Vehicle = საგზაო ტრანსპორტი."
+ },
+ {
+  "msgid": "Show Trams",
+  "msgstr": "ტრამვაების ჩვენება"
+ },
+ {
+  "msgid": "Show Trains",
+  "msgstr": "მატარებლების ჩვენება"
+ },
+ {
+  "msgid": "Show Ships",
+  "msgstr": "გემების ჩვენება"
+ },
+ {
+  "msgid": "Show Air Vehicles",
+  "msgstr": "საჰაერო ტრანსპორტის ჩვენება"
+ },
+ {
+  "msgid": "Mixed",
+  "msgstr": "შერეული"
+ },
+ {
+  "msgid": "--",
+  "msgstr": "--"
+ },
+ {
+  "msgid": "{used}/{capacity}",
+  "msgstr": "{used}/{capacity}"
+ },
+ {
+  "msgid": "Type",
+  "msgstr": "ტიპი",
+  "note": "User's choice."
+ },
+ {
+  "msgid": "Delay",
+  "msgstr": "დაგვიანება"
+ },
+ {
+  "msgid": "Show Road Stations",
+  "msgstr": "საავტომობილო სადგურების ჩვენება"
+ },
+ {
+  "msgid": "Show Tram Stations",
+  "msgstr": "ტრამვაის სადგურების ჩვენება"
+ },
+ {
+  "msgid": "Show Train Stations",
+  "msgstr": "სარკინიგზო სადგურების ჩვენება"
+ },
+ {
+  "msgid": "Show Ship Stations",
+  "msgstr": "ნავსადგურების ჩვენება",
+  "note": "Port = ნავსადგური."
+ },
+ {
+  "msgid": "Show Air Vehicle Stations",
+  "msgstr": "აეროპორტებისა და შვეულდრომების ჩვენება",
+  "note": "Air vehicle stations are airports and heliports (შვეულდრომი)."
+ },
+ {
+  "msgid": "Stations",
+  "msgstr": "სადგურები"
+ },
+ {
+  "msgid": "Depots",
+  "msgstr": "დეპოები"
+ },
+ {
+  "msgid": "Towns",
+  "msgstr": "ქალაქები",
+  "note": "Generic town = დასახლებული პუნქტი (user). If the tab is too narrow, დასახლებები is the short form."
+ },
+ {
+  "msgid": "Industries",
+  "msgstr": "საწარმოები"
+ },
+ {
+  "msgid": "Shrink",
+  "msgstr": "შეკუმშვა"
+ },
+ {
+  "msgid": "Expand",
+  "msgstr": "გაშლა"
+ },
+ {
+  "msgid": "Parked",
+  "msgstr": "პარკირებული"
+ },
+ {
+  "msgid": "Usage",
+  "msgstr": "გამოყენება"
+ },
+ {
+  "msgid": "Show Road Depots",
+  "msgstr": "საავტომობილო დეპოების ჩვენება"
+ },
+ {
+  "msgid": "Show Tram Depots",
+  "msgstr": "ტრამვაის დეპოების ჩვენება"
+ },
+ {
+  "msgid": "Show Train Depots",
+  "msgstr": "სარკინიგზო დეპოების ჩვენება"
+ },
+ {
+  "msgid": "Show Ship Depots",
+  "msgstr": "გემების დეპოების ჩვენება"
+ },
+ {
+  "msgid": "Show Air Vehicle Depots",
+  "msgstr": "ანგარების ჩვენება",
+  "note": "Air vehicle depot = hangar = ანგარი (user)."
+ },
+ {
+  "msgid": "Show Only Visible {object}",
+  "msgstr": "მხოლოდ ხილული {object}",
+  "note": "{object} is a plural list name (სადგურები, ხაზები...) in the nominative, so the adjective before it agrees without any suffix."
+ },
+ {
+  "msgid": "There Are Several Problems",
+  "msgstr": "რამდენიმე პრობლემაა"
+ }
+]

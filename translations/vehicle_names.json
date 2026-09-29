@@ -1,0 +1,266 @@
+[
+ {
+  "msgid": "VEHICLE_BUS_AMERICAN_POST_COACH_NAME",
+  "msgstr": "დილიჟანსი",
+  "note": "Horse-drawn passenger coach. Established loan (in the Georgian-English dictionary); native alternative: საფოსტო ეტლი."
+ },
+ {
+  "msgid": "VEHICLE_BUS_CARNIVAL_WAGGON_NAME",
+  "msgstr": "საკარნავალო ეტლი",
+  "note": "'Mardi Gras' dropped; a decorated horse-drawn carnival wagon."
+ },
+ {
+  "msgid": "VEHICLE_BUS_DROSHKY_NAME",
+  "msgstr": "ფაეტონი",
+  "note": "Droshky is Russian (дрожки); ფაეტონი is the Georgian word for a light hired carriage (old Tbilisi)."
+ },
+ {
+  "msgid": "VEHICLE_SHIP_BRITISH_COLUMBIA_NAME",
+  "msgstr": "კანადური ტრაულერი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_STERNWHEELER_NAME",
+  "msgstr": "ბორბლიანი გემი",
+  "note": "Paddle steamer; 'stern' detail dropped to keep it short."
+ },
+ {
+  "msgid": "VEHICLE_TRAIN_HANDCAR_NAME",
+  "msgstr": "ხელის დრეზინა"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_BOX_CAR_A_NAME",
+  "msgstr": "დახურული ვაგონი 1896"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_BOX_CAR_B_NAME",
+  "msgstr": "დახურული ვაგონი 1950"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_BOX_CAR_C_NAME",
+  "msgstr": "დახურული ვაგონი 2005"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_BULK_CAR_A_NAME",
+  "msgstr": "ღია ვაგონი 1898",
+  "note": "Open-top wagon; avoids the calque ნახევარვაგონი."
+ },
+ {
+  "msgid": "VEHICLE_TRAM_BULK_CAR_B_NAME",
+  "msgstr": "ღია ვაგონი 1950"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_BULK_CAR_C_NAME",
+  "msgstr": "ღია ვაგონი 2005"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_CLOSED_PAX_WAGON_NAME",
+  "msgstr": "დახურული სამგზავრო ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_DAMPFTRAM_NAME",
+  "msgstr": "ორთქლის ტრამვაი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_DOUBLE_DECK_WAGON_NAME",
+  "msgstr": "ორსართულიანი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_DOUBLE_HORSE_CARGO_NAME",
+  "msgstr": "ცხენის ტრამვაი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_DOUBLE_HORSE_NAME",
+  "msgstr": "ცხენის ტრამვაი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_F_TRAM_UNIV_NAME",
+  "msgstr": "სახსრიანი სატვირთო ტრამვაი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_HONGKONG_NAME",
+  "msgstr": "ჰონკონგური ტრამვაი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_ODESSA_NAME",
+  "msgstr": "ღია სამგზავრო ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_STAKE_CAR_A_NAME",
+  "msgstr": "უბორტო ვაგონი 1897",
+  "note": "Carries flatbed cargo; matches Flatbed = უბორტო."
+ },
+ {
+  "msgid": "VEHICLE_TRAM_STAKE_CAR_B_NAME",
+  "msgstr": "უბორტო ვაგონი 1950"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_STAKE_CAR_C_NAME",
+  "msgstr": "უბორტო ვაგონი 2005"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TANK_CAR_A_NAME",
+  "msgstr": "ცისტერნა 1899"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TANK_CAR_B_NAME",
+  "msgstr": "ცისტერნა 1950"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TANK_CAR_C_NAME",
+  "msgstr": "ცისტერნა 2005"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_UNIV_CAR_A_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1895",
+  "note": "Universal cargo car; matches უნივერსალური სატვირთო ბაქანი."
+ },
+ {
+  "msgid": "VEHICLE_TRAM_UNIV_CAR_B_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1950"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_UNIV_CAR_C_NAME",
+  "msgstr": "უნივერსალური ვაგონი 2005"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_HORSE_CART_BARRELS_NAME",
+  "msgstr": "ცხენის ურემი კასრებით"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_HORSE_CART_MEDIUM_NAME",
+  "msgstr": "ცხენის ურემი",
+  "note": "Cargo cart (a truck in game terms), so ურემი rather than passenger ეტლი."
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_HORSE_CART_SMALL_NAME",
+  "msgstr": "პატარა ცხენის ურემი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_STEAM_LORRY_UNIV_NAME",
+  "msgstr": "ორთქლის სატვირთო ავტომობილი"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BAY_05_NAME",
+  "msgstr": "ბავარიული სამგზავრო ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BOXCAR_1_20_NAME",
+  "msgstr": "დახურული ვაგონი 1879"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BOXCAR_2_VERB_NAME",
+  "msgstr": "დახურული ვაგონი 1910"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BOXCAR_3_223_NAME",
+  "msgstr": "დახურული ვაგონი 1930"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BOXCAR_4_ALU_NAME",
+  "msgstr": "დახურული ვაგონი 1952"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BOXCAR_5_HBI_NAME",
+  "msgstr": "დახურული ვაგონი 1972"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BOXCAR_6_256_NAME",
+  "msgstr": "დახურული ვაგონი 2000"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BULK_1_1794_NAME",
+  "msgstr": "ღია ვაგონი 1891"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BULK_2_OK_NAME",
+  "msgstr": "ღია ვაგონი 1915"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BULK_3_STEEL_NAME",
+  "msgstr": "ღია ვაგონი 1940"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BULK_4_002_NAME",
+  "msgstr": "ღია ვაგონი 1971"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_BULK_5_FALNS_NAME",
+  "msgstr": "ღია ვაგონი 2001"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_COMPARTMENT_CAR_NAME",
+  "msgstr": "კუპე ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_FLATBED_1_1794_NAME",
+  "msgstr": "უბორტო ვაგონი 1895"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_FLATBED_2_R_NAME",
+  "msgstr": "უბორტო ვაგონი 1920"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_FLATBED_3_SSLMAS_NAME",
+  "msgstr": "უბორტო ვაგონი 1945"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_FLATBED_4_464_NAME",
+  "msgstr": "უბორტო ვაგონი 1968"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_FLATBED_5_RNOOS644_NAME",
+  "msgstr": "უბორტო ვაგონი 2000"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_LIQUID_1_N55_NAME",
+  "msgstr": "ცისტერნა 1899"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_LIQUID_2_ZH_NAME",
+  "msgstr": "ცისტერნა 1912"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_LIQUID_3_UGLX_NAME",
+  "msgstr": "ცისტერნა 1926"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_LIQUID_4_EKW_NAME",
+  "msgstr": "ცისტერნა 1950"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_LIQUID_5_3752_NAME",
+  "msgstr": "ცისტერნა 1982"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_LIQUID_6_ZACNS_NAME",
+  "msgstr": "ცისტერნა 2005"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_STREAMLINED_NYC_NAME",
+  "msgstr": "აეროდინამიკური ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_SUBURBAN_2ND_NAME",
+  "msgstr": "რუსული საგარეუბნო ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_UNIV_1_SZAP_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1899"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_UNIV_2_R_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1913"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_UNIV_3_ACL_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1930"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_UNIV_4_RLMMSO58_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1960"
+ },
+ {
+  "msgid": "VEHICLE_WAGGON_UNIV_5_RNS_NAME",
+  "msgstr": "უნივერსალური ვაგონი 1999"
+ }
+]

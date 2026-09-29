@@ -1,0 +1,805 @@
+[
+ {
+  "msgctxt": "noun",
+  "msgid": "Load",
+  "msgstr": "დატვირთვა",
+  "note": "Same word as Utilization (დატვირთვა); in stats both mean how full vehicles are."
+ },
+ {
+  "msgctxt": "layer-rating-label",
+  "msgid": "Low",
+  "msgstr": "დაბალი"
+ },
+ {
+  "msgctxt": "layer-rating-label",
+  "msgid": "High",
+  "msgstr": "მაღალი"
+ },
+ {
+  "msgctxt": "layer-rating-label",
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgctxt": "layer-rating-label",
+  "msgid": "Bad",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgctxt": "layer-infrastructure-areas",
+  "msgid": "None",
+  "msgstr": "არცერთი"
+ },
+ {
+  "msgctxt": "layer-infrastructure-areas",
+  "msgid": "Passengers",
+  "msgstr": "მგზავრები"
+ },
+ {
+  "msgctxt": "layer-infrastructure-areas",
+  "msgid": "Cargo",
+  "msgstr": "ტვირთი"
+ },
+ {
+  "msgctxt": "layer-infrastructure-areas",
+  "msgid": "Vehicle Maintenance",
+  "msgstr": "ტრანსპორტის მომსახურება"
+ },
+ {
+  "msgctxt": "layer-rating-label",
+  "msgid": "Slow",
+  "msgstr": "ნელი"
+ },
+ {
+  "msgctxt": "layer-rating-label",
+  "msgid": "Fast",
+  "msgstr": "სწრაფი"
+ },
+ {
+  "msgctxt": "plural",
+  "msgid": "Aircraft",
+  "msgstr": "საჰაერო ტრანსპორტი"
+ },
+ {
+  "msgctxt": "objects",
+  "msgid": "Assets",
+  "msgstr": "ობიექტები"
+ },
+ {
+  "msgctxt": "traffic-light-type",
+  "msgid": "None",
+  "msgstr": "არ არის"
+ },
+ {
+  "msgctxt": "noun",
+  "msgid": "Basics",
+  "msgstr": "ძირითადი"
+ },
+ {
+  "msgctxt": "town-cargo-demands",
+  "msgid": "None",
+  "msgstr": "არ არის"
+ },
+ {
+  "msgid": "Booster",
+  "msgid_plural": "Boosters",
+  "msgstr": "ამაჩქარებელი",
+  "note": "In line with წარმოების სიჩქარის ზრდა (Production Speed Boost)."
+ },
+ {
+  "msgctxt": "day_night_cycle",
+  "msgid": "Custom",
+  "msgstr": "საკუთარი"
+ },
+ {
+  "msgctxt": "text-scaling-settings",
+  "msgid": "Small",
+  "msgstr": "პატარა"
+ },
+ {
+  "msgctxt": "text-scaling-settings",
+  "msgid": "Medium",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "text-scaling-settings",
+  "msgid": "Large",
+  "msgstr": "დიდი"
+ },
+ {
+  "msgctxt": "money-format-settings",
+  "msgid": "Full",
+  "msgstr": "სრული"
+ },
+ {
+  "msgctxt": "money-format-settings",
+  "msgid": "Short",
+  "msgstr": "შემოკლებული"
+ },
+ {
+  "msgctxt": "distance-unit-settings",
+  "msgid": "Metric",
+  "msgstr": "მეტრული"
+ },
+ {
+  "msgctxt": "distance-unit-settings",
+  "msgid": "Imperial",
+  "msgstr": "იმპერიული"
+ },
+ {
+  "msgctxt": "power-unit-settings",
+  "msgid": "Kilowatt (kW)",
+  "msgstr": "კილოვატი (kW)"
+ },
+ {
+  "msgctxt": "power-unit-settings",
+  "msgid": "Horsepower (hp)",
+  "msgstr": "ცხენის ძალა (hp)"
+ },
+ {
+  "msgctxt": "force-unit-settings",
+  "msgid": "Kilonewton (kN)",
+  "msgstr": "კილონიუტონი (kN)"
+ },
+ {
+  "msgctxt": "force-unit-settings",
+  "msgid": "Kilogram-Force (kgf)",
+  "msgstr": "კილოგრამ-ძალა (kgf)"
+ },
+ {
+  "msgctxt": "force-unit-settings",
+  "msgid": "Pound Force (lbf)",
+  "msgstr": "გირვანქა-ძალა (lbf)"
+ },
+ {
+  "msgctxt": "rain-effect-settings",
+  "msgid": "Never",
+  "msgstr": "არასოდეს"
+ },
+ {
+  "msgctxt": "rain-effect-settings",
+  "msgid": "Cockpit Only",
+  "msgstr": "მხოლოდ კაბინაში"
+ },
+ {
+  "msgctxt": "rain-effect-settings",
+  "msgid": "Always",
+  "msgstr": "ყოველთვის"
+ },
+ {
+  "msgctxt": "panning-mode-settings",
+  "msgid": "Simple",
+  "msgstr": "მარტივი"
+ },
+ {
+  "msgctxt": "panning-mode-settings",
+  "msgid": "Perspective",
+  "msgstr": "პერსპექტიული"
+ },
+ {
+  "msgctxt": "panning-mode-settings",
+  "msgid": "Grab",
+  "msgstr": "ჩაჭიდებით"
+ },
+ {
+  "msgctxt": "paradox",
+  "msgid": "I Consent",
+  "msgstr": "ვეთანხმები"
+ },
+ {
+  "msgctxt": "builtin-map-deluxe-foil",
+  "msgid": "Deluxe",
+  "msgstr": "Deluxe",
+  "note": "Edition name, kept in English."
+ },
+ {
+  "msgctxt": "job-title",
+  "msgid": "Production",
+  "msgstr": "პროდიუსერები",
+  "note": "Credits job title (the production team)."
+ },
+ {
+  "msgid": "({count} town impacted)",
+  "msgid_plural": "({count} towns impacted)",
+  "msgstr": "(ეხება {count} დასახლებულ პუნქტს)"
+ },
+ {
+  "msgctxt": "town-size",
+  "msgid": "Tiny",
+  "msgstr": "ციცქნა"
+ },
+ {
+  "msgctxt": "town-size",
+  "msgid": "Small",
+  "msgstr": "პატარა"
+ },
+ {
+  "msgctxt": "town-size",
+  "msgid": "Medium",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "town-size",
+  "msgid": "Large",
+  "msgstr": "დიდი"
+ },
+ {
+  "msgctxt": "town-size",
+  "msgid": "Huge",
+  "msgstr": "უზარმაზარი"
+ },
+ {
+  "msgctxt": "town-cargo-demands",
+  "msgid": "Random",
+  "msgstr": "შემთხვევითი"
+ },
+ {
+  "msgctxt": "objects",
+  "msgid": "Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებები"
+ },
+ {
+  "msgctxt": "objects",
+  "msgid": "People",
+  "msgstr": "ადამიანები"
+ },
+ {
+  "msgctxt": "objects",
+  "msgid": "Animals",
+  "msgstr": "ცხოველები"
+ },
+ {
+  "msgid": "Buy {count} Vehicle for {cost}",
+  "msgid_plural": "Buy {count} Vehicles for {cost}",
+  "msgstr": "{count} სატრანსპორტო საშუალების შეძენა: {cost}"
+ },
+ {
+  "msgid": "Modify {count} Vehicle for {cost}",
+  "msgid_plural": "Modify {count} Vehicles for {cost}",
+  "msgstr": "{count} სატრანსპორტო საშუალების შეცვლა: {cost}"
+ },
+ {
+  "msgid": "Replace {count} Vehicle for {cost}",
+  "msgid_plural": "Replace {count} Vehicles for {cost}",
+  "msgstr": "{count} სატრანსპორტო საშუალების ჩანაცვლება: {cost}"
+ },
+ {
+  "msgctxt": "auto-rename-additional-lines",
+  "msgid": "+{count}",
+  "msgstr": "+{count}"
+ },
+ {
+  "msgid": "{count} Line With Problems",
+  "msgid_plural": "{count} Lines With Problems",
+  "msgstr": "{count} პრობლემური ხაზი"
+ },
+ {
+  "msgid": "{count} Vehicle With Problems",
+  "msgid_plural": "{count} Vehicles With Problems",
+  "msgstr": "{count} პრობლემური სატრანსპორტო საშუალება"
+ },
+ {
+  "msgid": "Auto-Rename {count} Line",
+  "msgid_plural": "Auto-Rename {count} Lines",
+  "msgstr": "{count} ხაზის ავტომატური გადარქმევა"
+ },
+ {
+  "msgid": "Select a Name",
+  "msgid_plural": "Select Names",
+  "msgstr": "სახელის არჩევა",
+  "note": "No count in the string; სახელის არჩევა works for one or many names."
+ },
+ {
+  "msgid": "Will Change {count} Additional Line",
+  "msgid_plural": "Will Change {count} Additional Lines",
+  "msgstr": "შეიცვლება კიდევ {count} ხაზი"
+ },
+ {
+  "msgid": "Auto-Rename Line",
+  "msgid_plural": "Auto-Rename Lines",
+  "msgstr": "ავტომატური გადარქმევა",
+  "note": "Number-neutral: ხაზის/ხაზების can't share one form, and the line manager context makes the object clear."
+ },
+ {
+  "msgid": "Set Line Color",
+  "msgid_plural": "Set Line Colors",
+  "msgstr": "ფერის შეცვლა",
+  "note": "Number-neutral, see Auto-Rename Line(s)."
+ },
+ {
+  "msgid": "Reverse Selected Vehicle",
+  "msgid_plural": "Reverse Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის შემობრუნება",
+  "note": "ტრანსპორტი is a mass noun, so one form fits one or many selected vehicles."
+ },
+ {
+  "msgid": "Start Selected Vehicle",
+  "msgid_plural": "Start Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის გაშვება"
+ },
+ {
+  "msgid": "Stop Selected Vehicle",
+  "msgid_plural": "Stop Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის გაჩერება"
+ },
+ {
+  "msgid": "Set Color for Selected Vehicle",
+  "msgid_plural": "Set Color for Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის ფერის შეცვლა"
+ },
+ {
+  "msgid": "Clone Selected Vehicle",
+  "msgid_plural": "Clone Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის კლონირება"
+ },
+ {
+  "msgid": "Replace Selected Vehicle",
+  "msgid_plural": "Replace Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის ჩანაცვლება"
+ },
+ {
+  "msgid": "Modify Selected Vehicle",
+  "msgid_plural": "Modify Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის შეცვლა"
+ },
+ {
+  "msgid": "Send Selected Vehicle to Depot",
+  "msgid_plural": "Send Selected Vehicles to Depot",
+  "msgstr": "მონიშნული ტრანსპორტის დეპოში გაგზავნა"
+ },
+ {
+  "msgid": "Sell Selected Vehicle",
+  "msgid_plural": "Sell Selected Vehicles",
+  "msgstr": "მონიშნული ტრანსპორტის გაყიდვა"
+ },
+ {
+  "msgid": "Deselect Line",
+  "msgid_plural": "Deselect Lines",
+  "msgstr": "მონიშვნის მოხსნა",
+  "note": "Number-neutral, like Auto-Rename Line(s)."
+ },
+ {
+  "msgid": "Send {count} vehicle to {lineName}.",
+  "msgid_plural": "Send {count} vehicles to {lineName}.",
+  "msgstr": "გაგზავნეთ {count} სატრანსპორტო საშუალება ხაზზე: {lineName}."
+ },
+ {
+  "msgid": "Create new line from this stop and assign {count} vehicle.",
+  "msgid_plural": "Create new line from this stop and assign {count} vehicles.",
+  "msgstr": "შექმენით ახალი ხაზი ამ გაჩერებიდან და მიამაგრეთ მას {count} სატრანსპორტო საშუალება."
+ },
+ {
+  "msgid": "Send {count} vehicle to {depotName}.",
+  "msgid_plural": "Send {count} vehicles to {depotName}.",
+  "msgstr": "გაგზავნეთ {count} სატრანსპორტო საშუალება დეპოში: {depotName}."
+ },
+ {
+  "msgctxt": "vehicle-property-rating",
+  "msgid": "Very Poor",
+  "msgstr": "ძალიან ცუდი"
+ },
+ {
+  "msgctxt": "vehicle-property-rating",
+  "msgid": "Poor",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgctxt": "vehicle-property-rating",
+  "msgid": "Mediocre",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "vehicle-property-rating",
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgctxt": "vehicle-property-rating",
+  "msgid": "Very Good",
+  "msgstr": "ძალიან კარგი"
+ },
+ {
+  "msgctxt": "vehicle-size",
+  "msgid": "Small",
+  "msgstr": "პატარა"
+ },
+ {
+  "msgctxt": "vehicle-size",
+  "msgid": "Large",
+  "msgstr": "დიდი"
+ },
+ {
+  "msgctxt": "vehicle-condition",
+  "msgid": "Very Bad",
+  "msgstr": "ძალიან ცუდი"
+ },
+ {
+  "msgctxt": "vehicle-condition",
+  "msgid": "Bad",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgctxt": "vehicle-condition",
+  "msgid": "Mediocre",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "vehicle-condition",
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgctxt": "vehicle-condition",
+  "msgid": "Very Good",
+  "msgstr": "ძალიან კარგი"
+ },
+ {
+  "msgctxt": "terrain-slope",
+  "msgid": "Flat",
+  "msgstr": "ვაკე"
+ },
+ {
+  "msgctxt": "terrain-slope",
+  "msgid": "Medium",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "terrain-slope",
+  "msgid": "High",
+  "msgstr": "ციცაბო"
+ },
+ {
+  "msgctxt": "vehicle-performance-rating",
+  "msgid": "Poor",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgctxt": "vehicle-performance-rating",
+  "msgid": "Mediocre",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "vehicle-performance-rating",
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgctxt": "vehicle-performance-rating",
+  "msgid": "Excellent",
+  "msgstr": "შესანიშნავი"
+ },
+ {
+  "msgctxt": "carrier",
+  "msgid": "Road",
+  "msgstr": "საგზაო",
+  "note": "Carrier as an auto-rename name part: adjectives (road/rail/air/water transport) plus ტრამვაი as a noun."
+ },
+ {
+  "msgctxt": "carrier",
+  "msgid": "Rail",
+  "msgstr": "სარკინიგზო"
+ },
+ {
+  "msgctxt": "carrier",
+  "msgid": "Tram",
+  "msgstr": "ტრამვაი"
+ },
+ {
+  "msgctxt": "carrier",
+  "msgid": "Air",
+  "msgstr": "საჰაერო"
+ },
+ {
+  "msgctxt": "carrier",
+  "msgid": "Water",
+  "msgstr": "წყლის"
+ },
+ {
+  "msgid": "{count} Unhappy Passenger",
+  "msgid_plural": "{count} Unhappy Passengers",
+  "msgstr": "{count} უკმაყოფილო მგზავრი"
+ },
+ {
+  "msgid": "Unhappy Passenger",
+  "msgid_plural": "Unhappy Passengers",
+  "msgstr": "უკმაყოფილო მგზავრი",
+  "note": "Singular: Georgian nouns stay singular next to a number."
+ },
+ {
+  "msgid": "{count} Delayed Delivery",
+  "msgid_plural": "{count} Delayed Deliveries",
+  "msgstr": "{count} დაგვიანებული მიწოდება"
+ },
+ {
+  "msgid": "Delayed Delivery",
+  "msgid_plural": "Delayed Deliveries",
+  "msgstr": "დაგვიანებული მიწოდება"
+ },
+ {
+  "msgctxt": "loan-type",
+  "msgid": "Custom",
+  "msgstr": "საკუთარი"
+ },
+ {
+  "msgid": "Tram",
+  "msgid_plural": "Trams",
+  "msgstr": "ტრამვაი"
+ },
+ {
+  "msgid": "{count} Year",
+  "msgid_plural": "{count} Years",
+  "msgstr": "{count} წელი"
+ },
+ {
+  "msgctxt": "financial",
+  "msgid": "Assets",
+  "msgstr": "აქტივები"
+ },
+ {
+  "msgid": "Road Vehicle",
+  "msgid_plural": "Road Vehicles",
+  "msgstr": "საგზაო ტრანსპორტი"
+ },
+ {
+  "msgid": "Train",
+  "msgid_plural": "Trains",
+  "msgstr": "მატარებელი"
+ },
+ {
+  "msgid": "Ship",
+  "msgid_plural": "Ships",
+  "msgstr": "გემი"
+ },
+ {
+  "msgid": "Aircraft",
+  "msgid_plural": "Aircraft",
+  "msgstr": "საჰაერო ტრანსპორტი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Small Hamlet",
+  "msgstr": "პატარა დასახლება"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Hamlet",
+  "msgstr": "დასახლება"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Large Hamlet",
+  "msgstr": "დიდი დასახლება"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Small Village",
+  "msgstr": "პატარა სოფელი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Village",
+  "msgstr": "სოფელი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Large Village",
+  "msgstr": "დიდი სოფელი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Small Town",
+  "msgstr": "პატარა დაბა"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Town",
+  "msgstr": "დაბა"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Large Town",
+  "msgstr": "დიდი დაბა"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Small Suburb",
+  "msgstr": "პატარა გარეუბანი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Suburb",
+  "msgstr": "გარეუბანი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Large Suburb",
+  "msgstr": "დიდი გარეუბანი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Small City",
+  "msgstr": "პატარა ქალაქი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "City",
+  "msgstr": "ქალაქი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Large City",
+  "msgstr": "დიდი ქალაქი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Small Metropolis",
+  "msgstr": "პატარა მეგაპოლისი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Metropolis",
+  "msgstr": "მეგაპოლისი"
+ },
+ {
+  "msgctxt": "town-level",
+  "msgid": "Large Metropolis",
+  "msgstr": "დიდი მეგაპოლისი"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "Very Poor",
+  "msgstr": "ძალიან ცუდი"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "Poor",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "Mediocre",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "Very Good",
+  "msgstr": "ძალიან კარგი"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "Excellent",
+  "msgstr": "შესანიშნავი"
+ },
+ {
+  "msgctxt": "town-rating-level",
+  "msgid": "None",
+  "msgstr": "არ არის"
+ },
+ {
+  "msgctxt": "town-congestion-level",
+  "msgid": "Very Bad",
+  "msgstr": "ძალიან ცუდი"
+ },
+ {
+  "msgctxt": "town-congestion-level",
+  "msgid": "Bad",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgctxt": "town-congestion-level",
+  "msgid": "Mediocre",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "town-congestion-level",
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgctxt": "town-congestion-level",
+  "msgid": "Very Good",
+  "msgstr": "ძალიან კარგი"
+ },
+ {
+  "msgid": "{nameList}\\nAnd 1 other",
+  "msgid_plural": "{nameList}\\nAnd {amount} others",
+  "msgstr": "{nameList}\\nდა კიდევ {amount}",
+  "note": "Singular msgid has a literal 1 and no {amount}; using {amount} in both forms assumes the engine always passes amount (it formats the plural with it). If the singular shows a raw {amount}, use a separate form.",
+  "msgstr_one": "{nameList}\\nდა კიდევ 1"
+ },
+ {
+  "msgid": "{numPermits} Permit Used Up",
+  "msgid_plural": "All {numPermits} Permits Used Up",
+  "msgstr": "გამოყენებულია ყველა ნებართვა: {numPermits}",
+  "note": "Works for 1 and for many; 'all' fits both."
+ },
+ {
+  "msgid": "1 Additional Use",
+  "msgid_plural": "{count} Additional Uses",
+  "msgstr": "კიდევ {count} გამოყენება",
+  "note": "Singular msgid has a literal 1; same {count} assumption as the 'And 1 other' string.",
+  "msgstr_one": "კიდევ 1 გამოყენება"
+ },
+ {
+  "msgid": "%s Month",
+  "msgid_plural": "%s Months",
+  "msgstr": "%s თვე"
+ },
+ {
+  "msgid": "%s Year",
+  "msgid_plural": "%s Years",
+  "msgstr": "%s წელი"
+ },
+ {
+  "msgid": "%s Day",
+  "msgid_plural": "%s Days",
+  "msgstr": "%s დღე"
+ },
+ {
+  "msgid": "{hours}h {minutes}m",
+  "msgstr": "{hours} სთ {minutes} წთ"
+ },
+ {
+  "msgid": "{minutes}m {seconds}s",
+  "msgstr": "{minutes} წთ {seconds} წმ"
+ },
+ {
+  "msgid": "{seconds}s",
+  "msgstr": "{seconds} წმ"
+ },
+ {
+  "msgid": "{seconds} s",
+  "msgstr": "{seconds} წმ"
+ },
+ {
+  "msgid": "{minutes} min",
+  "msgstr": "{minutes} წთ"
+ },
+ {
+  "msgid": "{minutes} min {seconds} s",
+  "msgstr": "{minutes} წთ {seconds} წმ"
+ },
+ {
+  "msgid": "Today, {time}",
+  "msgstr": "დღეს, {time}"
+ },
+ {
+  "msgid": "Yesterday, {time}",
+  "msgstr": "გუშინ, {time}"
+ },
+ {
+  "msgid": "{count} day",
+  "msgid_plural": "{count} days",
+  "msgstr": "{count} დღე"
+ },
+ {
+  "msgid": "{} day",
+  "msgid_plural": "{} days",
+  "msgstr": "{} დღე"
+ },
+ {
+  "msgid": "Very Bad",
+  "msgstr": "ძალიან ცუდი"
+ },
+ {
+  "msgid": "Bad",
+  "msgstr": "ცუდი"
+ },
+ {
+  "msgid": "Mediocre",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgid": "Good",
+  "msgstr": "კარგი"
+ },
+ {
+  "msgid": "Very Good",
+  "msgstr": "ძალიან კარგი"
+ }
+]

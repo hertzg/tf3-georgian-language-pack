@@ -93,7 +93,7 @@
  },
  {
   "msgid": "Town",
-  "msgstr": "დასახლება"
+  "msgstr": "დასახლებული პუნქტი"
  },
  {
   "msgid": "Editor",
@@ -109,7 +109,7 @@
  },
  {
   "msgid": "Town Development Inactive",
-  "msgstr": "დასახლების განვითარება შეჩერებულია"
+  "msgstr": "დასახლებული პუნქტის განვითარება შეჩერებულია"
  },
  {
   "msgid": "District Sizes",
@@ -205,7 +205,7 @@
  },
  {
   "msgid": "Enable Town Development",
-  "msgstr": "დასახლების განვითარების ჩართვა"
+  "msgstr": "დასახლებული პუნქტის განვითარების ჩართვა"
  },
  {
   "msgid": "Cargo Demand",
@@ -269,11 +269,11 @@
  },
  {
   "msgid": "No Input",
-  "msgstr": "შემავალი ტვირთის გარეშე"
+  "msgstr": "ნედლეულის გარეშე"
  },
  {
   "msgid": "No Output",
-  "msgstr": "გამავალი ტვირთის გარეშე"
+  "msgstr": "პროდუქციის გარეშე"
  },
  {
   "msgid": "{count} Plots",
@@ -370,11 +370,11 @@
  },
  {
   "msgid": "Incoming",
-  "msgstr": "შემომავალი"
+  "msgstr": "მიღებული"
  },
  {
   "msgid": "Outgoing",
-  "msgstr": "გამავალი"
+  "msgstr": "გაგზავნილი"
  },
  {
   "msgid": "Show Company Window",

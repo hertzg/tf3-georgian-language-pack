@@ -1,46 +1,46 @@
 [
  {
   "msgid": "{townName} Port",
-  "msgstr": "ნავსადგური „{townName}“"
+  "msgstr": "{townName}: ნავსადგური"
  },
  {
   "msgid": "{townName} Warehouse",
-  "msgstr": "საწყობი „{townName}“"
+  "msgstr": "{townName}: საწყობი"
  },
  {
   "msgid": "{townName} Airport",
-  "msgstr": "აეროპორტი „{townName}“"
+  "msgstr": "{townName}: აეროპორტი"
  },
  {
   "msgid": "{townName} Heliport",
-  "msgstr": "შვეულდრომი „{townName}“"
+  "msgstr": "{townName}: შვეულდრომი"
  },
  {
   "msgid": "{townName} Headquarters",
-  "msgstr": "სათაო ოფისი „{townName}“"
+  "msgstr": "{townName}: სათაო ოფისი"
  },
  {
   "msgid": "{townName} Underground Stop",
-  "msgstr": "მიწისქვეშა გაჩერება „{townName}“"
+  "msgstr": "{townName}: მიწისქვეშა გაჩერება"
  },
  {
   "msgid": "{townName} Train Depot",
-  "msgstr": "სარკინიგზო დეპო „{townName}“"
+  "msgstr": "{townName}: სარკინიგზო დეპო"
  },
  {
   "msgid": "{townName} Road Depot",
-  "msgstr": "საავტომობილო დეპო „{townName}“"
+  "msgstr": "{townName}: საავტომობილო დეპო"
  },
  {
   "msgid": "{townName} Tram Depot",
-  "msgstr": "ტრამვაის დეპო „{townName}“"
+  "msgstr": "{townName}: ტრამვაის დეპო"
  },
  {
   "msgid": "{townName} Ship Depot",
-  "msgstr": "გემების დეპო „{townName}“"
+  "msgstr": "{townName}: გემების დეპო"
  },
  {
   "msgid": "{townName} Maintenance Building",
-  "msgstr": "სარემონტო შენობა „{townName}“"
+  "msgstr": "{townName}: სარემონტო შენობა"
  }
 ]

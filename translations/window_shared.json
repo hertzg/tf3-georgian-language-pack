@@ -39,12 +39,11 @@
  },
  {
   "msgid": "Input Stocks",
-  "msgstr": "შემავალი ტვირთის მარაგი",
-  "note": "Matches 'No Input' => შემავალი ტვირთის გარეშე and 'Stocks' => მარაგი."
+  "msgstr": "ნედლეულის მარაგი"
  },
  {
   "msgid": "Output Stocks",
-  "msgstr": "გამავალი ტვირთის მარაგი"
+  "msgstr": "პროდუქციის მარაგი"
  },
  {
   "msgid": "Time Scale",

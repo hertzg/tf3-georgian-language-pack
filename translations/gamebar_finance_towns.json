@@ -1,0 +1,855 @@
+[
+ {
+  "msgid": "Free Camera",
+  "msgstr": "თავისუფალი კამერა"
+ },
+ {
+  "msgid": "Advanced Camera",
+  "msgstr": "გაფართოებული კამერა"
+ },
+ {
+  "msgid": "Music Player",
+  "msgstr": "მუსიკის დამკვრელი"
+ },
+ {
+  "msgid": "Pause",
+  "msgstr": "პაუზა"
+ },
+ {
+  "msgid": "Speed: 1x",
+  "msgstr": "სიჩქარე: 1x"
+ },
+ {
+  "msgid": "Speed: 2x",
+  "msgstr": "სიჩქარე: 2x"
+ },
+ {
+  "msgid": "Speed: 4x",
+  "msgstr": "სიჩქარე: 4x"
+ },
+ {
+  "msgid": "{value}x",
+  "msgstr": "{value}x"
+ },
+ {
+  "msgid": "Paused",
+  "msgstr": "შეჩერებულია",
+  "note": "Shown in place of the speed factor while the game is paused."
+ },
+ {
+  "msgid": "Calendar Speed",
+  "msgstr": "კალენდრის სიჩქარე"
+ },
+ {
+  "msgid": "Sun and Moon Position",
+  "msgstr": "მზისა და მთვარის მდებარეობა"
+ },
+ {
+  "msgid": "Cycle",
+  "msgstr": "ციკლი",
+  "note": "Section title of the day/night and weather cycle options."
+ },
+ {
+  "msgid": "Dynamic",
+  "msgstr": "დინამიკური"
+ },
+ {
+  "msgid": "Continuous",
+  "msgstr": "უწყვეტი"
+ },
+ {
+  "msgid": "Local Time",
+  "msgstr": "ადგილობრივი დრო"
+ },
+ {
+  "msgid": "Skip to Next Time of Day",
+  "msgstr": "დღე-ღამის შემდეგ მონაკვეთზე გადასვლა"
+ },
+ {
+  "msgid": "Cloud Coverage",
+  "msgstr": "ღრუბლიანობა"
+ },
+ {
+  "msgid": "Skip To Next Weather",
+  "msgstr": "შემდეგ ამინდზე გადასვლა"
+ },
+ {
+  "msgid": "Day",
+  "msgstr": "დღე"
+ },
+ {
+  "msgid": "Enter the Desired Day",
+  "msgstr": "შეიყვანეთ სასურველი დღე"
+ },
+ {
+  "msgid": "Month",
+  "msgstr": "თვე"
+ },
+ {
+  "msgid": "Enter the Desired Month",
+  "msgstr": "შეიყვანეთ სასურველი თვე"
+ },
+ {
+  "msgid": "Enter the Desired Year",
+  "msgstr": "შეიყვანეთ სასურველი წელი"
+ },
+ {
+  "msgid": "Weather",
+  "msgstr": "ამინდი"
+ },
+ {
+  "msgid": "Time of Day",
+  "msgstr": "დღე-ღამის დრო"
+ },
+ {
+  "msgid": "Current Date",
+  "msgstr": "მიმდინარე თარიღი"
+ },
+ {
+  "msgid": "Weather and Time",
+  "msgstr": "ამინდი და დრო"
+ },
+ {
+  "msgid": "Layers",
+  "msgstr": "ფენები"
+ },
+ {
+  "msgid": "Finances",
+  "msgstr": "ფინანსები"
+ },
+ {
+  "msgid": "Company",
+  "msgstr": "კომპანია"
+ },
+ {
+  "msgid": "Calendar",
+  "msgstr": "კალენდარი"
+ },
+ {
+  "msgid": "Notifications",
+  "msgstr": "შეტყობინებები"
+ },
+ {
+  "msgid": "Mods",
+  "msgstr": "მოდები"
+ },
+ {
+  "msgid": "Select To Modify Balance",
+  "msgstr": "მონიშნეთ ბალანსის შესაცვლელად"
+ },
+ {
+  "msgid": "Company Finances",
+  "msgstr": "კომპანიის ფინანსები"
+ },
+ {
+  "msgid": "Account",
+  "msgstr": "ანგარიში"
+ },
+ {
+  "msgid": "{percentage} of progress towards {role}.",
+  "msgstr": "{percentage} შემდეგ წოდებამდე: {role}.",
+  "note": "Same pattern as '{percentage} Towards {nextTownLevelName}'."
+ },
+ {
+  "msgid": "{role} is the highest rank.",
+  "msgstr": "{role} უმაღლესი წოდებაა."
+ },
+ {
+  "msgid": "Generate Heightmap",
+  "msgstr": "სიმაღლეების რუკის გენერირება"
+ },
+ {
+  "msgid": "Import Heightmap",
+  "msgstr": "სიმაღლეების რუკის იმპორტი"
+ },
+ {
+  "msgid": "Towns / Industries",
+  "msgstr": "დასახლებული პუნქტები / საწარმოები"
+ },
+ {
+  "msgid": "Main Connections",
+  "msgstr": "მთავარი გზები",
+  "note": "Map editor tool that builds the roads between towns; same term in 'Interrupted Main Connections'."
+ },
+ {
+  "msgid": "Road",
+  "msgstr": "საგზაო ტრანსპორტი",
+  "note": "Shared msgid: game bar build-menu tooltip, construction filter category and finance table column. If the finance column is too narrow, fall back to the adjective alone."
+ },
+ {
+  "msgid": "Rail",
+  "msgstr": "სარკინიგზო ტრანსპორტი",
+  "note": "Shared msgid: game bar build-menu tooltip, construction filter category and finance table column. If the finance column is too narrow, fall back to the adjective alone."
+ },
+ {
+  "msgid": "Water",
+  "msgstr": "წყლის ტრანსპორტი",
+  "note": "Shared msgid: game bar build-menu tooltip, construction filter category and finance table column. If the finance column is too narrow, fall back to the adjective alone."
+ },
+ {
+  "msgid": "Air",
+  "msgstr": "საჰაერო ტრანსპორტი",
+  "note": "Shared msgid: game bar build-menu tooltip, construction filter category and finance table column. If the finance column is too narrow, fall back to the adjective alone."
+ },
+ {
+  "msgid": "Roads",
+  "msgstr": "გზები"
+ },
+ {
+  "msgid": "Tracks",
+  "msgstr": "ლიანდაგები"
+ },
+ {
+  "msgid": "Perks",
+  "msgstr": "უპირატესობები"
+ },
+ {
+  "msgid": "Landscaping",
+  "msgstr": "ლანდშაფტის მოწყობა"
+ },
+ {
+  "msgid": "Bulldozer",
+  "msgstr": "ბულდოზერი"
+ },
+ {
+  "msgid": "Terrain Generator Editor",
+  "msgstr": "რელიეფის გენერატორის რედაქტორი"
+ },
+ {
+  "msgid": "Line Statistics",
+  "msgstr": "ხაზების სტატისტიკა"
+ },
+ {
+  "msgid": "Vehicle Statistics",
+  "msgstr": "სატრანსპორტო საშუალებების სტატისტიკა"
+ },
+ {
+  "msgid": "Station Statistics",
+  "msgstr": "სადგურების სტატისტიკა"
+ },
+ {
+  "msgid": "Depot Statistics",
+  "msgstr": "დეპოების სტატისტიკა"
+ },
+ {
+  "msgid": "Town Statistics",
+  "msgstr": "დასახლებული პუნქტების სტატისტიკა"
+ },
+ {
+  "msgid": "Industry Statistics",
+  "msgstr": "საწარმოების სტატისტიკა"
+ },
+ {
+  "msgid": "Menu",
+  "msgstr": "მენიუ"
+ },
+ {
+  "msgid": "Change Weather and Time",
+  "msgstr": "ამინდისა და დროის შეცვლა"
+ },
+ {
+  "msgid": "Context Help",
+  "msgstr": "კონტექსტური დახმარება"
+ },
+ {
+  "msgid": "Transported Passengers",
+  "msgstr": "გადაყვანილი მგზავრები"
+ },
+ {
+  "msgid": "Transported Cargo",
+  "msgstr": "გადაზიდული ტვირთი"
+ },
+ {
+  "msgid": "Total Earnings",
+  "msgstr": "ჯამური მოგება"
+ },
+ {
+  "msgid": "Earnings",
+  "msgstr": "მოგება",
+  "note": "Net result (revenue minus costs); also the finance table total row."
+ },
+ {
+  "msgid": "Repay",
+  "msgstr": "დაფარვა"
+ },
+ {
+  "msgid": "Obtain",
+  "msgstr": "აღება"
+ },
+ {
+  "msgid": "{money} per Min",
+  "msgstr": "{money} წუთში"
+ },
+ {
+  "msgid": "Loan Repayment ({money} per {timeInterval})",
+  "msgstr": "სესხის დაფარვა ({money} / {timeInterval})",
+  "note": "'per {timeInterval}' as a slash so the inserted interval stays nominative."
+ },
+ {
+  "msgid": "{money} per Year",
+  "msgstr": "{money} წელიწადში"
+ },
+ {
+  "msgid": "Annual Loan Repayment ({money} per {timeInterval})",
+  "msgstr": "სესხის წლიური დაფარვა ({money} / {timeInterval})"
+ },
+ {
+  "msgid": "Loan Amount",
+  "msgstr": "სესხის თანხა"
+ },
+ {
+  "msgid": "Outstanding Loan Debt",
+  "msgstr": "სესხის დარჩენილი დავალიანება"
+ },
+ {
+  "msgid": "Loan Term",
+  "msgstr": "სესხის ვადა"
+ },
+ {
+  "msgid": "Annual Interest Rate",
+  "msgstr": "წლიური საპროცენტო განაკვეთი"
+ },
+ {
+  "msgid": "Offers",
+  "msgstr": "შეთავაზებები"
+ },
+ {
+  "msgid": "Obtained",
+  "msgstr": "აღებული"
+ },
+ {
+  "msgid": "Investments",
+  "msgstr": "ინვესტიციები"
+ },
+ {
+  "msgid": "New Loans",
+  "msgstr": "ახალი სესხები"
+ },
+ {
+  "msgid": "Principal Repayment",
+  "msgstr": "ძირი თანხის დაფარვა"
+ },
+ {
+  "msgid": "Loan Transactions",
+  "msgstr": "სესხის ოპერაციები"
+ },
+ {
+  "msgid": "Loan Interest",
+  "msgstr": "სესხის პროცენტი"
+ },
+ {
+  "msgid": "Bank Account",
+  "msgstr": "საბანკო ანგარიში"
+ },
+ {
+  "msgid": "Debt",
+  "msgstr": "დავალიანება"
+ },
+ {
+  "msgid": "Earnings Details",
+  "msgstr": "მოგების დეტალები"
+ },
+ {
+  "msgid": "Summary",
+  "msgstr": "შეჯამება"
+ },
+ {
+  "msgid": "General",
+  "msgstr": "ზოგადი",
+  "note": "Finance column for costs not tied to a transport mode; also the settings page title."
+ },
+ {
+  "msgid": "Other",
+  "msgstr": "სხვა"
+ },
+ {
+  "msgid": "Upkeep Stations",
+  "msgstr": "სადგურების მოვლა-შენახვა"
+ },
+ {
+  "msgid": "Upkeep Depots",
+  "msgstr": "დეპოების მოვლა-შენახვა"
+ },
+ {
+  "msgid": "Upkeep Roads",
+  "msgstr": "გზების მოვლა-შენახვა"
+ },
+ {
+  "msgid": "Upkeep Tracks",
+  "msgstr": "ლიანდაგების მოვლა-შენახვა"
+ },
+ {
+  "msgid": "Upkeep Buildings",
+  "msgstr": "შენობების მოვლა-შენახვა"
+ },
+ {
+  "msgid": "Infrastructure",
+  "msgstr": "ინფრასტრუქტურა"
+ },
+ {
+  "msgid": "Other Infrastructure",
+  "msgstr": "სხვა ინფრასტრუქტურა"
+ },
+ {
+  "msgid": "Revenue",
+  "msgstr": "შემოსავალი"
+ },
+ {
+  "msgid": "Running Costs Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებების მიმდინარე ხარჯები"
+ },
+ {
+  "msgid": "Maintenance Vehicles",
+  "msgstr": "სატრანსპორტო საშუალებების მომსახურება"
+ },
+ {
+  "msgid": "Upkeep Other",
+  "msgstr": "სხვა მოვლა-შენახვა"
+ },
+ {
+  "msgid": "Subsidies",
+  "msgstr": "სუბსიდიები"
+ },
+ {
+  "msgid": "Expenses",
+  "msgstr": "ხარჯები"
+ },
+ {
+  "msgid": "Debt + Cash",
+  "msgstr": "დავალიანება + ფულადი სახსრები"
+ },
+ {
+  "msgid": "Company Value",
+  "msgstr": "კომპანიის ღირებულება"
+ },
+ {
+  "msgid": "Revenue and Expenses",
+  "msgstr": "შემოსავალი და ხარჯები"
+ },
+ {
+  "msgid": "Debt and Cash",
+  "msgstr": "დავალიანება და ფულადი სახსრები"
+ },
+ {
+  "msgid": "Expected Delivery Times",
+  "msgstr": "მიწოდების მოსალოდნელი დრო"
+ },
+ {
+  "msgid": "This graph shows the expected delivery time for each cargo type. Some cargo types, especially food, have a low expected delivery time, while delivering bulk cargo is less time sensitive. Make sure you deliver your cargo on time, because this has an effect on your town ratings.",
+  "msgstr": "ეს გრაფიკი აჩვენებს თითოეული სახის ტვირთის მიწოდების მოსალოდნელ დროს. ზოგიერთი ტვირთისთვის, განსაკუთრებით საკვებისთვის, ეს დრო მოკლეა, ნაყარი ტვირთისთვის კი დრო ნაკლებად მნიშვნელოვანია. ტვირთი დროულად მიიტანეთ, რადგან ეს დასახლებული პუნქტების შეფასებებზე აისახება."
+ },
+ {
+  "msgid": "Loans",
+  "msgstr": "სესხები"
+ },
+ {
+  "msgid": "Delivery Time",
+  "msgstr": "მიწოდების დრო"
+ },
+ {
+  "msgid": "All Vehicles",
+  "msgstr": "ყველა სატრანსპორტო საშუალება"
+ },
+ {
+  "msgid": "Total Track and Road Length",
+  "msgstr": "ლიანდაგებისა და გზების საერთო სიგრძე"
+ },
+ {
+  "msgid": "Total Road Length",
+  "msgstr": "გზების საერთო სიგრძე"
+ },
+ {
+  "msgid": "Total Track Length",
+  "msgstr": "ლიანდაგების საერთო სიგრძე"
+ },
+ {
+  "msgid": "Total Electrified Track Length",
+  "msgstr": "ელექტრიფიცირებული ლიანდაგების საერთო სიგრძე"
+ },
+ {
+  "msgid": "Total Bridge Length",
+  "msgstr": "ხიდების საერთო სიგრძე"
+ },
+ {
+  "msgid": "Total Tunnel Length",
+  "msgstr": "გვირაბების საერთო სიგრძე"
+ },
+ {
+  "msgid": "All Stations",
+  "msgstr": "ყველა სადგური"
+ },
+ {
+  "msgid": "Road Stations",
+  "msgstr": "საავტომობილო სადგურები"
+ },
+ {
+  "msgid": "Tram Stations",
+  "msgstr": "ტრამვაის სადგურები"
+ },
+ {
+  "msgid": "Train Stations",
+  "msgstr": "სარკინიგზო სადგურები"
+ },
+ {
+  "msgid": "Ports",
+  "msgstr": "ნავსადგურები"
+ },
+ {
+  "msgid": "Airports & Heliports",
+  "msgstr": "აეროპორტები და შვეულდრომები"
+ },
+ {
+  "msgid": "Number of Supplied Towns",
+  "msgstr": "მომარაგებული დასახლებული პუნქტების რაოდენობა"
+ },
+ {
+  "msgid": "Number of Connected Industries",
+  "msgstr": "დაკავშირებული საწარმოების რაოდენობა"
+ },
+ {
+  "msgid": "Number of Lines",
+  "msgstr": "ხაზების რაოდენობა"
+ },
+ {
+  "msgid": "Longest Train",
+  "msgstr": "ყველაზე გრძელი მატარებელი"
+ },
+ {
+  "msgid": "Oldest Vehicle",
+  "msgstr": "ყველაზე ძველი სატრანსპორტო საშუალება"
+ },
+ {
+  "msgid": "No cargo or passengers transported, yet.",
+  "msgstr": "ჯერჯერობით არც ტვირთი გადაზიდულა და არც მგზავრები გადაყვანილა."
+ },
+ {
+  "msgid": "Transported Passengers and Cargo",
+  "msgstr": "გადაყვანილი მგზავრები და გადაზიდული ტვირთი"
+ },
+ {
+  "msgid": "Town Level Up",
+  "msgstr": "დასახლებული პუნქტის დონის ზრდა"
+ },
+ {
+  "msgid": "Thanks to the excellent care, {town} was able to grow steadily and reached a new level: {townType}.",
+  "msgstr": "შესანიშნავი ზრუნვის წყალობით {town} თანდათან გაიზარდა და ახალ დონეზე ავიდა: {townType}.",
+  "note": "Same wording as the existing '{townName}' version in sentences.json."
+ },
+ {
+  "msgid": "Removed Trees",
+  "msgstr": "მოჭრილი ხეები"
+ },
+ {
+  "msgid": "Removed Rocks",
+  "msgstr": "მოშორებული ლოდები"
+ },
+ {
+  "msgid": "Interrupted Main Connections",
+  "msgstr": "გაწყვეტილი მთავარი გზები"
+ },
+ {
+  "msgid": "Failed Subsidy",
+  "msgstr": "ჩაშლილი სუბსიდია"
+ },
+ {
+  "msgid": "Demolished Buildings",
+  "msgstr": "დანგრეული შენობები"
+ },
+ {
+  "msgid": "Replant some trees to improve reputation.",
+  "msgstr": "რეპუტაციის გასაუმჯობესებლად ხელახლა დარგეთ ხეები."
+ },
+ {
+  "msgid": "Place some rocks to improve reputation.",
+  "msgstr": "რეპუტაციის გასაუმჯობესებლად დადგით ლოდები."
+ },
+ {
+  "msgid": "Restore main connection to improve reputation.",
+  "msgstr": "რეპუტაციის გასაუმჯობესებლად აღადგინეთ მთავარი გზა."
+ },
+ {
+  "msgid": "Arrived Last Year",
+  "msgstr": "გასულ წელს მიწოდებული",
+  "note": "Tooltip on a town's delivered-cargo count."
+ },
+ {
+  "msgid": "{current}/{total}",
+  "msgstr": "{current}/{total}"
+ },
+ {
+  "msgid": "Public transport coverage is {percent}.",
+  "msgstr": "საზოგადოებრივი ტრანსპორტით დაფარვა: {percent}."
+ },
+ {
+  "msgid": "{percent} of demand for {cargoName} is currently met.",
+  "msgstr": "{cargoName}: ამჟამად დაკმაყოფილებულია მოთხოვნის {percent}.",
+  "note": "Cargo name moved to the front after a colon so it stays nominative."
+ },
+ {
+  "msgid": "Passenger Line Usage",
+  "msgstr": "სამგზავრო ხაზების გამოყენება"
+ },
+ {
+  "msgid": "Supply Percentage",
+  "msgstr": "მომარაგების პროცენტი"
+ },
+ {
+  "msgid": "No Transports",
+  "msgstr": "გადაყვანა არ ხდება",
+  "note": "Shown as 'Passengers: ...'."
+ },
+ {
+  "msgid": "No Supplies",
+  "msgstr": "მომარაგება არ ხდება"
+ },
+ {
+  "msgid": "Supplies Rating",
+  "msgstr": "მომარაგების შეფასება"
+ },
+ {
+  "msgid": "No Transports or Supplies",
+  "msgstr": "არც გადაყვანა, არც მომარაგება"
+ },
+ {
+  "msgid": "Stagnant",
+  "msgstr": "არ იზრდება"
+ },
+ {
+  "msgid": "Growing Very Slowly",
+  "msgstr": "ძალიან ნელა იზრდება"
+ },
+ {
+  "msgid": "Growing Slowly",
+  "msgstr": "ნელა იზრდება"
+ },
+ {
+  "msgid": "Growing",
+  "msgstr": "იზრდება"
+ },
+ {
+  "msgid": "Growing Fast",
+  "msgstr": "სწრაფად იზრდება"
+ },
+ {
+  "msgid": "Growing Lightning Fast",
+  "msgstr": "ელვისებურად იზრდება"
+ },
+ {
+  "msgid": "No Experience Earned Last Year",
+  "msgstr": "გასულ წელს გამოცდილება არ დაგროვილა"
+ },
+ {
+  "msgid": "Earned Last Year",
+  "msgstr": "გასულ წელს დაგროვილი"
+ },
+ {
+  "msgid": "Passenger Experience",
+  "msgstr": "სამგზავრო გამოცდილება"
+ },
+ {
+  "msgid": "Cargo Experience",
+  "msgstr": "სატვირთო გამოცდილება"
+ },
+ {
+  "msgid": "Average Growth Rate:",
+  "msgstr": "ზრდის საშუალო ტემპი:"
+ },
+ {
+  "msgid": "Earn {exp} Experience Points",
+  "msgstr": "დააგროვეთ {exp} გამოცდილების ქულა",
+  "note": "Singular after a number."
+ },
+ {
+  "msgid": "Highest Town Level Reached",
+  "msgstr": "მიღწეულია უმაღლესი დონე"
+ },
+ {
+  "msgid": "Growth Rate:",
+  "msgstr": "ზრდის ტემპი:"
+ },
+ {
+  "msgid": "Town Authority",
+  "msgstr": "ადგილობრივი ხელისუფლება"
+ },
+ {
+  "msgid": "Annual Recovery",
+  "msgstr": "წლიური აღდგენა"
+ },
+ {
+  "msgid": "Marketing Campaign",
+  "msgstr": "მარკეტინგული კამპანია"
+ },
+ {
+  "msgid": "Reputation Rating",
+  "msgstr": "რეპუტაციის შეფასება"
+ },
+ {
+  "msgid": "Bonuses Rating",
+  "msgstr": "ბონუსების შეფასება"
+ },
+ {
+  "msgid": "No Bonuses",
+  "msgstr": "ბონუსები არ არის"
+ },
+ {
+  "msgid": "Build a Landmark",
+  "msgstr": "ააშენეთ ღირსშესანიშნაობა"
+ },
+ {
+  "msgid": "Growth Factor Bonus",
+  "msgstr": "ზრდის კოეფიციენტის ბონუსი"
+ },
+ {
+  "msgid": "Reputation Recovery",
+  "msgstr": "რეპუტაციის აღდგენა"
+ },
+ {
+  "msgid": "Traffic Rating Bonus",
+  "msgstr": "საგზაო მოძრაობის შეფასების ბონუსი"
+ },
+ {
+  "msgid": "Congestion Level",
+  "msgstr": "საცობების დონე"
+ },
+ {
+  "msgid": "Number of Roads",
+  "msgstr": "გზების რაოდენობა"
+ },
+ {
+  "msgid": "Local passengers",
+  "msgstr": "ადგილობრივი მგზავრები"
+ },
+ {
+  "msgid": "Passengers travelling within the settlement",
+  "msgstr": "მგზავრები, რომლებიც დასახლებული პუნქტის შიგნით მგზავრობენ"
+ },
+ {
+  "msgid": "Outbound passengers",
+  "msgstr": "გამგზავრებული მგზავრები",
+  "note": "Source mismatch: English pairs 'Outbound' with 'from other settlements' (and Inbound with 'to'). Translated literally; the rows are commented out in the game scripts, so not visible today."
+ },
+ {
+  "msgid": "Passengers travelling from other settlements",
+  "msgstr": "მგზავრები, რომლებიც სხვა დასახლებული პუნქტებიდან მგზავრობენ"
+ },
+ {
+  "msgid": "Inbound passengers",
+  "msgstr": "ჩამოსული მგზავრები"
+ },
+ {
+  "msgid": "Passengers travelling to other settlements",
+  "msgstr": "მგზავრები, რომლებიც სხვა დასახლებულ პუნქტებში მგზავრობენ"
+ },
+ {
+  "msgid": "Residents at buildings",
+  "msgstr": "მაცხოვრებლები შენობებში"
+ },
+ {
+  "msgid": "Residents of this settlement currently at buildings",
+  "msgstr": "ამ დასახლებული პუნქტის მაცხოვრებლები, რომლებიც ამჟამად შენობებში იმყოფებიან"
+ },
+ {
+  "msgid": "Residents driving",
+  "msgstr": "ავტომობილით მოძრავი მაცხოვრებლები"
+ },
+ {
+  "msgid": "Residents of this settlement travelling by car",
+  "msgstr": "ამ დასახლებული პუნქტის მაცხოვრებლები, რომლებიც ავტომობილით მგზავრობენ"
+ },
+ {
+  "msgid": "Residents walking",
+  "msgstr": "ფეხით მოსიარულე მაცხოვრებლები"
+ },
+ {
+  "msgid": "Residents of this settlement walking",
+  "msgstr": "ამ დასახლებული პუნქტის მაცხოვრებლები, რომლებიც ფეხით დადიან"
+ },
+ {
+  "msgid": "Happy Passengers",
+  "msgstr": "კმაყოფილი მგზავრები"
+ },
+ {
+  "msgid": "Wait Times Rating",
+  "msgstr": "ლოდინის დროის შეფასება"
+ },
+ {
+  "msgid": "Arrived on time in the past 6 months.",
+  "msgstr": "ბოლო 6 თვეში დროულად მიწოდებული."
+ },
+ {
+  "msgid": "Arrived late in the past 6 months.",
+  "msgstr": "ბოლო 6 თვეში დაგვიანებით მიწოდებული."
+ },
+ {
+  "msgid": "On Time Delivery Rating",
+  "msgstr": "დროული მიწოდების შეფასება"
+ },
+ {
+  "msgid": "District",
+  "msgstr": "უბანი"
+ },
+ {
+  "msgid": "Noise Level",
+  "msgstr": "ხმაურის დონე"
+ },
+ {
+  "msgid": "Company Vehicles",
+  "msgstr": "კომპანიის სატრანსპორტო საშუალებები"
+ },
+ {
+  "msgid": "Residents' Vehicles",
+  "msgstr": "მაცხოვრებლების ავტომობილები"
+ },
+ {
+  "msgid": "Maintenance Buildings",
+  "msgstr": "სარემონტო შენობები"
+ },
+ {
+  "msgid": "Pollution Source",
+  "msgstr": "დაბინძურების წყარო"
+ },
+ {
+  "msgid": "Noise Source",
+  "msgstr": "ხმაურის წყარო"
+ },
+ {
+  "msgid": "Contribution",
+  "msgstr": "წვლილი"
+ },
+ {
+  "msgid": "Other Lines",
+  "msgstr": "სხვა ხაზები"
+ },
+ {
+  "msgid": "Respect the town and its surrounding nature. Celebrations and marketing campaigns improve reputation.",
+  "msgstr": "გაუფრთხილდით დასახლებულ პუნქტს და მის შემოგარენში არსებულ ბუნებას. დღესასწაულები და მარკეტინგული კამპანიები რეპუტაციას აუმჯობესებს."
+ },
+ {
+  "msgid": "Build landmarks in the municipal area to gain bonuses.",
+  "msgstr": "ბონუსების მისაღებად ააშენეთ ღირსშესანიშნაობები დასახლებული პუნქტის ტერიტორიაზე."
+ },
+ {
+  "msgid": "Transport people and supply cargo to grow the town.",
+  "msgstr": "დასახლებული პუნქტის გასაზრდელად გადაიყვანეთ ხალხი და მიაწოდეთ ტვირთი."
+ },
+ {
+  "msgid": "Make sure traffic is flowing efficiently.",
+  "msgstr": "იზრუნეთ, რომ საგზაო მოძრაობა შეუფერხებლად მიმდინარეობდეს."
+ },
+ {
+  "msgid": "Move people efficiently and with minimal wait times at stations.",
+  "msgstr": "გადაიყვანეთ ხალხი ეფექტიანად და სადგურებზე მინიმალური ლოდინით."
+ },
+ {
+  "msgid": "Bring cargo within the expected delivery time to its destination.",
+  "msgstr": "მიიტანეთ ტვირთი დანიშნულების ადგილამდე მიწოდების მოსალოდნელ დროში."
+ },
+ {
+  "msgid": "Keep the noise level in the residential district low.",
+  "msgstr": "შეინარჩუნეთ ხმაურის დაბალი დონე საცხოვრებელ უბანში."
+ },
+ {
+  "msgid": "Keep the pollution level in the municipal area low.",
+  "msgstr": "შეინარჩუნეთ დაბინძურების დაბალი დონე დასახლებული პუნქტის ტერიტორიაზე."
+ }
+]

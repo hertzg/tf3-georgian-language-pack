@@ -10,54 +10,47 @@
  },
  {
   "msgid": "{stationName} Annex",
-  "msgstr": "{stationName} – დამატებითი",
-  "note": "Georgian railway style: name, dash, adjective (like თბილისი-სამგზავრო)."
+  "msgstr": "{stationName} (დამატებითი)"
  },
  {
   "msgid": "{stationName} Branch",
-  "msgstr": "{stationName} – განშტოება"
+  "msgstr": "{stationName} (განშტოება)"
  },
  {
   "msgid": "{stationName} Central",
-  "msgstr": "ცენტრალური {stationName}",
-  "note": "Prefix adjective: ცენტრალური სადგური „მცხეთა“."
+  "msgstr": "{stationName} (ცენტრალური)"
  },
  {
   "msgid": "{stationName} East",
-  "msgstr": "აღმოსავლეთ {stationName}",
-  "note": "Prefix form: აღმოსავლეთ სადგური „მცხეთა“."
+  "msgstr": "{stationName} (აღმოსავლეთი)"
  },
  {
   "msgid": "{stationName} Exchange",
-  "msgstr": "საკვანძო {stationName}",
-  "note": "Dictionary: junction - საკვანძო სადგური, so საკვანძო სადგური „მცხეთა“."
+  "msgstr": "{stationName} (საკვანძო)"
  },
  {
   "msgid": "{stationName} Halt",
-  "msgstr": "მცირე {stationName}",
-  "note": "Dictionary: halt - გაჩერება, but after სადგური „X“ a dash suffix reads odd; prefix gives მცირე სადგური „მცხეთა“."
+  "msgstr": "{stationName} (პატარა)"
  },
  {
   "msgid": "{stationName} North",
-  "msgstr": "ჩრდილოეთ {stationName}",
-  "note": "Prefix form: ჩრდილოეთ სადგური „მცხეთა“."
+  "msgstr": "{stationName} (ჩრდილოეთი)"
  },
  {
   "msgid": "{stationName} Sidings",
-  "msgstr": "{stationName} – სასორტირებო",
-  "note": "Railway style, like თბილისი-სასორტირებო."
+  "msgstr": "{stationName} (სასორტირებო)"
  },
  {
   "msgid": "{stationName} South",
-  "msgstr": "სამხრეთ {stationName}"
+  "msgstr": "{stationName} (სამხრეთი)"
  },
  {
   "msgid": "{stationName} Transfer",
-  "msgstr": "{stationName} – გადასაჯდომი"
+  "msgstr": "{stationName} (გადასაჯდომი)"
  },
  {
   "msgid": "{stationName} West",
-  "msgstr": "დასავლეთ {stationName}"
+  "msgstr": "{stationName} (დასავლეთი)"
  },
  {
   "msgid": "{townName}",
@@ -65,29 +58,26 @@
  },
  {
   "msgid": "{townName} {constructionName}",
-  "msgstr": "{constructionName} „{townName}“",
-  "note": "Convention: type first, town as quoted apposition. სათევზაო მეურნეობა „ვალე“."
+  "msgstr": "{townName}: {constructionName}"
  },
  {
   "msgid": "{townName} Signal #{number}",
-  "msgstr": "სიგნალი „{townName}“ #{number}"
+  "msgstr": "{townName}: სიგნალი #{number}"
  },
  {
   "msgid": "{townName} Station",
-  "msgstr": "სადგური „{townName}“",
-  "note": "Like metro/rail announcements: სადგური „რუსთაველი“."
+  "msgstr": "{townName}: სადგური"
  },
  {
   "msgid": "{townName} Waypoint #{number}",
-  "msgstr": "შუალედური წერტილი „{townName}“ #{number}",
-  "note": "Same term as the line-manager tooltip (Move waypoint to {name})."
+  "msgstr": "{townName}: შუალედური წერტილი #{number}"
  },
  {
   "msgid": "Lower {stationName}",
-  "msgstr": "ქვედა {stationName}"
+  "msgstr": "{stationName} (ქვედა)"
  },
  {
   "msgid": "Upper {stationName}",
-  "msgstr": "ზედა {stationName}"
+  "msgstr": "{stationName} (ზედა)"
  }
 ]
