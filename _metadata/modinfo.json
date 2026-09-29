@@ -1,7 +1,7 @@
 {
     "name": "Georgian Names",
     "summary": "Georgian names for towns, streets and people.",
-    "description": "Adds two name sets: Georgian (Latin) and Georgian (Mkhedruli script). Pick one in the game settings.",
+    "description": "Adds a Georgian name set in Mkhedruli script (ქართული). Pick it in the game settings.",
     "authors": [
         {
             "name": "hertzg",
