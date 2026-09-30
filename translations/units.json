@@ -1,0 +1,68 @@
+[
+ {
+  "msgid": "{speed} km/h",
+  "msgstr": "{speed} კმ/სთ"
+ },
+ {
+  "msgid": "{speed} mph",
+  "msgstr": "{speed} მილი/სთ"
+ },
+ {
+  "msgid": "{distance} km",
+  "msgstr": "{distance} კმ"
+ },
+ {
+  "msgid": "{distance} m",
+  "msgstr": "{distance} მ"
+ },
+ {
+  "msgid": "{distance} mi",
+  "msgstr": "{distance} მილი"
+ },
+ {
+  "msgid": "{distance} ft",
+  "msgstr": "{distance} ფუტი"
+ },
+ {
+  "msgid": "{weight} t",
+  "msgstr": "{weight} ტ"
+ },
+ {
+  "msgid": "{weight} kg",
+  "msgstr": "{weight} კგ"
+ },
+ {
+  "msgid": "{weight} lb",
+  "msgstr": "{weight} გირვ."
+ },
+ {
+  "msgid": "{power} kW",
+  "msgstr": "{power} კვტ"
+ },
+ {
+  "msgid": "{power} hp",
+  "msgstr": "{power} ც.ძ."
+ },
+ {
+  "msgid": "{force} kN",
+  "msgstr": "{force} კნ"
+ },
+ {
+  "msgid": "{force} kgf",
+  "msgstr": "{force} კგძ"
+ },
+ {
+  "msgid": "{force} lbf",
+  "msgstr": "{force} გირვ.ძ."
+ },
+ {
+  "msgid": "{} month",
+  "msgid_plural": "{} months",
+  "msgstr": "{} თვე"
+ },
+ {
+  "msgid": "{} year",
+  "msgid_plural": "{} years",
+  "msgstr": "{} წელი"
+ }
+]

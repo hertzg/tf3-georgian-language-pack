@@ -1,0 +1,1716 @@
+[
+ {
+  "msgid": "Partially Specialized Terminal: {boost}",
+  "msgstr": "ნაწილობრივ სპეციალიზებული ტერმინალი: {boost}"
+ },
+ {
+  "msgid": "Specialized Terminal: {boost}",
+  "msgstr": "სპეციალიზებული ტერმინალი: {boost}"
+ },
+ {
+  "msgid": "Specializations Don't Match: {penalty}",
+  "msgstr": "სპეციალიზაციები არ ემთხვევა: {penalty}"
+ },
+ {
+  "msgid": "Terminal Too Short: {penalty}",
+  "msgstr": "ტერმინალი მოკლეა: {penalty}"
+ },
+ {
+  "msgid": "Waiting For Cargo",
+  "msgstr": "ტვირთის მოლოდინში"
+ },
+ {
+  "msgid": "Average Happiness: {happiness}",
+  "msgstr": "საშუალო კმაყოფილება: {happiness}"
+ },
+ {
+  "msgid": "Passengers and All Cargo Types",
+  "msgstr": "მგზავრები და ყველა სახის ტვირთი"
+ },
+ {
+  "msgid": "Next",
+  "msgstr": "შემდეგი"
+ },
+ {
+  "msgid": "Headquarters",
+  "msgstr": "სათაო ოფისი"
+ },
+ {
+  "msgid": "Change Type",
+  "msgstr": "ტიპის შეცვლა"
+ },
+ {
+  "msgid": "No Bridge",
+  "msgstr": "ხიდის გარეშე"
+ },
+ {
+  "msgid": "No Tunnel",
+  "msgstr": "გვირაბის გარეშე"
+ },
+ {
+  "msgid": "All unsaved progress will be lost.",
+  "msgstr": "შეუნახავი პროგრესი დაიკარგება."
+ },
+ {
+  "msgid": "Resume",
+  "msgstr": "გაგრძელება"
+ },
+ {
+  "msgid": "Save and Play",
+  "msgstr": "შენახვა და თამაში"
+ },
+ {
+  "msgid": "Save Map",
+  "msgstr": "რუკის შენახვა"
+ },
+ {
+  "msgid": "Save Game",
+  "msgstr": "თამაშის შენახვა"
+ },
+ {
+  "msgid": "Return to Main Menu",
+  "msgstr": "მთავარ მენიუში დაბრუნება"
+ },
+ {
+  "msgid": "To Main Menu",
+  "msgstr": "მთავარ მენიუში"
+ },
+ {
+  "msgid": "Quit",
+  "msgstr": "გასვლა"
+ },
+ {
+  "msgid": "Return to Desktop",
+  "msgstr": "სამუშაო მაგიდაზე გასვლა"
+ },
+ {
+  "msgid": "Game Paused - {savegameName}",
+  "msgstr": "თამაში დაპაუზებულია - {savegameName}"
+ },
+ {
+  "msgid": "Details",
+  "msgstr": "დეტალები"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Trophies",
+  "msgstr": "ტროფეები",
+  "note": "PlayStation term; ტროფეი is the established Georgian word."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Achievements",
+  "msgstr": "მიღწევები"
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Achievements",
+  "msgstr": "მიღწევები"
+ },
+ {
+  "msgid": "I have read and agree to the {document}",
+  "msgstr": "გავეცანი და ვეთანხმები: {document}"
+ },
+ {
+  "msgid": "Back",
+  "msgstr": "უკან"
+ },
+ {
+  "msgid": "Unknown Author",
+  "msgstr": "უცნობი ავტორი"
+ },
+ {
+  "msgid": "Staging mod not found",
+  "msgstr": "ასატვირთად მომზადებული მოდი ვერ მოიძებნა"
+ },
+ {
+  "msgid": "Browser",
+  "msgstr": "დათვალიერება",
+  "note": "Mod manager tab for browsing online mods, so დათვალიერება (browse) rather than ბრაუზერი. Check in game."
+ },
+ {
+  "msgid": "All Mods by {author}",
+  "msgstr": "ავტორის ყველა მოდი: {author}"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Account",
+  "msgstr": "ანგარიში"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Paradox Account",
+  "msgstr": "Paradox ანგარიში"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Mod.io",
+  "msgstr": "Mod.io"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Steam",
+  "msgstr": "Steam"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Steam (Offline)",
+  "msgstr": "Steam (ოფლაინ)"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "GOG.com",
+  "msgstr": "GOG.com"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Epic Games",
+  "msgstr": "Epic Games"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "XBOX network",
+  "msgstr": "XBOX network"
+ },
+ {
+  "msgctxt": "modhub-login",
+  "msgid": "Account for PlayStation™Network",
+  "msgstr": "PlayStation™Network ანგარიში"
+ },
+ {
+  "msgid": "N/A",
+  "msgstr": "არ არის"
+ },
+ {
+  "msgid": "Insufficient Storage Space",
+  "msgstr": "არასაკმარისი თავისუფალი ადგილი"
+ },
+ {
+  "msgid": "Filesystem Error",
+  "msgstr": "ფაილური სისტემის შეცდომა"
+ },
+ {
+  "msgid": "Downloading",
+  "msgstr": "მიმდინარეობს ჩამოტვირთვა"
+ },
+ {
+  "msgid": "Update Pending",
+  "msgstr": "განახლება მოლოდინშია"
+ },
+ {
+  "msgid": "Installed",
+  "msgstr": "დაყენებულია"
+ },
+ {
+  "msgid": "Download Pending",
+  "msgstr": "ჩამოტვირთვა მოლოდინშია"
+ },
+ {
+  "msgid": "Installation Pending",
+  "msgstr": "დაყენება მოლოდინშია"
+ },
+ {
+  "msgid": "Uninstallation Pending",
+  "msgstr": "წაშლა მოლოდინშია"
+ },
+ {
+  "msgid": "Extracting",
+  "msgstr": "მიმდინარეობს ამოარქივება"
+ },
+ {
+  "msgid": "{message} (Error Code: {code})",
+  "msgstr": "{message} (შეცდომის კოდი: {code})"
+ },
+ {
+  "msgid": "Please check your network connection and try again later. (Error Code: {code})",
+  "msgstr": "შეამოწმეთ ქსელთან კავშირი და მოგვიანებით სცადეთ ხელახლა. (შეცდომის კოდი: {code})"
+ },
+ {
+  "msgid": "Images",
+  "msgstr": "სურათები"
+ },
+ {
+  "msgid": "Choose Cover Image",
+  "msgstr": "მთავარი სურათის არჩევა"
+ },
+ {
+  "msgid": "Add Cover Image",
+  "msgstr": "მთავარი სურათის დამატება"
+ },
+ {
+  "msgid": "Remove Image",
+  "msgstr": "სურათის წაშლა"
+ },
+ {
+  "msgid": "Mod Size",
+  "msgstr": "მოდის ზომა"
+ },
+ {
+  "msgid": "Downloads",
+  "msgstr": "ჩამოტვირთვები"
+ },
+ {
+  "msgid": "Not Public",
+  "msgstr": "არ არის საჯარო"
+ },
+ {
+  "msgid": "Likes",
+  "msgstr": "მოწონებები"
+ },
+ {
+  "msgid": "Subscribers",
+  "msgstr": "გამომწერები"
+ },
+ {
+  "msgid": "Date Added",
+  "msgstr": "დამატების თარიღი"
+ },
+ {
+  "msgid": "Date Updated",
+  "msgstr": "განახლების თარიღი"
+ },
+ {
+  "msgid": "Source",
+  "msgstr": "წყარო"
+ },
+ {
+  "msgid": "Uploading Mods",
+  "msgstr": "მოდების ატვირთვა"
+ },
+ {
+  "msgid": "No Uploads Pending",
+  "msgstr": "ასატვირთი არაფერია"
+ },
+ {
+  "msgid": "No Downloads Pending",
+  "msgstr": "ჩამოსატვირთი არაფერია"
+ },
+ {
+  "msgid": "Retry Download",
+  "msgstr": "ხელახლა ჩამოტვირთვა"
+ },
+ {
+  "msgid": "Showing {from}-{to} of {total} Mods",
+  "msgstr": "ნაჩვენებია {from}-{to}, სულ {total} მოდი"
+ },
+ {
+  "msgid": "Subscribed",
+  "msgstr": "გამოწერილია"
+ },
+ {
+  "msgid": "Subscribe",
+  "msgstr": "გამოწერა"
+ },
+ {
+  "msgid": "Unsubscribe",
+  "msgstr": "გამოწერის გაუქმება"
+ },
+ {
+  "msgid": "Log in and Subscribe",
+  "msgstr": "შესვლა და გამოწერა"
+ },
+ {
+  "msgid": "Failed To Unsubscribe",
+  "msgstr": "გამოწერის გაუქმება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Retry",
+  "msgstr": "ხელახლა ცდა"
+ },
+ {
+  "msgid": "You may retry the installation attempt or unsubscribe from the mod.",
+  "msgstr": "შეგიძლიათ ხელახლა სცადოთ დაყენება ან გააუქმოთ მოდის გამოწერა."
+ },
+ {
+  "msgid": "To unsubscribe, please return to the main menu.",
+  "msgstr": "გამოწერის გასაუქმებლად დაბრუნდით მთავარ მენიუში."
+ },
+ {
+  "msgid": "Failed To Subscribe",
+  "msgstr": "გამოწერა ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Activated",
+  "msgstr": "გააქტიურებულია"
+ },
+ {
+  "msgid": "Activate",
+  "msgstr": "გააქტიურება"
+ },
+ {
+  "msgid": "Failed To Get Rating",
+  "msgstr": "შეფასების მიღება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Log Out",
+  "msgstr": "ანგარიშიდან გასვლა"
+ },
+ {
+  "msgid": "Logging Out",
+  "msgstr": "მიმდინარეობს გასვლა"
+ },
+ {
+  "msgid": "Failed to Log out",
+  "msgstr": "ანგარიშიდან გასვლა ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Refresh",
+  "msgstr": "განახლება"
+ },
+ {
+  "msgid": "Could not refresh",
+  "msgstr": "განახლება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "mod.io Refresh",
+  "msgstr": "mod.io განახლება"
+ },
+ {
+  "msgid": "{num} Mods Refreshed",
+  "msgstr": "განახლდა {num} მოდი"
+ },
+ {
+  "msgid": "Log In",
+  "msgstr": "შესვლა"
+ },
+ {
+  "msgid": "Upload Failed",
+  "msgstr": "ატვირთვა ვერ მოხერხდა"
+ },
+ {
+  "msgid": "{step}: {message}",
+  "msgstr": "{step}: {message}"
+ },
+ {
+  "msgid": "Close",
+  "msgstr": "დახურვა"
+ },
+ {
+  "msgid": "Validating: {task}",
+  "msgstr": "შემოწმება: {task}"
+ },
+ {
+  "msgid": "No Staging Mod Data Available",
+  "msgstr": "ასატვირთად მომზადებული მოდის მონაცემები არ არის"
+ },
+ {
+  "msgid": "Upload Partially Failed",
+  "msgstr": "ატვირთვა ნაწილობრივ ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Upload Successful",
+  "msgstr": "ატვირთვა წარმატებით დასრულდა"
+ },
+ {
+  "msgid": "Validating... Please Wait",
+  "msgstr": "მოწმდება... გთხოვთ, მოიცადოთ"
+ },
+ {
+  "msgid": "Uploading... Please Wait",
+  "msgstr": "იტვირთება... გთხოვთ, მოიცადოთ"
+ },
+ {
+  "msgid": "Visibility:",
+  "msgstr": "ხილვადობა:"
+ },
+ {
+  "msgid": "Set Public",
+  "msgstr": "საჯაროდ გამოქვეყნება"
+ },
+ {
+  "msgid": "Update Metadata",
+  "msgstr": "მეტამონაცემების განახლება"
+ },
+ {
+  "msgid": "Changelog:",
+  "msgstr": "ცვლილებების სია:"
+ },
+ {
+  "msgid": "Add changelog...",
+  "msgstr": "დაამატეთ ცვლილებების სია..."
+ },
+ {
+  "msgid": "By submitting this mod, you agree to the mod.io terms of use.",
+  "msgstr": "მოდის გაგზავნით ეთანხმებით mod.io პლატფორმის გამოყენების პირობებს."
+ },
+ {
+  "msgid": "View",
+  "msgstr": "ნახვა"
+ },
+ {
+  "msgid": "Validation: {critical} Critical Issues",
+  "msgstr": "შემოწმება: {critical} კრიტიკული პრობლემა"
+ },
+ {
+  "msgid": "Validation: {errors} Errors, {warnings} Warnings",
+  "msgstr": "შემოწმება: {errors} შეცდომა, {warnings} გაფრთხილება"
+ },
+ {
+  "msgid": "Validation: {errors} Errors",
+  "msgstr": "შემოწმება: {errors} შეცდომა"
+ },
+ {
+  "msgid": "Validation: {warnings} Warnings",
+  "msgstr": "შემოწმება: {warnings} გაფრთხილება"
+ },
+ {
+  "msgid": "Validation: No Issues Found",
+  "msgstr": "შემოწმება: პრობლემები არ არის"
+ },
+ {
+  "msgid": "Console",
+  "msgstr": "კონსოლი"
+ },
+ {
+  "msgid": "Re-Validate",
+  "msgstr": "ხელახლა შემოწმება"
+ },
+ {
+  "msgid": "Report",
+  "msgstr": "საჩივარი",
+  "note": "Shared msgid: sits next to the validation buttons but most likely the 'report this mod' button (Report Mod / Submit Report use საჩივარი too). If it turns out to be the validation report, შედეგები fits better."
+ },
+ {
+  "msgid": "Synchronizing ...",
+  "msgstr": "სინქრონიზაცია ..."
+ },
+ {
+  "msgid": "Please log in to upload your mod.",
+  "msgstr": "მოდის ასატვირთად შედით ანგარიშში."
+ },
+ {
+  "msgid": "The existing mod on mod.io will be updated.",
+  "msgstr": "mod.io პლატფორმაზე არსებული მოდი განახლდება."
+ },
+ {
+  "msgid": "The existing mod on mod.io got deleted, a new mod will be created.",
+  "msgstr": "mod.io პლატფორმაზე არსებული მოდი წაშლილია, შეიქმნება ახალი მოდი."
+ },
+ {
+  "msgid": "A new mod will be created on mod.io.",
+  "msgstr": "mod.io პლატფორმაზე შეიქმნება ახალი მოდი."
+ },
+ {
+  "msgid": "Update",
+  "msgstr": "განახლება"
+ },
+ {
+  "msgid": "Upload",
+  "msgstr": "ატვირთვა"
+ },
+ {
+  "msgid": "This mod has validation issues and will not be automatically approved, which could mean it takes significantly longer to go live.",
+  "msgstr": "შემოწმებისას ამ მოდში პრობლემები აღმოჩნდა, ამიტომ ის ავტომატურად არ დამტკიცდება და მის გამოქვეყნებას შესაძლოა გაცილებით მეტი დრო დასჭირდეს."
+ },
+ {
+  "msgid": "This mod has validation issues for console and will not be automatically approved, which could mean it takes significantly longer to go live for console players.",
+  "msgstr": "შემოწმებისას ამ მოდში კონსოლებთან დაკავშირებული პრობლემები აღმოჩნდა, ამიტომ ის ავტომატურად არ დამტკიცდება და კონსოლის მოთამაშეებისთვის მის გამოქვეყნებას შესაძლოა გაცილებით მეტი დრო დასჭირდეს."
+ },
+ {
+  "msgid": "The mod will not be uploaded for console platforms due to critical console errors.",
+  "msgstr": "კონსოლის კრიტიკული შეცდომების გამო მოდი კონსოლის პლატფორმებისთვის არ აიტვირთება."
+ },
+ {
+  "msgid": "Validation Issues Detected",
+  "msgstr": "შემოწმებისას პრობლემები აღმოჩნდა"
+ },
+ {
+  "msgid": "Proceed Anyway",
+  "msgstr": "მაინც გაგრძელება"
+ },
+ {
+  "msgid": "Ok",
+  "msgstr": "კარგი",
+  "note": "კარგი, as in Georgian Windows / Android dialogs."
+ },
+ {
+  "msgid": "Upload Mod: Unavailable",
+  "msgstr": "მოდის ატვირთვა: მიუწვდომელია"
+ },
+ {
+  "msgid": "Open Folder",
+  "msgstr": "საქაღალდის გახსნა"
+ },
+ {
+  "msgid": "Open Mod Page",
+  "msgstr": "მოდის გვერდის გახსნა"
+ },
+ {
+  "msgid": "Description",
+  "msgstr": "აღწერა"
+ },
+ {
+  "msgid": "Curated",
+  "msgstr": "რჩეული"
+ },
+ {
+  "msgid": "Author",
+  "msgstr": "ავტორი"
+ },
+ {
+  "msgid": "No Dependencies",
+  "msgstr": "დამოკიდებულებები არ არის"
+ },
+ {
+  "msgid": "Dependencies",
+  "msgstr": "დამოკიდებულებები"
+ },
+ {
+  "msgid": "Choose a Tag to Add",
+  "msgstr": "აირჩიეთ დასამატებელი ტეგი"
+ },
+ {
+  "msgid": "Add",
+  "msgstr": "დამატება"
+ },
+ {
+  "msgid": "Tags",
+  "msgstr": "ტეგები"
+ },
+ {
+  "msgid": "Stats",
+  "msgstr": "სტატისტიკა"
+ },
+ {
+  "msgid": "{percentage} Positive",
+  "msgstr": "{percentage} დადებითი"
+ },
+ {
+  "msgid": "Rating",
+  "msgstr": "შეფასება"
+ },
+ {
+  "msgid": "File Size",
+  "msgstr": "ფაილის ზომა"
+ },
+ {
+  "msgid": "Move Left",
+  "msgstr": "მარცხნივ გადატანა"
+ },
+ {
+  "msgid": "Move Right",
+  "msgstr": "მარჯვნივ გადატანა"
+ },
+ {
+  "msgid": "Choose image",
+  "msgstr": "სურათის არჩევა"
+ },
+ {
+  "msgid": "Add Image",
+  "msgstr": "სურათის დამატება"
+ },
+ {
+  "msgid": "Could not request email auth code.",
+  "msgstr": "ელფოსტაზე ავტორიზაციის კოდის მოთხოვნა ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Email validation error, please check the input.",
+  "msgstr": "ელფოსტის მისამართი არასწორია, შეამოწმეთ შეყვანილი მონაცემები."
+ },
+ {
+  "msgid": "Could not authenticate.",
+  "msgstr": "ავტორიზაცია ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Auth code validation error, please check the input.",
+  "msgstr": "ავტორიზაციის კოდი არასწორია, შეამოწმეთ შეყვანილი მონაცემები."
+ },
+ {
+  "msgid": "Auth code is expired, please check your email for the most recent auth code.",
+  "msgstr": "ავტორიზაციის კოდს ვადა გაუვიდა. უახლესი კოდი მოძებნეთ ელფოსტაში."
+ },
+ {
+  "msgid": "Email",
+  "msgstr": "ელფოსტა"
+ },
+ {
+  "msgid": "Auth Code",
+  "msgstr": "ავტორიზაციის კოდი"
+ },
+ {
+  "msgid": "Resend Auth Code",
+  "msgstr": "კოდის ხელახლა გაგზავნა"
+ },
+ {
+  "msgid": "Failed to login",
+  "msgstr": "შესვლა ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Please check that you're logged into your platform.",
+  "msgstr": "შეამოწმეთ, შესული ხართ თუ არა პლატფორმის ანგარიშში."
+ },
+ {
+  "msgid": "Validation error",
+  "msgstr": "შემოწმების შეცდომა"
+ },
+ {
+  "msgid": "Could not retrieve Terms Of Use",
+  "msgstr": "გამოყენების პირობების მიღება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "or log in with",
+  "msgstr": "ან შედით ანგარიშით"
+ },
+ {
+  "msgid": "Comment is a required field",
+  "msgstr": "კომენტარი სავალდებულოა"
+ },
+ {
+  "msgid": "Report Submission Failed",
+  "msgstr": "საჩივრის გაგზავნა ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Validation error, please check your input.",
+  "msgstr": "მონაცემები არასწორია, შეამოწმეთ შეყვანილი ინფორმაცია."
+ },
+ {
+  "msgid": "Report Submitted",
+  "msgstr": "საჩივარი გაიგზავნა"
+ },
+ {
+  "msgid": "Thank you for your report. It has been submitted successfully.",
+  "msgstr": "გმადლობთ, თქვენი საჩივარი წარმატებით გაიგზავნა."
+ },
+ {
+  "msgid": "Generic",
+  "msgstr": "ზოგადი"
+ },
+ {
+  "msgid": "Not Working",
+  "msgstr": "არ მუშაობს"
+ },
+ {
+  "msgid": "Rude Content",
+  "msgstr": "შეურაცხმყოფელი შინაარსი"
+ },
+ {
+  "msgid": "Illegal Content",
+  "msgstr": "უკანონო შინაარსი"
+ },
+ {
+  "msgid": "Stolen Content",
+  "msgstr": "მოპარული შინაარსი"
+ },
+ {
+  "msgid": "False Information",
+  "msgstr": "ცრუ ინფორმაცია"
+ },
+ {
+  "msgid": "Report Type",
+  "msgstr": "საჩივრის ტიპი"
+ },
+ {
+  "msgid": "Your name (optional)",
+  "msgstr": "თქვენი სახელი (არასავალდებულო)"
+ },
+ {
+  "msgid": "your.email@example.com (optional)",
+  "msgstr": "your.email@example.com (არასავალდებულო)"
+ },
+ {
+  "msgid": "Comment",
+  "msgstr": "კომენტარი"
+ },
+ {
+  "msgid": "Please describe the issue...",
+  "msgstr": "აღწერეთ პრობლემა..."
+ },
+ {
+  "msgid": "Submitting...",
+  "msgstr": "იგზავნება..."
+ },
+ {
+  "msgid": "Submit Report",
+  "msgstr": "საჩივრის გაგზავნა"
+ },
+ {
+  "msgid": "Report Mod",
+  "msgstr": "საჩივარი მოდზე"
+ },
+ {
+  "msgid": "Force Uninstall Failed",
+  "msgstr": "იძულებითი წაშლა ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Are you sure you want to force uninstall the mod '{title}'?",
+  "msgstr": "ნამდვილად გსურთ მოდის „{title}“ იძულებით წაშლა?"
+ },
+ {
+  "msgid": "Uninstalling...",
+  "msgstr": "იშლება..."
+ },
+ {
+  "msgid": "Force Uninstall",
+  "msgstr": "იძულებით წაშლა"
+ },
+ {
+  "msgid": "Force Uninstall Mod",
+  "msgstr": "მოდის იძულებით წაშლა"
+ },
+ {
+  "msgid": "The following required mods are not subscribed:",
+  "msgstr": "შემდეგი საჭირო მოდები გამოწერილი არ არის:"
+ },
+ {
+  "msgid": "Missing Dependencies",
+  "msgstr": "დამოკიდებულებები აკლია"
+ },
+ {
+  "msgid": "No publishing backend available",
+  "msgstr": "გამოქვეყნების სერვისი მიუწვდომელია"
+ },
+ {
+  "msgid": "Failed to stage savegame for sharing",
+  "msgstr": "შენახული თამაშის გასაზიარებლად მომზადება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Preparing savegame for sharing...",
+  "msgstr": "შენახული თამაში მზადდება გასაზიარებლად..."
+ },
+ {
+  "msgid": "Save Game Name",
+  "msgstr": "შენახული თამაშის სახელი"
+ },
+ {
+  "msgid": "Enter save game name",
+  "msgstr": "შეიყვანეთ შენახული თამაშის სახელი"
+ },
+ {
+  "msgid": "Enter description",
+  "msgstr": "შეიყვანეთ აღწერა"
+ },
+ {
+  "msgid": "Enter summary",
+  "msgstr": "შეიყვანეთ მოკლე აღწერა"
+ },
+ {
+  "msgid": "Make Public",
+  "msgstr": "საჯაროდ გამოქვეყნება"
+ },
+ {
+  "msgid": "Change Log",
+  "msgstr": "ცვლილებების სია"
+ },
+ {
+  "msgid": "Enter change log",
+  "msgstr": "შეიყვანეთ ცვლილებების სია"
+ },
+ {
+  "msgid": "Share Savegame",
+  "msgstr": "შენახული თამაშის გაზიარება"
+ },
+ {
+  "msgid": "CRITICAL (Console)",
+  "msgstr": "კრიტიკული (კონსოლი)"
+ },
+ {
+  "msgid": "ERROR (Console)",
+  "msgstr": "შეცდომა (კონსოლი)"
+ },
+ {
+  "msgid": "WARNING (Console)",
+  "msgstr": "გაფრთხილება (კონსოლი)"
+ },
+ {
+  "msgid": "No validation issues found.",
+  "msgstr": "შემოწმებისას პრობლემები არ აღმოჩნდა."
+ },
+ {
+  "msgid": "Context",
+  "msgstr": "კონტექსტი"
+ },
+ {
+  "msgid": "File",
+  "msgstr": "ფაილი"
+ },
+ {
+  "msgid": "Message",
+  "msgstr": "შეტყობინება"
+ },
+ {
+  "msgid": "Context:",
+  "msgstr": "კონტექსტი:"
+ },
+ {
+  "msgid": "Level:",
+  "msgstr": "დონე:"
+ },
+ {
+  "msgid": "File:",
+  "msgstr": "ფაილი:"
+ },
+ {
+  "msgid": "Message:",
+  "msgstr": "შეტყობინება:"
+ },
+ {
+  "msgid": "Export",
+  "msgstr": "ექსპორტი"
+ },
+ {
+  "msgid": "Exported Validation Report",
+  "msgstr": "შემოწმების შედეგები ექსპორტირებულია"
+ },
+ {
+  "msgid": "Validation Report",
+  "msgstr": "შემოწმების შედეგები"
+ },
+ {
+  "msgid": "Reset Filters",
+  "msgstr": "ფილტრების გასუფთავება"
+ },
+ {
+  "msgid": "Please log in to access the Mod Hub.",
+  "msgstr": "Mod Hub რომ გამოიყენოთ, შედით ანგარიშში."
+ },
+ {
+  "msgid": "Failed To Fetch Mod List",
+  "msgstr": "მოდების სიის მიღება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Loading Mods...",
+  "msgstr": "მოდები იტვირთება..."
+ },
+ {
+  "msgid": "No Mods Found for the Selected Filters",
+  "msgstr": "არჩეული ფილტრებით მოდები ვერ მოიძებნა"
+ },
+ {
+  "msgid": "Back to top",
+  "msgstr": "თავში დაბრუნება"
+ },
+ {
+  "msgid": "Show More",
+  "msgstr": "მეტის ჩვენება"
+ },
+ {
+  "msgid": "System",
+  "msgstr": "სისტემური"
+ },
+ {
+  "msgid": "User Mod",
+  "msgstr": "მომხმარებლის მოდი"
+ },
+ {
+  "msgid": "My Mods",
+  "msgstr": "ჩემი მოდები"
+ },
+ {
+  "msgid": "Built-In",
+  "msgstr": "ჩაშენებული"
+ },
+ {
+  "msgid": "Trending",
+  "msgstr": "პოპულარული"
+ },
+ {
+  "msgid": "Activation Order",
+  "msgstr": "გააქტიურების რიგი"
+ },
+ {
+  "msgid": "{total} / {budget} MB",
+  "msgstr": "{total} / {budget} მბ"
+ },
+ {
+  "msgid": "Mod Hub Unavailable",
+  "msgstr": "Mod Hub მიუწვდომელია"
+ },
+ {
+  "msgid": "The mod hub is currently unavailable, please check your internet connection or try again later.",
+  "msgstr": "Mod Hub ამჟამად მიუწვდომელია. შეამოწმეთ ინტერნეტთან კავშირი ან მოგვიანებით სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "You must be 13 or older to access the Mod Hub.",
+  "msgstr": "Mod Hub მხოლოდ 13 წლის და უფროსი ასაკის მომხმარებლებისთვისაა ხელმისაწვდომი."
+ },
+ {
+  "msgid": "Preview",
+  "msgstr": "წინასწარი ნახვა"
+ },
+ {
+  "msgid": "Uninstall Mod",
+  "msgstr": "მოდის წაშლა"
+ },
+ {
+  "msgid": "Loading Mod Details...",
+  "msgstr": "მოდის დეტალები იტვირთება..."
+ },
+ {
+  "msgid": "Log in to Upload",
+  "msgstr": "ასატვირთად შედით ანგარიშში"
+ },
+ {
+  "msgid": "No valid cover image found (_metadata/0.png)",
+  "msgstr": "სწორი მთავარი სურათი ვერ მოიძებნა (_metadata/0.png)"
+ },
+ {
+  "msgid": "Mod is not installed and cannot be configured.",
+  "msgstr": "მოდი დაყენებული არ არის და მისი მორგება შეუძლებელია."
+ },
+ {
+  "msgid": "Mod is missing.",
+  "msgstr": "მოდი ვერ მოიძებნა."
+ },
+ {
+  "msgid": "Mod Details",
+  "msgstr": "მოდის დეტალები"
+ },
+ {
+  "msgid": "Missing Mods: {count}",
+  "msgstr": "აკლია მოდები: {count}"
+ },
+ {
+  "msgid": "Show All",
+  "msgstr": "ყველას ჩვენება"
+ },
+ {
+  "msgid": "Deactivate All",
+  "msgstr": "ყველას გამორთვა"
+ },
+ {
+  "msgid": "Subscribe All Possible",
+  "msgstr": "ყველა ხელმისაწვდომის გამოწერა"
+ },
+ {
+  "msgid": "Mod is not installed.",
+  "msgstr": "მოდი დაყენებული არ არის."
+ },
+ {
+  "msgid": "Removing this mod from the savegame could cause instability.",
+  "msgstr": "ამ მოდის შენახული თამაშიდან ამოღებამ შესაძლოა თამაშის არასტაბილური მუშაობა გამოიწვიოს."
+ },
+ {
+  "msgid": "Adding this mod to the savegame could cause instability.",
+  "msgstr": "ამ მოდის შენახულ თამაშში დამატებამ შესაძლოა თამაშის არასტაბილური მუშაობა გამოიწვიოს."
+ },
+ {
+  "msgid": "Configure Mod",
+  "msgstr": "მოდის მორგება"
+ },
+ {
+  "msgid": "Move Mod to Top",
+  "msgstr": "მოდის სიის თავში გადატანა"
+ },
+ {
+  "msgid": "Move Mod Up",
+  "msgstr": "მოდის ზემოთ გადატანა"
+ },
+ {
+  "msgid": "Move Mod Down",
+  "msgstr": "მოდის ქვემოთ გადატანა"
+ },
+ {
+  "msgid": "Move Mod to Bottom",
+  "msgstr": "მოდის სიის ბოლოში გადატანა"
+ },
+ {
+  "msgid": "Preset Name",
+  "msgstr": "ნაკრების სახელი"
+ },
+ {
+  "msgid": "Save Preset",
+  "msgstr": "ნაკრების შენახვა"
+ },
+ {
+  "msgid": "Save the current mod configuration as a preset.",
+  "msgstr": "შეინახეთ მოდების მიმდინარე კონფიგურაცია ნაკრების სახით."
+ },
+ {
+  "msgid": "Load {preset}",
+  "msgstr": "ჩატვირთვა: {preset}"
+ },
+ {
+  "msgid": "Could not find an appropriate activation order, because some mods have circular dependencies. Deactivate some mods and try again.",
+  "msgstr": "გააქტიურების შესაფერისი რიგი ვერ მოიძებნა, რადგან ზოგიერთ მოდს წრიული დამოკიდებულება აქვს. გამორთეთ რამდენიმე მოდი და სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "Circular Dependencies",
+  "msgstr": "წრიული დამოკიდებულებები"
+ },
+ {
+  "msgid": "Activating this mod would exceed memory usage by: {exceedMB} MB.",
+  "msgstr": "ამ მოდის გააქტიურებით მეხსიერების ლიმიტი გადაჭარბდება. გადაჭარბება: {exceedMB} მბ."
+ },
+ {
+  "msgid": "Please deactivate some other mods first.",
+  "msgstr": "ჯერ გამორთეთ სხვა მოდები."
+ },
+ {
+  "msgid": "Memory Budget Exceeded",
+  "msgstr": "მეხსიერების ლიმიტი გადაჭარბებულია"
+ },
+ {
+  "msgid": "Enabling this mod may lead to unexpected results.",
+  "msgstr": "ამ მოდის ჩართვამ შესაძლოა მოულოდნელი შედეგები გამოიწვიოს."
+ },
+ {
+  "msgid": "Enabling this mod will likely cause the game to crash.",
+  "msgstr": "ამ მოდის ჩართვა, სავარაუდოდ, თამაშის ავარიულ დახურვას გამოიწვევს."
+ },
+ {
+  "msgid": "Confirm Mod Activation",
+  "msgstr": "მოდის გააქტიურების დადასტურება"
+ },
+ {
+  "msgid": "Proceed",
+  "msgstr": "გაგრძელება"
+ },
+ {
+  "msgid": "Disabling this mod may lead to unexpected results.",
+  "msgstr": "ამ მოდის გამორთვამ შესაძლოა მოულოდნელი შედეგები გამოიწვიოს."
+ },
+ {
+  "msgid": "Disabling this mod will likely cause the game to crash.",
+  "msgstr": "ამ მოდის გამორთვა, სავარაუდოდ, თამაშის ავარიულ დახურვას გამოიწვევს."
+ },
+ {
+  "msgid": "Confirm Mod Removal",
+  "msgstr": "მოდის ამოღების დადასტურება"
+ },
+ {
+  "msgid": "This mod requires the following dependencies:\\n",
+  "msgstr": "ამ მოდს სჭირდება შემდეგი დამოკიდებულებები:\\n"
+ },
+ {
+  "msgid": "The dependencies are not installed.\\n",
+  "msgstr": "დამოკიდებულებები დაყენებული არ არის.\\n"
+ },
+ {
+  "msgid": "\\nYou can:\\n - cancel the activation of this mod; or\\n - proceed without these dependencies.",
+  "msgstr": "\\nშეგიძლიათ:\\n - გააუქმოთ ამ მოდის გააქტიურება; ან\\n - გააგრძელოთ ამ დამოკიდებულებების გარეშე."
+ },
+ {
+  "msgid": "Mod Dependencies Not Satisfied",
+  "msgstr": "მოდის დამოკიდებულებები დაკმაყოფილებული არ არის"
+ },
+ {
+  "msgid": "This mod requires the following dependencies:",
+  "msgstr": "ამ მოდს სჭირდება შემდეგი დამოკიდებულებები:"
+ },
+ {
+  "msgid": "\\nOf those, these can be subscribed to on the Mod Hub:",
+  "msgstr": "\\nმათგან ამათი გამოწერა შესაძლებელია Mod Hub-ში:",
+  "note": "Mod Hub-ში: hyphen suffix on a fixed product name, not on a placeholder."
+ },
+ {
+  "msgid": "\\nYou can:\\n - subscribe to the dependencies;\\n - cancel the activation of this mod; or\\n - proceed without these dependencies.",
+  "msgstr": "\\nშეგიძლიათ:\\n - გამოიწეროთ დამოკიდებულებები;\\n - გააუქმოთ ამ მოდის გააქტიურება; ან\\n - გააგრძელოთ ამ დამოკიდებულებების გარეშე."
+ },
+ {
+  "msgid": "This mod is conflicting with other active mods:\\n",
+  "msgstr": "ეს მოდი შეუთავსებელია სხვა აქტიურ მოდებთან:\\n"
+ },
+ {
+  "msgid": "\\nYou can:\\n - cancel the activation of this mod; or\\n - ignore this warning (note the this might result in unstable gameplay).",
+  "msgstr": "\\nშეგიძლიათ:\\n - გააუქმოთ ამ მოდის გააქტიურება; ან\\n - უგულებელყოთ ეს გაფრთხილება (ამან შესაძლოა თამაშის არასტაბილური მუშაობა გამოიწვიოს)."
+ },
+ {
+  "msgid": "Mod Incompatibility",
+  "msgstr": "მოდების შეუთავსებლობა"
+ },
+ {
+  "msgid": "\\nThe dependencies are installed and can be activated.\\n",
+  "msgstr": "\\nდამოკიდებულებები დაყენებულია და მათი გააქტიურება შესაძლებელია.\\n"
+ },
+ {
+  "msgid": "\\nYou can:\\n - cancel the activation of this mod;\\n - skip activating its dependencies; or\\n - proceed with the activation of all dependent mods.",
+  "msgstr": "\\nშეგიძლიათ:\\n - გააუქმოთ ამ მოდის გააქტიურება;\\n - გამოტოვოთ მისი დამოკიდებულებების გააქტიურება; ან\\n - გააქტიუროთ ყველა დაკავშირებული მოდი."
+ },
+ {
+  "msgid": "This mod is required by the following other mods:\\n",
+  "msgstr": "ეს მოდი სჭირდება შემდეგ მოდებს:\\n"
+ },
+ {
+  "msgid": "\\nYou can:\\n - cancel the deactivation of this mod;\\n - proceed and deactivate the mod anyways (this might lead to errors).",
+  "msgstr": "\\nშეგიძლიათ:\\n - გააუქმოთ ამ მოდის გამორთვა;\\n - მაინც გამორთოთ მოდი (ამან შესაძლოა შეცდომები გამოიწვიოს)."
+ },
+ {
+  "msgid": "Skip",
+  "msgstr": "გამოტოვება"
+ },
+ {
+  "msgid": "Custom Parameters",
+  "msgstr": "საკუთარი პარამეტრები"
+ },
+ {
+  "msgid": "Confirm save",
+  "msgstr": "შენახვის დადასტურება"
+ },
+ {
+  "msgid": "Do you want to overwrite the preset {preset}",
+  "msgstr": "გსურთ ნაკრების „{preset}“ გადაწერა?"
+ },
+ {
+  "msgid": "Do you want to save the preset {preset}",
+  "msgstr": "გსურთ ნაკრების „{preset}“ შენახვა?"
+ },
+ {
+  "msgid": "Load Preset",
+  "msgstr": "ნაკრების ჩატვირთვა"
+ },
+ {
+  "msgid": "Confirm delete",
+  "msgstr": "წაშლის დადასტურება"
+ },
+ {
+  "msgid": "Are you sure to delete preset {preset}",
+  "msgstr": "ნამდვილად გსურთ ნაკრების „{preset}“ წაშლა?"
+ },
+ {
+  "msgid": "Disable All Mods",
+  "msgstr": "ყველა მოდის გამორთვა"
+ },
+ {
+  "msgid": "Auto Repair Mods",
+  "msgstr": "მოდების ავტომატური შესწორება"
+ },
+ {
+  "msgid": "Toggle List View",
+  "msgstr": "სიის ხედის გადართვა"
+ },
+ {
+  "msgid": "Enabled",
+  "msgstr": "ჩართული"
+ },
+ {
+  "msgid": "Authors",
+  "msgstr": "ავტორები"
+ },
+ {
+  "msgid": "Base Content",
+  "msgstr": "ძირითადი კონტენტი"
+ },
+ {
+  "msgid": "Scripting API",
+  "msgstr": "სკრიპტების API"
+ },
+ {
+  "msgid": "The following dependent mods are not active:",
+  "msgstr": "შემდეგი დამოკიდებული მოდები აქტიური არ არის:"
+ },
+ {
+  "msgid": "(Optional)",
+  "msgstr": "(არასავალდებულო)"
+ },
+ {
+  "msgid": "(Required)",
+  "msgstr": "(სავალდებულო)"
+ },
+ {
+  "msgid": "The following mods are missing:",
+  "msgstr": "შემდეგი მოდები ვერ მოიძებნა:"
+ },
+ {
+  "msgid": "The following mods should be loaded before:",
+  "msgstr": "შემდეგი მოდები უფრო ადრე უნდა ჩაიტვირთოს:"
+ },
+ {
+  "msgid": "The following mods are incompatbile:",
+  "msgstr": "შემდეგი მოდები შეუთავსებელია:"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Trophies cannot be earned.",
+  "msgstr": "ტროფეების მოპოვება შეუძლებელია."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Achievements cannot be earned.",
+  "msgstr": "მიღწევების მოპოვება შეუძლებელია."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Achievements cannot be earned.",
+  "msgstr": "მიღწევების მოპოვება შეუძლებელია."
+ },
+ {
+  "msgid": "Paradox Interactive will link your Account for Steam to allow you to get automatically logged in to your Paradox Account when starting the game. Should you no longer wish to use this feature, go to the settings screen and unlink.",
+  "msgstr": "Paradox Interactive დააკავშირებს თქვენს Steam ანგარიშს, რათა თამაშის გაშვებისას ავტომატურად შეხვიდეთ Paradox ანგარიშში. თუ ამ ფუნქციის გამოყენება აღარ გსურთ, გადადით პარამეტრებში და გააუქმეთ დაკავშირება."
+ },
+ {
+  "msgid": "Paradox Interactive will link your Account for PlayStation™Network to allow you to get automatically logged in to your Paradox Account when starting the game. Should you no longer wish to use this feature, go to the settings screen and unlink.",
+  "msgstr": "Paradox Interactive დააკავშირებს თქვენს PlayStation™Network ანგარიშს, რათა თამაშის გაშვებისას ავტომატურად შეხვიდეთ Paradox ანგარიშში. თუ ამ ფუნქციის გამოყენება აღარ გსურთ, გადადით პარამეტრებში და გააუქმეთ დაკავშირება."
+ },
+ {
+  "msgid": "Paradox Interactive will link your Account for XBOX network to allow you to get automatically logged in to your Paradox Account when starting the game. Should you no longer wish to use this feature, go to the settings screen and unlink.",
+  "msgstr": "Paradox Interactive დააკავშირებს თქვენს XBOX network ანგარიშს, რათა თამაშის გაშვებისას ავტომატურად შეხვიდეთ Paradox ანგარიშში. თუ ამ ფუნქციის გამოყენება აღარ გსურთ, გადადით პარამეტრებში და გააუქმეთ დაკავშირება."
+ },
+ {
+  "msgid": "Paradox Interactive will link your platform account to allow you to get automatically logged in to your Paradox Account when starting the game. Should you no longer wish to use this feature, go to the settings screen and unlink.",
+  "msgstr": "Paradox Interactive დააკავშირებს თქვენი პლატფორმის ანგარიშს, რათა თამაშის გაშვებისას ავტომატურად შეხვიდეთ Paradox ანგარიშში. თუ ამ ფუნქციის გამოყენება აღარ გსურთ, გადადით პარამეტრებში და გააუქმეთ დაკავშირება."
+ },
+ {
+  "msgid": "This Paradox Account is already linked to a different Account for Steam. Would you like to overwrite the link?",
+  "msgstr": "ეს Paradox ანგარიში უკვე დაკავშირებულია სხვა Steam ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This Paradox Account is already linked to a different Account for PlayStation™Network. Would you like to overwrite the link?",
+  "msgstr": "ეს Paradox ანგარიში უკვე დაკავშირებულია სხვა PlayStation™Network ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This Paradox Account is already linked to a different Account for XBOX network. Would you like to overwrite the link?",
+  "msgstr": "ეს Paradox ანგარიში უკვე დაკავშირებულია სხვა XBOX network ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This Paradox Account is already linked to a different platform account. Would you like to overwrite the link?",
+  "msgstr": "ეს Paradox ანგარიში უკვე დაკავშირებულია სხვა პლატფორმის ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This Account for Steam is already linked to a different Paradox Account. Would you like to overwrite the link?",
+  "msgstr": "ეს Steam ანგარიში უკვე დაკავშირებულია სხვა Paradox ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This Account for PlayStation™Network is already linked to a different Paradox Account. Would you like to overwrite the link?",
+  "msgstr": "ეს PlayStation™Network ანგარიში უკვე დაკავშირებულია სხვა Paradox ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This Account for XBOX network is already linked to a different Paradox Account. Would you like to overwrite the link?",
+  "msgstr": "ეს XBOX network ანგარიში უკვე დაკავშირებულია სხვა Paradox ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "This platform account is already linked to a different Paradox Account. Would you like to overwrite the link?",
+  "msgstr": "ეს პლატფორმის ანგარიში უკვე დაკავშირებულია სხვა Paradox ანგარიშთან. გსურთ კავშირის გადაწერა?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the Account for Steam are linked to other accounts. Do you wish to overwrite these links?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და Steam ანგარიში სხვა ანგარიშებთანაა დაკავშირებული. გსურთ ამ კავშირების გადაწერა?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the Account for PlayStation™Network are linked to other accounts. Do you wish to overwrite these links?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და PlayStation™Network ანგარიში სხვა ანგარიშებთანაა დაკავშირებული. გსურთ ამ კავშირების გადაწერა?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the Account for XBOX network are linked to other accounts. Do you wish to overwrite these links?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და XBOX network ანგარიში სხვა ანგარიშებთანაა დაკავშირებული. გსურთ ამ კავშირების გადაწერა?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the platform account are linked to other accounts. Do you wish to overwrite these links?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და პლატფორმის ანგარიში სხვა ანგარიშებთანაა დაკავშირებული. გსურთ ამ კავშირების გადაწერა?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the Account for Steam are linked. Do you want to unlink?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და Steam ანგარიში ერთმანეთთან დაკავშირებულია. გსურთ კავშირის გაუქმება?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the Account for PlayStation™Network are linked. Do you want to unlink?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და PlayStation™Network ანგარიში ერთმანეთთან დაკავშირებულია. გსურთ კავშირის გაუქმება?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the Account for XBOX network are linked. Do you want to unlink?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და XBOX network ანგარიში ერთმანეთთან დაკავშირებულია. გსურთ კავშირის გაუქმება?"
+ },
+ {
+  "msgid": "The currently logged in Paradox Account and the platform account are linked. Do you want to unlink?",
+  "msgstr": "ამჟამად აქტიური Paradox ანგარიში და პლატფორმის ანგარიში ერთმანეთთან დაკავშირებულია. გსურთ კავშირის გაუქმება?"
+ },
+ {
+  "msgid": "Your Account for PlayStation™Network is linked to a Paradox Account. Do you wish to automatically log in to your Paradox Account?",
+  "msgstr": "თქვენი PlayStation™Network ანგარიში დაკავშირებულია Paradox ანგარიშთან. გსურთ Paradox ანგარიშში ავტომატურად შესვლა?"
+ },
+ {
+  "msgid": "Your Account for XBOX network is linked to a Paradox Account. Do you wish to automatically log in to your Paradox Account?",
+  "msgstr": "თქვენი XBOX network ანგარიში დაკავშირებულია Paradox ანგარიშთან. გსურთ Paradox ანგარიშში ავტომატურად შესვლა?"
+ },
+ {
+  "msgid": "Your platform account is linked to a Paradox Account. Do you wish to automatically log in to your Paradox Account?",
+  "msgstr": "თქვენი პლატფორმის ანგარიში დაკავშირებულია Paradox ანგარიშთან. გსურთ Paradox ანგარიშში ავტომატურად შესვლა?"
+ },
+ {
+  "msgid": "An account with this email address already exists. Please log in or use a different email address.",
+  "msgstr": "ამ ელფოსტის მისამართით ანგარიში უკვე არსებობს. შედით ანგარიშში ან გამოიყენეთ სხვა მისამართი."
+ },
+ {
+  "msgid": "The email address you entered is invalid. Please check your input and try again.",
+  "msgstr": "შეყვანილი ელფოსტის მისამართი არასწორია. შეამოწმეთ და სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "The password you entered is invalid. Please check your input and try again.",
+  "msgstr": "შეყვანილი პაროლი არასწორია. შეამოწმეთ და სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "The date of birth you entered is invalid. Please check your input and try again.",
+  "msgstr": "შეყვანილი დაბადების თარიღი არასწორია. შეამოწმეთ და სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "You must be at least 16 years old to create a Paradox Account. Please check your input and try again.",
+  "msgstr": "Paradox ანგარიშის შესაქმნელად უნდა იყოთ მინიმუმ 16 წლის. შეამოწმეთ შეყვანილი მონაცემები და სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "Please check your network connection and try again later.",
+  "msgstr": "შეამოწმეთ ქსელთან კავშირი და მოგვიანებით სცადეთ ხელახლა."
+ },
+ {
+  "msgid": "The profile name you entered is already taken. Please choose a different name.",
+  "msgstr": "ეს პროფილის სახელი უკვე დაკავებულია. აირჩიეთ სხვა სახელი."
+ },
+ {
+  "msgid": "The profile name you entered already exists. Please choose a different name.",
+  "msgstr": "ეს პროფილის სახელი უკვე არსებობს. აირჩიეთ სხვა სახელი."
+ },
+ {
+  "msgid": "The profile name you entered is too long. Please choose a shorter name.",
+  "msgstr": "პროფილის სახელი ძალიან გრძელია. აირჩიეთ უფრო მოკლე სახელი."
+ },
+ {
+  "msgid": "The profile name you entered is too short. Please choose a longer name.",
+  "msgstr": "პროფილის სახელი ძალიან მოკლეა. აირჩიეთ უფრო გრძელი სახელი."
+ },
+ {
+  "msgid": "The profile name you entered is invalid. Please choose a different name.",
+  "msgstr": "პროფილის სახელი არასწორია. აირჩიეთ სხვა სახელი."
+ },
+ {
+  "msgid": "Please check your input and network connection or try again later. (No Error Code)",
+  "msgstr": "შეამოწმეთ შეყვანილი მონაცემები და ქსელთან კავშირი ან მოგვიანებით სცადეთ ხელახლა. (შეცდომის კოდის გარეშე)"
+ },
+ {
+  "msgid": "Please check your input and network connection or try again later. (Error Code: {code})",
+  "msgstr": "შეამოწმეთ შეყვანილი მონაცემები და ქსელთან კავშირი ან მოგვიანებით სცადეთ ხელახლა. (შეცდომის კოდი: {code})"
+ },
+ {
+  "msgid": "January",
+  "msgstr": "იანვარი"
+ },
+ {
+  "msgid": "February",
+  "msgstr": "თებერვალი"
+ },
+ {
+  "msgid": "March",
+  "msgstr": "მარტი"
+ },
+ {
+  "msgid": "April",
+  "msgstr": "აპრილი"
+ },
+ {
+  "msgid": "May",
+  "msgstr": "მაისი"
+ },
+ {
+  "msgid": "June",
+  "msgstr": "ივნისი"
+ },
+ {
+  "msgid": "July",
+  "msgstr": "ივლისი"
+ },
+ {
+  "msgid": "August",
+  "msgstr": "აგვისტო"
+ },
+ {
+  "msgid": "September",
+  "msgstr": "სექტემბერი"
+ },
+ {
+  "msgid": "October",
+  "msgstr": "ოქტომბერი"
+ },
+ {
+  "msgid": "November",
+  "msgstr": "ნოემბერი"
+ },
+ {
+  "msgid": "December",
+  "msgstr": "დეკემბერი"
+ },
+ {
+  "msgid": "Loading...",
+  "msgstr": "იტვირთება..."
+ },
+ {
+  "msgid": "Password must be at least 6 characters long.",
+  "msgstr": "პაროლი მინიმუმ 6 სიმბოლოსგან უნდა შედგებოდეს."
+ },
+ {
+  "msgid": "Passwords do not match.",
+  "msgstr": "პაროლები არ ემთხვევა."
+ },
+ {
+  "msgid": "Country/Region is required.",
+  "msgstr": "ქვეყნის/რეგიონის მითითება სავალდებულოა."
+ },
+ {
+  "msgid": "Date of birth is required.",
+  "msgstr": "დაბადების თარიღის მითითება სავალდებულოა."
+ },
+ {
+  "msgid": "Thank you for creating a Paradox Account! We have sent you a link to confirm your email address.",
+  "msgstr": "გმადლობთ, რომ Paradox ანგარიში შექმენით! ელფოსტის მისამართის დასადასტურებლად ბმული გამოგიგზავნეთ."
+ },
+ {
+  "msgid": "Password",
+  "msgstr": "პაროლი"
+ },
+ {
+  "msgid": "Confirm Password",
+  "msgstr": "პაროლის დადასტურება"
+ },
+ {
+  "msgid": "Country/Region",
+  "msgstr": "ქვეყანა/რეგიონი"
+ },
+ {
+  "msgid": "Date of Birth",
+  "msgstr": "დაბადების თარიღი"
+ },
+ {
+  "msgid": "Please provide your birthdate so we can verify your age.",
+  "msgstr": "მიუთითეთ დაბადების თარიღი, რომ თქვენი ასაკი გადავამოწმოთ."
+ },
+ {
+  "msgid": "Read User Agreement",
+  "msgstr": "სამომხმარებლო შეთანხმების წაკითხვა"
+ },
+ {
+  "msgid": "Read Privacy Policy",
+  "msgstr": "კონფიდენციალურობის პოლიტიკის წაკითხვა"
+ },
+ {
+  "msgid": "I wish to receive news and offers from Paradox Interactive.",
+  "msgstr": "მსურს, Paradox Interactive მიგზავნიდეს სიახლეებსა და შეთავაზებებს."
+ },
+ {
+  "msgid": "By creating an account you confirm that you have read, understood, and accepted our User Agreement and Privacy Policy.",
+  "msgstr": "ანგარიშის შექმნით ადასტურებთ, რომ წაიკითხეთ, გაიგეთ და მიიღეთ ჩვენი სამომხმარებლო შეთანხმება და კონფიდენციალურობის პოლიტიკა."
+ },
+ {
+  "msgid": "Create Account",
+  "msgstr": "ანგარიშის შექმნა"
+ },
+ {
+  "msgid": "Create Paradox Account",
+  "msgstr": "Paradox ანგარიშის შექმნა"
+ },
+ {
+  "msgid": "Paradox Account Link",
+  "msgstr": "Paradox ანგარიშის დაკავშირება"
+ },
+ {
+  "msgid": "Checking account link status...",
+  "msgstr": "მოწმდება ანგარიშების კავშირის სტატუსი..."
+ },
+ {
+  "msgid": "Linking accounts...",
+  "msgstr": "მიმდინარეობს ანგარიშების დაკავშირება..."
+ },
+ {
+  "msgid": "Unlinking accounts...",
+  "msgstr": "მიმდინარეობს ანგარიშების კავშირის გაუქმება..."
+ },
+ {
+  "msgid": "Unlink Account",
+  "msgstr": "ანგარიშის კავშირის გაუქმება"
+ },
+ {
+  "msgid": "Link Account",
+  "msgstr": "ანგარიშის დაკავშირება"
+ },
+ {
+  "msgid": "Checking profile...",
+  "msgstr": "პროფილი მოწმდება..."
+ },
+ {
+  "msgid": "Please enter a name for your Paradox profile.",
+  "msgstr": "შეიყვანეთ თქვენი Paradox პროფილის სახელი."
+ },
+ {
+  "msgid": "Profile Name",
+  "msgstr": "პროფილის სახელი"
+ },
+ {
+  "msgid": "Create Profile",
+  "msgstr": "პროფილის შექმნა"
+ },
+ {
+  "msgid": "Username or Email",
+  "msgstr": "მომხმარებლის სახელი ან ელფოსტა"
+ },
+ {
+  "msgid": "Create New Account",
+  "msgstr": "ახალი ანგარიშის შექმნა"
+ },
+ {
+  "msgid": "Paradox Account: {email}",
+  "msgstr": "Paradox ანგარიში: {email}"
+ },
+ {
+  "msgid": "New Profile Name",
+  "msgstr": "პროფილის ახალი სახელი"
+ },
+ {
+  "msgid": "Rename Paradox Profile",
+  "msgstr": "Paradox პროფილის გადარქმევა"
+ },
+ {
+  "msgid": "Rename Profile",
+  "msgstr": "პროფილის გადარქმევა"
+ },
+ {
+  "msgid": "Do Not Show Again",
+  "msgstr": "აღარ მაჩვენო"
+ },
+ {
+  "msgid": "Overwrite Savegame",
+  "msgstr": "შენახული თამაშის გადაწერა"
+ },
+ {
+  "msgid": "The previous savegame will be lost.",
+  "msgstr": "წინა შენახული თამაში დაიკარგება."
+ },
+ {
+  "msgid": "The previous savegame \\\"{savegameName}\\\" will be lost.",
+  "msgstr": "წინა შენახული თამაში \\\"{savegameName}\\\" დაიკარგება."
+ },
+ {
+  "msgid": "Unnamed Savegame",
+  "msgstr": "უსახელო შენახული თამაში"
+ },
+ {
+  "msgid": "Savegame Name",
+  "msgstr": "შენახული თამაშის სახელი"
+ },
+ {
+  "msgid": "Save",
+  "msgstr": "შენახვა"
+ },
+ {
+  "msgid": "Add New",
+  "msgstr": "ახლის დამატება"
+ },
+ {
+  "msgid": "Save Map and Play",
+  "msgstr": "რუკის შენახვა და თამაში"
+ },
+ {
+  "msgid": "Required mods or DLCs are missing.",
+  "msgstr": "აკლია საჭირო მოდები ან DLC დამატებები."
+ },
+ {
+  "msgid": "Map size or map format is not supported.",
+  "msgstr": "რუკის ზომა ან ფორმატი მხარდაჭერილი არ არის."
+ },
+ {
+  "msgid": "The savegame could not be loaded.",
+  "msgstr": "შენახული თამაშის ჩატვირთვა ვერ მოხერხდა."
+ },
+ {
+  "msgid": "This savegame is built into the game and cannot be deleted.",
+  "msgstr": "ეს შენახული თამაში თამაშშია ჩაშენებული და მისი წაშლა შეუძლებელია."
+ },
+ {
+  "msgid": "This map comes from a mod.",
+  "msgstr": "ეს რუკა მოდს ეკუთვნის."
+ },
+ {
+  "msgid": "Date Saved",
+  "msgstr": "შენახვის თარიღი"
+ },
+ {
+  "msgid": "Mission",
+  "msgstr": "მისია"
+ },
+ {
+  "msgid": "{mapSize} ({mapFormat})",
+  "msgstr": "{mapSize} ({mapFormat})"
+ },
+ {
+  "msgid": "Company Rank",
+  "msgstr": "კომპანიის წოდება"
+ },
+ {
+  "msgid": "Current Account",
+  "msgstr": "მიმდინარე ანგარიში",
+  "note": "Savegame detail: the company's money, so მიმდინარე ანგარიში (banking sense)."
+ },
+ {
+  "msgid": "The map format and map size are not supported.",
+  "msgstr": "რუკის ფორმატი და ზომა მხარდაჭერილი არ არის."
+ },
+ {
+  "msgid": "The map format and map size are experimental.",
+  "msgstr": "რუკის ფორმატი და ზომა ექსპერიმენტულია."
+ },
+ {
+  "msgid": "The map format is not supported.",
+  "msgstr": "რუკის ფორმატი მხარდაჭერილი არ არის."
+ },
+ {
+  "msgid": "The map format is experimental.",
+  "msgstr": "რუკის ფორმატი ექსპერიმენტულია."
+ },
+ {
+  "msgid": "The map size is not supported.",
+  "msgstr": "რუკის ზომა მხარდაჭერილი არ არის."
+ },
+ {
+  "msgid": "The map size is experimental.",
+  "msgstr": "რუკის ზომა ექსპერიმენტულია."
+ },
+ {
+  "msgid": "Savegame complexity could cause performance issues.",
+  "msgstr": "შენახული თამაშის სირთულემ შესაძლოა წარმადობა შეამციროს."
+ },
+ {
+  "msgid": "Game Storage",
+  "msgstr": "თამაშის საცავი"
+ },
+ {
+  "msgid": "Filter Savegames...",
+  "msgstr": "შენახული თამაშების გაფილტვრა..."
+ },
+ {
+  "msgid": "Date",
+  "msgstr": "თარიღი"
+ },
+ {
+  "msgid": "Autosave",
+  "msgstr": "ავტომატურად შენახული"
+ },
+ {
+  "msgid": "Recovery Save",
+  "msgstr": "აღსადგენად შენახული"
+ },
+ {
+  "msgid": "Exit Save",
+  "msgstr": "გასვლისას შენახული"
+ },
+ {
+  "msgid": "Manual Save",
+  "msgstr": "ხელით შენახული"
+ },
+ {
+  "msgid": "Share",
+  "msgstr": "გაზიარება"
+ },
+ {
+  "msgid": "Delete Savegame",
+  "msgstr": "შენახული თამაშის წაშლა"
+ },
+ {
+  "msgid": "The savegame will be lost permanently.",
+  "msgstr": "შენახული თამაში სამუდამოდ წაიშლება."
+ },
+ {
+  "msgid": "Save Settings",
+  "msgstr": "შენახული თამაშის პარამეტრები",
+  "note": "Read as a noun (the savegame's settings shown on the load screen). If it is a button, use პარამეტრების შენახვა."
+ },
+ {
+  "msgid": "Mods ({count})",
+  "msgstr": "მოდები ({count})"
+ },
+ {
+  "msgid": "...",
+  "msgstr": "..."
+ },
+ {
+  "msgid": "{currentValue}/{targetValue}",
+  "msgstr": "{currentValue}/{targetValue}"
+ },
+ {
+  "msgid": "Done",
+  "msgstr": "მზადაა"
+ }
+]

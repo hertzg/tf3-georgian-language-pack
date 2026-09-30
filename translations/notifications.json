@@ -1,0 +1,723 @@
+[
+ {
+  "msgid": "Tram Track Catenary",
+  "msgstr": "ტრამვაის საკონტაქტო ქსელი"
+ },
+ {
+  "msgid": "Traffic Lights",
+  "msgstr": "შუქნიშნები"
+ },
+ {
+  "msgid": "Animal Died",
+  "msgstr": "ცხოველი დაიღუპა"
+ },
+ {
+  "msgid": "A Grieving Day",
+  "msgstr": "გლოვის დღე"
+ },
+ {
+  "msgid": "{animalName} became a victim of technological advance. It is now on its way to heaven.",
+  "msgstr": "{animalName} ტექნიკური პროგრესის მსხვერპლი გახდა. ახლა ის სამოთხისკენ მიემართება."
+ },
+ {
+  "msgid": "New Vehicles Available",
+  "msgstr": "ხელმისაწვდომია ახალი სატრანსპორტო საშუალებები"
+ },
+ {
+  "msgid": "New Vehicle Available",
+  "msgstr": "ხელმისაწვდომია ახალი სატრანსპორტო საშუალება"
+ },
+ {
+  "msgid": "A new vehicle has hit the market and is now available for purchase.",
+  "msgstr": "ბაზარზე ახალი სატრანსპორტო საშუალება გამოვიდა და უკვე შეგიძლიათ შეიძინოთ."
+ },
+ {
+  "msgid": "The following are also available:\\n{nameList}",
+  "msgstr": "ასევე ხელმისაწვდომია:\\n{nameList}"
+ },
+ {
+  "msgid": "Cargo Not Unloaded",
+  "msgstr": "ტვირთი არ გადმოიტვირთა"
+ },
+ {
+  "msgid": "Some cargo was never unloaded on line.",
+  "msgstr": "ხაზზე ტვირთის ნაწილი არ გადმოიტვირთა."
+ },
+ {
+  "msgid": "{cargoCount} cargo of {vehicle} was not unloaded on line.",
+  "msgstr": "{vehicle} – ხაზზე ტვირთის {cargoCount} ერთეული არ გადმოიტვირთა."
+ },
+ {
+  "msgid": "Cargo Unload Problem",
+  "msgstr": "ტვირთის გადმოტვირთვის პრობლემა"
+ },
+ {
+  "msgid": "Some Cargo Cannot Be Unloaded",
+  "msgstr": "ტვირთის ნაწილის გადმოტვირთვა შეუძლებელია"
+ },
+ {
+  "msgid": "New Construction",
+  "msgstr": "ახალი ნაგებობა"
+ },
+ {
+  "msgid": "New Constructions Available",
+  "msgstr": "ხელმისაწვდომია ახალი ნაგებობები"
+ },
+ {
+  "msgid": "New Construction Available",
+  "msgstr": "ხელმისაწვდომია ახალი ნაგებობა"
+ },
+ {
+  "msgid": "Air Transport Is Now Available",
+  "msgstr": "საჰაერო ტრანსპორტი უკვე ხელმისაწვდომია"
+ },
+ {
+  "msgid": "Helicopters Available",
+  "msgstr": "ხელმისაწვდომია შვეულმფრენები"
+ },
+ {
+  "msgid": "Air transport has evolved, and helicopters are now available. They can be purchased via the new heliport in the air menu. These versatile aircraft are ideal for transporting cargo and passengers to remote off-shore industries.",
+  "msgstr": "საჰაერო ტრანსპორტი განვითარდა და შვეულმფრენები უკვე ხელმისაწვდომია. მათი შეძენა შეიძლება ახალ შვეულდრომში, რომელიც საჰაერო მენიუს დაემატა. ეს მრავალმხრივი საფრენი აპარატები იდეალურია ტვირთისა და მგზავრების გადასაყვანად შორეულ, ზღვაში მდებარე საწარმოებამდე."
+ },
+ {
+  "msgid": "Road Constructions Available",
+  "msgstr": "ხელმისაწვდომია საგზაო ნაგებობები"
+ },
+ {
+  "msgid": "Building complex road networks just got easier. Pre-made options for roundabouts, highway T-intersections and cloverleaf interchanges are now available in the roads menu.",
+  "msgstr": "რთული საგზაო ქსელის მშენებლობა გამარტივდა. გზების მენიუში უკვე ხელმისაწვდომია მზა ვარიანტები: წრიული გზაჯვარედინები, ავტომაგისტრალის T-ის ფორმის გზაჯვარედინები და სამყურას ტიპის სატრანსპორტო კვანძები.",
+  "note": "Cloverleaf interchange = სამყურას ტიპის კვანძი; check if a native speaker prefers ოთხფოთოლა."
+ },
+ {
+  "msgid": "First Airplanes Available",
+  "msgstr": "ხელმისაწვდომია პირველი თვითმფრინავები"
+ },
+ {
+  "msgid": "The skies are finally open. The first small airplane is now available for purchase via the newly unlocked airfield. Passengers and cargo can now be transported faster than ever before.",
+  "msgstr": "ცა საბოლოოდ გაიხსნა. პირველი პატარა თვითმფრინავის შეძენა უკვე შეიძლება ახლად ხელმისაწვდომ აეროდრომზე. მგზავრებისა და ტვირთის გადაყვანა ახლა უფრო სწრაფადაა შესაძლებელი, ვიდრე ოდესმე."
+ },
+ {
+  "msgid": "Large Airplanes and Airport Available",
+  "msgstr": "ხელმისაწვდომია დიდი თვითმფრინავები და აეროპორტი"
+ },
+ {
+  "msgid": "Airplanes are getting bigger and better. Large airplanes are now available for purchase via the new airport. Because of their size, they can only be used at airports, not at airfields.",
+  "msgstr": "თვითმფრინავები სულ უფრო დიდი და უკეთესი ხდება. დიდი თვითმფრინავების შეძენა უკვე შეიძლება ახალ აეროპორტში. ზომის გამო ისინი მხოლოდ აეროპორტებში შეიძლება გამოიყენოთ და არა აეროდრომებზე."
+ },
+ {
+  "msgid": "New Road Available",
+  "msgstr": "ხელმისაწვდომია ახალი გზა"
+ },
+ {
+  "msgid": "New Track Type",
+  "msgstr": "ლიანდაგის ახალი ტიპი"
+ },
+ {
+  "msgid": "To accommodate the faster trains of today, standard tracks are now available in the rail menu. This improved track type allows for higher speeds, but it also causes more pollution.",
+  "msgstr": "დღევანდელი, უფრო სწრაფი მატარებლებისთვის რკინიგზის მენიუში უკვე ხელმისაწვდომია სტანდარტული ლიანდაგი. ლიანდაგის ეს გაუმჯობესებული ტიპი უფრო მაღალ სიჩქარეს იძლევა, მაგრამ გარემოსაც მეტად აბინძურებს."
+ },
+ {
+  "msgid": "To support very fast passenger trains, high-speed tracks are now available in the rail menu. This specialized track type allows for maximum speeds, though it comes at the cost of high pollution.",
+  "msgstr": "ძალიან სწრაფი სამგზავრო მატარებლებისთვის რკინიგზის მენიუში უკვე ხელმისაწვდომია ჩქაროსნული ლიანდაგი. ლიანდაგის ეს სპეციალური ტიპი მაქსიმალურ სიჩქარეს იძლევა, თუმცა სანაცვლოდ გარემოს ძლიერ აბინძურებს."
+ },
+ {
+  "msgid": "Electric Trains Available",
+  "msgstr": "ხელმისაწვდომია ელექტრომატარებლები"
+ },
+ {
+  "msgid": "Thanks to breakthroughs in engineering, the first electric train is now available for purchase. A new track with catenary is available in the rail menu, and the electrification tool allows for easy upgrades to existing infrastructure.",
+  "msgstr": "საინჟინრო მიღწევების წყალობით პირველი ელექტრომატარებლის შეძენა უკვე შეიძლება. რკინიგზის მენიუს დაემატა ლიანდაგი საკონტაქტო ქსელით, ხოლო ელექტრიფიკაციის ხელსაწყოთი არსებული ინფრასტრუქტურის განახლება მარტივად შეიძლება."
+ },
+ {
+  "msgid": "New Tram Tracks Available",
+  "msgstr": "ხელმისაწვდომია ტრამვაის ახალი ლიანდაგები"
+ },
+ {
+  "msgid": "Highways Are Now Available",
+  "msgstr": "ავტომაგისტრალები უკვე ხელმისაწვდომია"
+ },
+ {
+  "msgid": "Highways Available",
+  "msgstr": "ხელმისაწვდომია ავტომაგისტრალები"
+ },
+ {
+  "msgid": "To keep pace with the higher speeds of modern cars, highways are now available in the roads menu. This new road type enables high-speed travel to distant locations and comes with various lane configurations. Since these are one-way roads, careful planning will be necessary.",
+  "msgstr": "თანამედროვე ავტომობილების მაღალ სიჩქარეებთან ფეხის ასაწყობად გზების მენიუში უკვე ხელმისაწვდომია ავტომაგისტრალები. გზის ეს ახალი ტიპი შორეულ ადგილებამდე სწრაფად მგზავრობის საშუალებას იძლევა და სავალი ზოლების სხვადასხვა კონფიგურაციით გამოდის. რადგან ეს ცალმხრივი გზებია, საჭირო იქნება ფრთხილი დაგეგმვა."
+ },
+ {
+  "msgid": "Electric Trams Available",
+  "msgstr": "ხელმისაწვდომია ელექტრული ტრამვაები"
+ },
+ {
+  "msgid": "The era of electric trams has arrived and the first vehicles are now available for purchase. New tram tracks will automatically include catenaries, while existing infrastructure can be easily modernized using the tram track tool.",
+  "msgstr": "ელექტრული ტრამვაების ერა დადგა და პირველი მათგანის შეძენა უკვე შეიძლება. ტრამვაის ახალ ლიანდაგებს საკონტაქტო ქსელი ავტომატურად დაემატება, ხოლო არსებული ინფრასტრუქტურის მოდერნიზება ტრამვაის ლიანდაგის ხელსაწყოთი მარტივად შეიძლება."
+ },
+ {
+  "msgid": "Traffic Lights Available",
+  "msgstr": "ხელმისაწვდომია შუქნიშნები"
+ },
+ {
+  "msgid": "Crossings can now be equipped with traffic lights. These improve traffic flow, as their phases can be configured according to specific needs.",
+  "msgstr": "გზაჯვარედინებზე უკვე შეიძლება შუქნიშნების დაყენება. ისინი მოძრაობას აუმჯობესებენ, რადგან მათი ფაზების მორგება კონკრეტულ საჭიროებებზე შეიძლება."
+ },
+ {
+  "msgid": "Industry Closing",
+  "msgstr": "საწარმო იხურება"
+ },
+ {
+  "msgid": "As the industry had not been used for years, it could no longer continue its operations and had to close its doors forever.",
+  "msgstr": "რადგან საწარმოს წლების განმავლობაში არავინ იყენებდა, მან საქმიანობა ვეღარ გააგრძელა და კარი სამუდამოდ დაკეტა."
+ },
+ {
+  "msgid": "{industry} is complaining about insufficient workload and is urgently looking for a logistics partner who can satisfy its demands. Otherwise the industry will soon close forever.",
+  "msgstr": "{industry} სამუშაოს ნაკლებობას უჩივის და სასწრაფოდ ეძებს ლოჯისტიკურ პარტნიორს, რომელიც მის მოთხოვნებს დააკმაყოფილებს. წინააღმდეგ შემთხვევაში საწარმო მალე სამუდამოდ დაიხურება."
+ },
+ {
+  "msgid": "The demands of the industry were taken care of just in time. The closure was prevented and the industry will continue to operate.",
+  "msgstr": "საწარმოს მოთხოვნები ბოლო წუთს დაკმაყოფილდა. დახურვა აღარ მოხდება და საწარმო მუშაობას გააგრძელებს."
+ },
+ {
+  "msgid": "Industry Is About To Close",
+  "msgstr": "საწარმო დახურვის პირასაა"
+ },
+ {
+  "msgid": "Industry Founded",
+  "msgstr": "საწარმო დაარსდა"
+ },
+ {
+  "msgid": "New Industry Founded",
+  "msgstr": "დაარსდა ახალი საწარმო"
+ },
+ {
+  "msgid": "A visionary entrepreneur smells an opportunity for profit and has founded {industry}.",
+  "msgstr": "შორსმჭვრეტელმა მეწარმემ მოგების შანსი იყნოსა და დააარსა {industry}."
+ },
+ {
+  "msgid": "Station Issue",
+  "msgstr": "სადგურის პრობლემა"
+ },
+ {
+  "msgid": "Stop Not Compatible With Current Vehicles",
+  "msgstr": "გაჩერება შეუთავსებელია ამჟამინდელ სატრანსპორტო საშუალებებთან"
+ },
+ {
+  "msgid": "Stop of {line} at {station} cannot be used with current vehicles.",
+  "msgstr": "{line} – გაჩერებას ({station}) ამჟამინდელი სატრანსპორტო საშუალებები ვერ იყენებენ.",
+  "note": "{line} is a full line name (ხაზი 3) and {station} already has a colon (მცხეთა: სადგური), so the line leads with a dash and the station sits in parentheses."
+ },
+ {
+  "msgid": "Stop cannot be used with current vehicles.",
+  "msgstr": "გაჩერებას ამჟამინდელი სატრანსპორტო საშუალებები ვერ იყენებენ."
+ },
+ {
+  "msgid": "Passenger Stop Incompatible With Cargo Vehicles",
+  "msgstr": "სამგზავრო გაჩერება შეუთავსებელია სატვირთო ტრანსპორტთან"
+ },
+ {
+  "msgid": "Passenger stop of {line} at {station} cannot be used by cargo vehicles.",
+  "msgstr": "{line} – სამგზავრო გაჩერებას ({station}) სატვირთო ტრანსპორტი ვერ გამოიყენებს."
+ },
+ {
+  "msgid": "Passenger stop cannot be used by cargo vehicles.",
+  "msgstr": "სამგზავრო გაჩერებას სატვირთო ტრანსპორტი ვერ გამოიყენებს."
+ },
+ {
+  "msgid": "All Passenger Stops Incompatible With Cargo Vehicles",
+  "msgstr": "ყველა სამგზავრო გაჩერება შეუთავსებელია სატვირთო ტრანსპორტთან"
+ },
+ {
+  "msgid": "All passenger stops of {line} cannot be used by cargo vehicles.",
+  "msgstr": "{line} – ვერც ერთ სამგზავრო გაჩერებას სატვირთო ტრანსპორტი ვერ გამოიყენებს."
+ },
+ {
+  "msgid": "Passenger stops cannot be used by cargo vehicles.",
+  "msgstr": "სამგზავრო გაჩერებებს სატვირთო ტრანსპორტი ვერ გამოიყენებს."
+ },
+ {
+  "msgid": "Cargo Stop Incompatible With Passenger Vehicles",
+  "msgstr": "სატვირთო გაჩერება შეუთავსებელია სამგზავრო ტრანსპორტთან"
+ },
+ {
+  "msgid": "Stop of {line} at {station} cannot be used by passenger vehicles.",
+  "msgstr": "{line} – გაჩერებას ({station}) სამგზავრო ტრანსპორტი ვერ გამოიყენებს."
+ },
+ {
+  "msgid": "Cargo stop cannot be used by passenger vehicles.",
+  "msgstr": "სატვირთო გაჩერებას სამგზავრო ტრანსპორტი ვერ გამოიყენებს."
+ },
+ {
+  "msgid": "Configured Cargo Type Cannot Be Unloaded at Stop",
+  "msgstr": "მითითებული ტვირთი გაჩერებაზე ვერ გადმოიტვირთება"
+ },
+ {
+  "msgid": "Configured cargo type cannot be unloaded at stop of {line} at {station}.",
+  "msgstr": "{line} – მითითებული ტვირთი გაჩერებაზე ({station}) ვერ გადმოიტვირთება."
+ },
+ {
+  "msgid": "Configured cargo type cannot be unloaded at this stop.",
+  "msgstr": "მითითებული ტვირთი ამ გაჩერებაზე ვერ გადმოიტვირთება."
+ },
+ {
+  "msgid": "Configured Cargo Type Cannot Be Loaded at Stop",
+  "msgstr": "მითითებული ტვირთი გაჩერებაზე ვერ დაიტვირთება"
+ },
+ {
+  "msgid": "Configured cargo type cannot be loaded at stop of {line} at {station}.",
+  "msgstr": "{line} – მითითებული ტვირთი გაჩერებაზე ({station}) ვერ დაიტვირთება."
+ },
+ {
+  "msgid": "Configured cargo type cannot be loaded at this stop.",
+  "msgstr": "მითითებული ტვირთი ამ გაჩერებაზე ვერ დაიტვირთება."
+ },
+ {
+  "msgid": "Unkown Station Stop Issue Occured",
+  "msgstr": "გაჩერების უცნობი პრობლემა"
+ },
+ {
+  "msgid": "An unknown station stop issue occured.",
+  "msgstr": "გაჩერებაზე უცნობი პრობლემა წარმოიშვა."
+ },
+ {
+  "msgid": "Station Problem",
+  "msgstr": "სადგურის პრობლემა"
+ },
+ {
+  "msgid": "Line Issue",
+  "msgstr": "ხაზის პრობლემა"
+ },
+ {
+  "msgid": "Some Cargo Type Configurations of This Line Are Clashing",
+  "msgstr": "ხაზზე ტვირთის ტიპების ზოგიერთი პარამეტრი ერთმანეთს ეწინააღმდეგება"
+ },
+ {
+  "msgid": "A cargo type cannot be loaded anywhere, despite being configured on the line.\\nCargo Type: {cargoType}",
+  "msgstr": "ტვირთის ტიპი ვერსად დაიტვირთება, თუმცა ხაზზე მითითებულია.\\nტვირთის ტიპი: {cargoType}"
+ },
+ {
+  "msgid": "A cargo type cannot be unloaded anywhere, despite being loaded at stop {stopNumber}.\\nCargo Type: {cargoType}",
+  "msgstr": "ტვირთის ტიპი ვერსად გადმოიტვირთება, თუმცა გაჩერებაზე {stopNumber} იტვირთება.\\nტვირთის ტიპი: {cargoType}"
+ },
+ {
+  "msgid": "No vehicle on the line can transport some of the cargo configured to be loaded.\\nCargo Type: {cargoType}",
+  "msgstr": "დასატვირთად მითითებული ზოგიერთი ტვირთის გადაზიდვა ხაზზე არც ერთ სატრანსპორტო საშუალებას არ შეუძლია.\\nტვირთის ტიპი: {cargoType}"
+ },
+ {
+  "msgid": "Some vehicles on the line cannot transport any of the cargo configured to be loaded.",
+  "msgstr": "ხაზის ზოგიერთ სატრანსპორტო საშუალებას დასატვირთად მითითებული ტვირთიდან არც ერთის გადაზიდვა არ შეუძლია."
+ },
+ {
+  "msgid": "Some vehicles can only transport cargo, but the line is configured for passengers.",
+  "msgstr": "ზოგიერთ სატრანსპორტო საშუალებას მხოლოდ ტვირთის გადაზიდვა შეუძლია, ხაზი კი მგზავრებისთვისაა მორგებული."
+ },
+ {
+  "msgid": "The line isn't configured to load any cargo.",
+  "msgstr": "ხაზზე არც ერთი ტვირთის დატვირთვა არ არის მითითებული."
+ },
+ {
+  "msgid": "Line Contains Too Few Stations",
+  "msgstr": "ხაზზე ძალიან ცოტა სადგურია"
+ },
+ {
+  "msgid": "Line {line} contains too few stations.",
+  "msgstr": "{line} ძალიან ცოტა სადგურს მოიცავს."
+ },
+ {
+  "msgid": "Line contains too few stations.",
+  "msgstr": "ხაზი ძალიან ცოტა სადგურს მოიცავს."
+ },
+ {
+  "msgid": "A Station Appears Consecutively Twice",
+  "msgstr": "სადგური ზედიზედ ორჯერ გვხვდება"
+ },
+ {
+  "msgid": "On line {line} a station appears consecutively twice.",
+  "msgstr": "{line} – ერთი და იგივე სადგური ზედიზედ ორჯერ გვხვდება."
+ },
+ {
+  "msgid": "A station appears consecutively twice.",
+  "msgstr": "ერთი და იგივე სადგური ზედიზედ ორჯერ გვხვდება."
+ },
+ {
+  "msgid": "Stations Are Incompatible Due to Conflicting Stops",
+  "msgstr": "სადგურები შეუთავსებელია კონფლიქტური გაჩერებების გამო"
+ },
+ {
+  "msgid": "Stations are incompatible as there are conflicting stops on {line} connected.",
+  "msgstr": "{line} – სადგურები შეუთავსებელია, რადგან ერთმანეთთან კონფლიქტური გაჩერებებია დაკავშირებული."
+ },
+ {
+  "msgid": "Stations are incompatible as there are conflicting stops connected.",
+  "msgstr": "სადგურები შეუთავსებელია, რადგან ერთმანეთთან კონფლიქტური გაჩერებებია დაკავშირებული."
+ },
+ {
+  "msgid": "Could Not Connect Stations",
+  "msgstr": "სადგურების დაკავშირება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Could not connect stations on {line}: {reason}.",
+  "msgstr": "{line} – სადგურების დაკავშირება ვერ მოხერხდა. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "Could not connect stations on {line}.",
+  "msgstr": "{line} – სადგურების დაკავშირება ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Could not connect stations: {reason}.",
+  "msgstr": "სადგურების დაკავშირება ვერ მოხერხდა. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "Could not connect stations.",
+  "msgstr": "სადგურების დაკავშირება ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Could Not Connect Alternative Terminals",
+  "msgstr": "ალტერნატიული ტერმინალების დაკავშირება ვერ მოხერხდა"
+ },
+ {
+  "msgid": "Could not connect all alternative terminals on {line}: {reason}.",
+  "msgstr": "{line} – ყველა ალტერნატიული ტერმინალის დაკავშირება ვერ მოხერხდა. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "Could not connect all alternative terminals on {line}.",
+  "msgstr": "{line} – ყველა ალტერნატიული ტერმინალის დაკავშირება ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Could not connect all alternative terminals: {reason}.",
+  "msgstr": "ყველა ალტერნატიული ტერმინალის დაკავშირება ვერ მოხერხდა. მიზეზი: {reason}."
+ },
+ {
+  "msgid": "Could not connect all alternative terminals.",
+  "msgstr": "ყველა ალტერნატიული ტერმინალის დაკავშირება ვერ მოხერხდა."
+ },
+ {
+  "msgid": "Line Is Misconfigured",
+  "msgstr": "ხაზი არასწორად არის მორგებული"
+ },
+ {
+  "msgid": "Line {line} is misconfigured.",
+  "msgstr": "{line} არასწორად არის მორგებული."
+ },
+ {
+  "msgid": "Unknown Line Issue Occured",
+  "msgstr": "ხაზის უცნობი პრობლემა"
+ },
+ {
+  "msgid": "An unknown line issue occured.",
+  "msgstr": "ხაზზე უცნობი პრობლემა წარმოიშვა."
+ },
+ {
+  "msgid": "Line Problem",
+  "msgstr": "ხაზის პრობლემა"
+ },
+ {
+  "msgid": "New Cargo Demand",
+  "msgstr": "ახალი მოთხოვნა ტვირთზე"
+ },
+ {
+  "msgid": "Deleted Town",
+  "msgstr": "წაშლილი დასახლებული პუნქტი"
+ },
+ {
+  "msgid": "Deleted Cargo Type",
+  "msgstr": "წაშლილი ტვირთის ტიპი",
+  "note": "Fallback name shown when the cargo type was deleted."
+ },
+ {
+  "msgid": "{town} has grown and its industrial and commercial buildings offer new products. Therefore, they now also require a new cargo type: {cargoName}.",
+  "msgstr": "{town} გაიზარდა და მისი სამრეწველო და კომერციული შენობები ახალ პროდუქციას გვთავაზობს. ამიტომ მათ ახლა ახალი ტიპის ტვირთიც სჭირდებათ: {cargoName}."
+ },
+ {
+  "msgid": "Station Not Connected",
+  "msgstr": "სადგური არ არის დაკავშირებული"
+ },
+ {
+  "msgid": "No Road Connection",
+  "msgstr": "გზასთან კავშირი არ არის"
+ },
+ {
+  "msgid": "Station Has No Connection to the Road",
+  "msgstr": "სადგური გზასთან არ არის დაკავშირებული"
+ },
+ {
+  "msgid": "{remainingTime} left",
+  "msgstr": "დარჩენილია {remainingTime}"
+ },
+ {
+  "msgid": "Station Overcrowded",
+  "msgstr": "სადგური გადატვირთულია"
+ },
+ {
+  "msgid": "Station Is Overcrowded",
+  "msgstr": "სადგური გადატვირთულია"
+ },
+ {
+  "msgid": "Station Not Usable",
+  "msgstr": "სადგური გამოუსადეგარია"
+ },
+ {
+  "msgid": "Station Not Functional",
+  "msgstr": "სადგური არ ფუნქციონირებს"
+ },
+ {
+  "msgid": "The station is not functional yet, as no warehouse, industry or town building is in the catchment area.",
+  "msgstr": "სადგური ჯერ არ ფუნქციონირებს, რადგან მის მომსახურების ზონაში არ არის არც საწყობი, არც საწარმო და არც დასახლებული პუნქტის შენობა."
+ },
+ {
+  "msgid": "Station Is Not Functional",
+  "msgstr": "სადგური არ ფუნქციონირებს"
+ },
+ {
+  "msgid": "Vehicle Stuck",
+  "msgstr": "სატრანსპორტო საშუალება ჩარჩა"
+ },
+ {
+  "msgid": "{vehicleName} has been stuck in the depot for a while.",
+  "msgstr": "{vehicleName} უკვე დიდი ხანია დეპოშია ჩარჩენილი."
+ },
+ {
+  "msgid": "{vehicleName} has been stuck for a while without moving.",
+  "msgstr": "{vehicleName} უკვე დიდი ხანია ერთ ადგილზე დგას და არ მოძრაობს."
+ },
+ {
+  "msgid": "Vehicle Has Been Stuck for a While",
+  "msgstr": "სატრანსპორტო საშუალება დიდი ხანია ჩარჩენილია"
+ },
+ {
+  "msgid": "Subsidy Failed",
+  "msgstr": "სუბსიდია ჩაიშალა"
+ },
+ {
+  "msgid": "Subsidy Missed",
+  "msgstr": "ხელიდან გაშვებული სუბსიდია"
+ },
+ {
+  "msgid": "Subsidy Status",
+  "msgstr": "სუბსიდიის სტატუსი"
+ },
+ {
+  "msgid": "A subsidy has become unavailable. A missed opportunity, but the next one is sure to come.",
+  "msgstr": "სუბსიდია აღარ არის ხელმისაწვდომი. ხელიდან გაშვებული შესაძლებლობაა, მაგრამ შემდეგი აუცილებლად გამოჩნდება."
+ },
+ {
+  "msgid": "Subsidy Available",
+  "msgstr": "ხელმისაწვდომია სუბსიდია"
+ },
+ {
+  "msgid": "Subsidy in Progress",
+  "msgstr": "სუბსიდია მოქმედებს"
+ },
+ {
+  "msgid": "Subsidy Effect Active",
+  "msgstr": "ჯილდოს ეფექტი მოქმედებს",
+  "note": "Subsidy \"effect\" is the reward period after a fulfilled subsidy; called ჯილდოს ეფექტი in sentences.json."
+ },
+ {
+  "msgid": "A Subsidy Is Available",
+  "msgstr": "ხელმისაწვდომია სუბსიდია"
+ },
+ {
+  "msgid": "A Subsidy Is in Progress",
+  "msgstr": "სუბსიდია მოქმედებს"
+ },
+ {
+  "msgid": "A Subsidy Effect Is Active",
+  "msgstr": "ჯილდოს ეფექტი მოქმედებს"
+ },
+ {
+  "msgid": "Town Rating Very Poor",
+  "msgstr": "დასახლებული პუნქტის შეფასება ძალიან დაბალია"
+ },
+ {
+  "msgid": "A town's rating is very poor and the residents are furious. Action should be taken immediately.",
+  "msgstr": "დასახლებული პუნქტის შეფასება ძალიან დაბალია და მაცხოვრებლები აღშფოთებულნი არიან. საჭიროა დაუყოვნებლივ მიიღოთ ზომები."
+ },
+ {
+  "msgid": "The rating \\\"{what}\\\" of {town} is very poor and the residents are furious. Action should be taken immediately.",
+  "msgstr": "{town}: შეფასება \\\"{what}\\\" ძალიან დაბალია და მაცხოვრებლები აღშფოთებულნი არიან. საჭიროა დაუყოვნებლივ მიიღოთ ზომები."
+ },
+ {
+  "msgid": "Town Rating Is Very Poor",
+  "msgstr": "დასახლებული პუნქტის შეფასება ძალიან დაბალია"
+ },
+ {
+  "msgid": "Town Rating Decreasing",
+  "msgstr": "დასახლებული პუნქტის შეფასება ეცემა"
+ },
+ {
+  "msgid": "The residents of {town} are concerned as the rating \\\"{what}\\\" is decreasing. Appropriate action should be taken to improve it again.",
+  "msgstr": "{town}: მაცხოვრებლები შეშფოთებულნი არიან, რადგან შეფასება \\\"{what}\\\" ეცემა. მიიღეთ შესაბამისი ზომები, რომ ის ისევ გაუმჯობესდეს."
+ },
+ {
+  "msgid": "A town's rating is decreasing. Appropriate action should be taken to improve it again.",
+  "msgstr": "დასახლებული პუნქტის შეფასება ეცემა. მიიღეთ შესაბამისი ზომები, რომ ის ისევ გაუმჯობესდეს."
+ },
+ {
+  "msgid": "Town Rating Is Decreasing",
+  "msgstr": "დასახლებული პუნქტის შეფასება ეცემა"
+ },
+ {
+  "msgid": "Town Not Connected",
+  "msgstr": "დასახლებული პუნქტი არ არის დაკავშირებული"
+ },
+ {
+  "msgid": "Road Connection Between Towns Has Been Interrupted",
+  "msgstr": "დასახლებულ პუნქტებს შორის საავტომობილო კავშირი გაწყდა"
+ },
+ {
+  "msgid": "Travel Time Between Towns Is Too Long",
+  "msgstr": "დასახლებულ პუნქტებს შორის მგზავრობის დრო ძალიან დიდია"
+ },
+ {
+  "msgid": "Vehicle Problem",
+  "msgstr": "სატრანსპორტო საშუალების პრობლემა"
+ },
+ {
+  "msgid": "No Electrified Path",
+  "msgstr": "ელექტრიფიცირებული გზა არ არის"
+ },
+ {
+  "msgid": "There is no electrified path for {vehicle}.",
+  "msgstr": "{vehicle} – ელექტრიფიცირებული გზა არ არსებობს."
+ },
+ {
+  "msgid": "There is no electrified path.",
+  "msgstr": "ელექტრიფიცირებული გზა არ არსებობს."
+ },
+ {
+  "msgid": "No Path for Big Aircraft",
+  "msgstr": "დიდი თვითმფრინავისთვის გზა არ არის"
+ },
+ {
+  "msgid": "There is no path for a big aircraft like {vehicle}.",
+  "msgstr": "{vehicle} – დიდი თვითმფრინავებისთვის შესაფერისი გზა არ არსებობს."
+ },
+ {
+  "msgid": "There is no path for big aircraft.",
+  "msgstr": "დიდი თვითმფრინავებისთვის შესაფერისი გზა არ არსებობს."
+ },
+ {
+  "msgid": "No Path for Big Ships",
+  "msgstr": "დიდი გემისთვის გზა არ არის"
+ },
+ {
+  "msgid": "There is no path for a big ship like {vehicle}.",
+  "msgstr": "{vehicle} – დიდი გემებისთვის შესაფერისი გზა არ არსებობს."
+ },
+ {
+  "msgid": "There is no path for big ships.",
+  "msgstr": "დიდი გემებისთვის შესაფერისი გზა არ არსებობს."
+ },
+ {
+  "msgid": "No Path at All",
+  "msgstr": "გზა საერთოდ არ არის"
+ },
+ {
+  "msgid": "There is no path at all for {vehicle}.",
+  "msgstr": "{vehicle} – გზა საერთოდ არ არსებობს."
+ },
+ {
+  "msgid": "There is no path at all.",
+  "msgstr": "გზა საერთოდ არ არსებობს."
+ },
+ {
+  "msgid": "Trains Are Blocking Each Other",
+  "msgstr": "მატარებლები ერთმანეთს გზას უღობავენ"
+ },
+ {
+  "msgid": "The trains {train1} and {train2} are blocking each other.",
+  "msgstr": "{train1} და {train2} ერთმანეთს გზას უღობავენ."
+ },
+ {
+  "msgid": "Trains are blocking each other.",
+  "msgstr": "მატარებლები ერთმანეთს გზას უღობავენ."
+ },
+ {
+  "msgid": "Unknown Vehicle Problem Occured",
+  "msgstr": "სატრანსპორტო საშუალების უცნობი პრობლემა"
+ },
+ {
+  "msgid": "An unknown vehicle problem occured.",
+  "msgstr": "სატრანსპორტო საშუალებას უცნობი პრობლემა შეექმნა."
+ },
+ {
+  "msgid": "Vehicle Condition",
+  "msgstr": "სატრანსპორტო საშუალების მდგომარეობა"
+ },
+ {
+  "msgid": "Vehicle Condition Is Not Good",
+  "msgstr": "სატრანსპორტო საშუალების მდგომარეობა ცუდია"
+ },
+ {
+  "msgid": "The condition of {vehicle} is very bad.",
+  "msgstr": "{vehicle} ძალიან ცუდ მდგომარეობაშია."
+ },
+ {
+  "msgid": "The conditions of multiple vehicles are very bad.",
+  "msgstr": "რამდენიმე სატრანსპორტო საშუალება ძალიან ცუდ მდგომარეობაშია."
+ },
+ {
+  "msgid": "Show Notification Pop-Up",
+  "msgstr": "შეტყობინების ამომხტარი ფანჯრის ჩვენება"
+ },
+ {
+  "msgid": "Hide Notification Pop-Up",
+  "msgstr": "შეტყობინების ამომხტარი ფანჯრის დამალვა"
+ },
+ {
+  "msgid": "Info",
+  "msgstr": "ინფორმაცია"
+ },
+ {
+  "msgid": "Warning",
+  "msgstr": "გაფრთხილება"
+ },
+ {
+  "msgid": "Error",
+  "msgstr": "შეცდომა"
+ },
+ {
+  "msgid": "Opportunity",
+  "msgstr": "შესაძლებლობა"
+ },
+ {
+  "msgid": "Accomplishment",
+  "msgstr": "მიღწევა"
+ },
+ {
+  "msgid": "Unknown",
+  "msgstr": "უცნობი"
+ },
+ {
+  "msgid": "All",
+  "msgstr": "ყველა"
+ },
+ {
+  "msgid": "History",
+  "msgstr": "ისტორია"
+ },
+ {
+  "msgid": "Active",
+  "msgstr": "აქტიური"
+ },
+ {
+  "msgid": "Configure Notification Logging",
+  "msgstr": "შეტყობინებების ჟურნალის მორგება"
+ },
+ {
+  "msgid": "Category",
+  "msgstr": "კატეგორია"
+ },
+ {
+  "msgid": "Congratulations, your hard work and endurance are paying off. You got promoted to {role} and great rewards have been unlocked.",
+  "msgstr": "გილოცავთ! თქვენი შრომა და შეუპოვრობა ნაყოფს იძლევა. თქვენ დაწინაურდით და გაიხსნა დიდი ჯილდოები. ახალი წოდება: {role}.",
+  "note": "Promotion is stated first and {role} goes last after a colon so it stays nominative."
+ },
+ {
+  "msgid": "Settlement reputation improved.",
+  "msgstr": "დასახლებულ პუნქტში რეპუტაცია გაუმჯობესდა."
+ },
+ {
+  "msgid": "Time to Celebrate!",
+  "msgstr": "დროა ვიზეიმოთ!"
+ }
+]

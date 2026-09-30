@@ -1,5 +1,6 @@
 # Usage: python3 tools/merge_fonts.py Lato-Regular.ttf NotoSansGeorgian-Regular.ttf \
-#   GeorgianNamesSans-Regular.ttf "Georgian Names Sans" Regular  (needs fontTools)
+#   GeorgianNamesSans-Regular.ttf "Georgian Names Sans" Regular [size]  (needs fontTools)
+# size scales the Georgian letters relative to Lato's x-height (default 1.0).
 # Adds the Georgian glyphs of Noto Sans Georgian to Lato, scaled so the
 # x-heights match, and renames the result (Lato's license reserves its name).
 import sys
@@ -8,9 +9,10 @@ from fontTools.pens.ttGlyphPen import TTGlyphPen
 from fontTools.pens.transformPen import TransformPen
 
 lato_path, noto_path, out_path, family, style = sys.argv[1:6]
+size = float(sys.argv[6]) if len(sys.argv) > 6 else 1.0
 lato, noto = TTFont(lato_path), TTFont(noto_path)
 k = (lato["OS/2"].sxHeight / lato["head"].unitsPerEm) / (noto["OS/2"].sxHeight / noto["head"].unitsPerEm) \
-    * lato["head"].unitsPerEm / noto["head"].unitsPerEm
+    * lato["head"].unitsPerEm / noto["head"].unitsPerEm * size
 
 ranges = [(0x10A0, 0x10FF), (0x1C90, 0x1CBF), (0x2D00, 0x2D2F)]
 ncmap = noto.getBestCmap()

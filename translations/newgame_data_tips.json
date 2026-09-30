@@ -1,0 +1,321 @@
+[
+ {
+  "msgid": "Biome 0",
+  "msgstr": "ბიომი 0"
+ },
+ {
+  "msgid": "Biome 1",
+  "msgstr": "ბიომი 1"
+ },
+ {
+  "msgid": "Biome 2",
+  "msgstr": "ბიომი 2"
+ },
+ {
+  "msgid": "Biome 3",
+  "msgstr": "ბიომი 3"
+ },
+ {
+  "msgid": "Biome 4",
+  "msgstr": "ბიომი 4"
+ },
+ {
+  "msgid": "Coast Hills",
+  "msgstr": "სანაპირო ბორცვები"
+ },
+ {
+  "msgid": "Mesas",
+  "msgstr": "მაგიდისებრი მთები",
+  "note": "geography term for flat-topped hills (table mountains)"
+ },
+ {
+  "msgid": "Monument Valley",
+  "msgstr": "მონუმენტ-ველი",
+  "note": "proper place name (US), transliterated"
+ },
+ {
+  "msgid": "Mountains",
+  "msgstr": "მთები"
+ },
+ {
+  "msgid": "Rivers",
+  "msgstr": "მდინარეები"
+ },
+ {
+  "msgid": "Shrubland Vegetation",
+  "msgstr": "ბუჩქნარი"
+ },
+ {
+  "msgid": "Dry",
+  "msgstr": "მშრალი"
+ },
+ {
+  "msgid": "Desert",
+  "msgstr": "უდაბნო"
+ },
+ {
+  "msgid": "Lakes",
+  "msgstr": "ტბები"
+ },
+ {
+  "msgid": "Adjust the number of lakes on the map.",
+  "msgstr": "შეცვალეთ ტბების რაოდენობა რუკაზე."
+ },
+ {
+  "msgid": "Sparse",
+  "msgstr": "ძალიან ცოტა",
+  "note": "density ladder read as amount (hints say 'number of'): ძალიან ცოტა < ცოტა < საშუალო < ბევრი < ძალიან ბევრი; Georgian იშვიათი/გაფანტული would not show which of Sparse/Scattered is less"
+ },
+ {
+  "msgid": "Scattered",
+  "msgstr": "ცოტა"
+ },
+ {
+  "msgid": "Medium",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgid": "Dense",
+  "msgstr": "ბევრი",
+  "note": "shared plain msgid: if the game also uses it for vegetation or town density, ბევრი still reads, ხშირი would be the density word"
+ },
+ {
+  "msgid": "Packed",
+  "msgstr": "ძალიან ბევრი"
+ },
+ {
+  "msgid": "Adjust the number of rivers on the map.",
+  "msgstr": "შეცვალეთ მდინარეების რაოდენობა რუკაზე."
+ },
+ {
+  "msgid": "Adjust the number and height of mountains on the map.",
+  "msgstr": "შეცვალეთ მთების რაოდენობა და სიმაღლე რუკაზე."
+ },
+ {
+  "msgid": "Desert (Import)",
+  "msgstr": "უდაბნო (იმპორტი)"
+ },
+ {
+  "msgid": "Swamps",
+  "msgstr": "ჭაობები"
+ },
+ {
+  "msgid": "Boreal Forest Vegetation",
+  "msgstr": "ბორეალური ტყე",
+  "note": "ტაიგა avoided (Russian loan)"
+ },
+ {
+  "msgid": "Subarctic",
+  "msgstr": "სუბარქტიკული"
+ },
+ {
+  "msgid": "Adjust the size of the water body on the map.",
+  "msgstr": "შეცვალეთ წყალსატევის ზომა რუკაზე."
+ },
+ {
+  "msgid": "Very Small",
+  "msgstr": "ძალიან პატარა"
+ },
+ {
+  "msgid": "Very Large",
+  "msgstr": "ძალიან დიდი"
+ },
+ {
+  "msgid": "Adjust the number of swamps on the map.",
+  "msgstr": "შეცვალეთ ჭაობების რაოდენობა რუკაზე."
+ },
+ {
+  "msgid": "Subarctic2 (Test)",
+  "msgstr": "სუბარქტიკული 2 (ტესტი)"
+ },
+ {
+  "msgid": "Subarctic (Import)",
+  "msgstr": "სუბარქტიკული (იმპორტი)"
+ },
+ {
+  "msgid": "Islands",
+  "msgstr": "კუნძულები"
+ },
+ {
+  "msgid": "Volcano",
+  "msgstr": "ვულკანი"
+ },
+ {
+  "msgid": "Tropical Vegetation",
+  "msgstr": "ტროპიკული მცენარეულობა"
+ },
+ {
+  "msgid": "Tropical",
+  "msgstr": "ტროპიკული"
+ },
+ {
+  "msgid": "Ocean",
+  "msgstr": "ოკეანე"
+ },
+ {
+  "msgid": "Adjust the size of the ocean area on the map.",
+  "msgstr": "შეცვალეთ ოკეანის ფართობი რუკაზე."
+ },
+ {
+  "msgid": "Adjust the number of small islands on the map.",
+  "msgstr": "შეცვალეთ პატარა კუნძულების რაოდენობა რუკაზე."
+ },
+ {
+  "msgid": "Tropical (Import)",
+  "msgstr": "ტროპიკული (იმპორტი)"
+ },
+ {
+  "msgid": "Mixed Forest Vegetation",
+  "msgstr": "შერეული ტყე"
+ },
+ {
+  "msgid": "Temperate",
+  "msgstr": "ზომიერი"
+ },
+ {
+  "msgid": "Temperate (Import)",
+  "msgstr": "ზომიერი (იმპორტი)"
+ },
+ {
+  "msgid": "All Industries",
+  "msgstr": "ყველა საწარმო"
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_1",
+  "msgstr": "ხიდები იმდენად მაღალი ააშენეთ, რომ ქვეშ გემებმა გაიარონ."
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_2",
+  "msgstr": "ხიდებისა და გვირაბების მშენებლობისა და მოვლა-შენახვის ხარჯები მათ სიმაღლესა და სიღრმეზეა დამოკიდებული."
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_3",
+  "msgstr": "არაელექტრიფიცირებული ლიანდაგის გასაუმჯობესებლად გამოიყენეთ ლიანდაგის შეცვლის ხელსაწყო."
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_4",
+  "msgstr": "ლიანდაგის გაყვანისას მიჰყევით რელიეფს - მიწის სამუშაოები ძვირი ჯდება!"
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_5",
+  "msgstr": "ლიანდაგის გაყვანისას მოერიდეთ მცირე რადიუსის მოსახვევებს, რადგან ისინი დასაშვებ მაქსიმალურ სიჩქარეს ამცირებს."
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_7",
+  "msgstr": "გზებისა და ლიანდაგების გადაკეთებისას დაიჭირეთ [iaHint=IA_PRECISION_MODE/], რომ ისინი მხოლოდ მონაკვეთ-მონაკვეთ შეცვალოთ."
+ },
+ {
+  "msgid": "TIP_CONSTRUCTION_12",
+  "msgstr": "ტვირთის ერთი სახის ტრანსპორტიდან მეორეზე გადასატვირთად საწყობი უნდა ააშენოთ."
+ },
+ {
+  "msgid": "TIP_TOWNS_3",
+  "msgstr": "დასახლებულ პუნქტებში მოერიდეთ ხანგრძლივ ლოდინს, საცობებს, ჭარბ ხმაურსა და დაბინძურებას, რადგან ეს ყველაფერი ზრდას აფერხებს."
+ },
+ {
+  "msgid": "TIP_TOWNS_4",
+  "msgstr": "დასახლებული პუნქტების ზრდისთვის საჭიროა ტვირთზე მოთხოვნის დაკმაყოფილება და მგზავრების გადაყვანა."
+ },
+ {
+  "msgid": "TIP_TOWNS_5",
+  "msgstr": "დასახლებული პუნქტების ზრდა კომპანიის დონეს ამაღლებს და ხსნის უპირატესობებსა და სხვა ბონუსებს."
+ },
+ {
+  "msgid": "TIP_INDUSTRIES_1",
+  "msgstr": "საწარმოს ფანჯარაში ჩანს წარმოების მიმდინარე ტემპი, ბუსტერები და მარაგი."
+ },
+ {
+  "msgid": "TIP_INDUSTRIES_2",
+  "msgstr": "საწარმოს ფანჯარაში ნახავთ, რომელი მომწოდებლები აკმაყოფილებენ მოთხოვნას და რომელ მომხმარებლებს ეგზავნება პროდუქცია."
+ },
+ {
+  "msgid": "TIP_VEHICLES_1",
+  "msgstr": "ყველაზე ეკონომიური ექსპლუატაციისთვის ლოკომოტივებსა და ვაგონებს მსგავსი მაქსიმალური სიჩქარე უნდა ჰქონდეთ."
+ },
+ {
+  "msgid": "TIP_VEHICLES_2",
+  "msgstr": "სატრანსპორტო საშუალებების შესაძენად და ხაზზე გასაგზავნად დეპო გჭირდებათ."
+ },
+ {
+  "msgid": "TIP_VEHICLES_4",
+  "msgstr": "ხაზის ინტერვალი გვიჩვენებს, რა დრო გადის სატრანსპორტო საშუალებებს შორის.",
+  "note": "Frequency = ინტერვალი, as in line manager"
+ },
+ {
+  "msgid": "TIP_VEHICLES_6",
+  "msgstr": "სარემონტო შენობების დიდი რაოდენობა ამცირებს სატრანსპორტო საშუალებების გამონაბოლქვს, მაგრამ ხარჯებს ზრდის."
+ },
+ {
+  "msgid": "TIP_VEHICLES_7",
+  "msgstr": "ზოგიერთი მატარებელი და საგზაო სატრანსპორტო საშუალება კონკრეტული სახის ტვირთისთვისაა განკუთვნილი. შესაბამისი ტიპის ტერმინალთან ასეთი ტრანსპორტი უფრო სწრაფად იტვირთება და გადმოიტვირთება."
+ },
+ {
+  "msgid": "TIP_VEHICLES_8",
+  "msgstr": "დეპოები და სარემონტო შენობები მომსახურებას უწევს სატრანსპორტო საშუალებებს თავიანთ დაფარვის ზონაში."
+ },
+ {
+  "msgid": "TIP_LVM_1",
+  "msgstr": "ხაზების მართვის ფანჯარაში ახალი ხაზის შესაქმნელად რუკაზე აირჩიეთ სადგურის ხატულა."
+ },
+ {
+  "msgid": "TIP_LVM_2",
+  "msgstr": "ხაზების მართვის ფანჯარაში არსებული ხაზის გასაგრძელებლად აირჩიეთ ხაზის სასურველი მონაკვეთი და დაამატეთ ახალი სადგურები."
+ },
+ {
+  "msgid": "TIP_LVM_3",
+  "msgstr": "ხაზების მართვის ფანჯარაში თითოეული გაჩერების დატვირთვის წესების შესაცვლელად ჯერ აირჩიეთ ხაზი, შემდეგ კი მაუსი გაჩერების ნომერზე მიიტანეთ."
+ },
+ {
+  "msgid": "TIP_LVM_4",
+  "msgstr": "ხაზების მართვის ფანჯარაში სატრანსპორტო საშუალების ასარჩევად რუკაზე დააწკაპუნეთ მის ხატულაზე."
+ },
+ {
+  "msgid": "TIP_LVM_5",
+  "msgstr": "ხაზების მართვის ფანჯარაში სატრანსპორტო საშუალებების ხაზზე გასაგზავნად რუკაზე აირჩიეთ ეს ხაზი."
+ },
+ {
+  "msgid": "TIP_MISC_2",
+  "msgstr": "ავტომატური შენახვის ინტერვალს თამაშის გაფართოებულ პარამეტრებში დააყენებთ."
+ },
+ {
+  "msgid": "TIP_MISC_4",
+  "msgstr": "სათაო ოფისი დასახლებული პუნქტის ტერიტორიაზე ააშენეთ და ამ დასახლებული პუნქტის ზრდა დაჩქარდება."
+ },
+ {
+  "msgid": "TIP_MISC_5",
+  "msgstr": "კომპანიის დონის ზრდასთან ერთად სათაო ოფისისთვის იხსნება ახალი დამხმარე შენობები და მორთულობა."
+ },
+ {
+  "msgid": "TIP_MISC_7",
+  "msgstr": "ღირსშესანიშნაობები ბონუსს აძლევს გარკვეულ სატრანსპორტო საშუალებებს იმავე დასახლებული პუნქტის ტერიტორიაზე."
+ },
+ {
+  "msgid": "TIP_MISC_1",
+  "msgstr": "სატრანსპორტო საშუალებებსა და ადამიანებს თვალის სადევნებლად დააჭირეთ ქინძისთავს მათი ფანჯრის ზედა მარცხენა კუთხეში."
+ },
+ {
+  "msgid": "TIP_MISC_3",
+  "msgstr": "მაუსის მარჯვენა ღილაკით შეგიძლიათ დახუროთ ფანჯრები ან დაბრუნდეთ უკან."
+ },
+ {
+  "msgid": "TIP_MISC_6",
+  "msgstr": "დააჭირეთ [iaHint=IA_QUICKSAVE/] თამაშის სწრაფად შესანახად."
+ },
+ {
+  "msgid": "TIP_MOD_1",
+  "msgstr": "ჩამოტვირთეთ თამაშის ახალი კონტენტი Mod Hub-იდან."
+ },
+ {
+  "msgid": "Yes",
+  "msgstr": "დიახ"
+ },
+ {
+  "msgid": "No",
+  "msgstr": "არა"
+ },
+ {
+  "msgid": "{w} x {h}",
+  "msgstr": "{w} × {h}",
+  "note": "× (U+00D7) instead of x"
+ }
+]
