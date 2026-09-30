@@ -67,3 +67,9 @@ rsvg-convert -w 1920 -h 1080 tools/cover.svg -o hertzg_georgian_names/_metadata/
 
 To try your changes in the game, link `hertzg_georgian_names/` into the game's
 `staging_area` folder (next to `settings.lua` in the game's user data).
+
+## License
+
+MIT (see `LICENSE`) for the code, translations and name lists. The fonts in
+`hertzg_georgian_names/content/locale/` keep their own SIL Open Font License;
+the license files sit next to them.
