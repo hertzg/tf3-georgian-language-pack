@@ -62,23 +62,23 @@
  },
  {
   "msgid": "Sparse",
-  "msgstr": "იშვიათად"
+  "msgstr": "იშვიათი"
  },
  {
   "msgid": "Scattered",
-  "msgstr": "გაფანტულად"
+  "msgstr": "გაფანტული"
  },
  {
   "msgid": "Medium",
-  "msgstr": "საშუალო"
+  "msgstr": "ზომიერი"
  },
  {
   "msgid": "Dense",
-  "msgstr": "მჭიდროდ"
+  "msgstr": "მჭიდრო"
  },
  {
   "msgid": "Packed",
-  "msgstr": "ხშირად"
+  "msgstr": "ხშირი"
  },
  {
   "msgid": "Adjust the number of rivers on the map.",
