@@ -23,17 +23,15 @@
   </defs>
   <rect width="1920" height="1080" fill="url(#bg)"/>
 
-  <!-- title: flag + ქართული ენის პაკეტი / და სახელები -->
-  <rect x="332" y="152" width="270" height="180" fill="#222"/>
-  <use xlink:href="#flag" transform="translate(320 140) scale(9)"/>
-  <g font-family=".SF Georgian" font-weight="800" font-size="84">
-    <text x="656" y="216" fill="#222">ქართული ენის პაკეტი</text>
-    <text x="656" y="320" fill="#222">და სახელები</text>
-    <text x="650" y="210" fill="#ffffff">ქართული ენის პაკეტი</text>
-    <text x="650" y="314" fill="#ffffff">და სახელები</text>
+  <!-- title: flag + ქართული ენის პაკეტი -->
+  <rect x="267" y="152" width="270" height="180" fill="#222"/>
+  <use xlink:href="#flag" transform="translate(255 140) scale(9)"/>
+  <g font-family=".SF Georgian" font-weight="800" font-size="96">
+    <text x="587" y="274" fill="#222">ქართული ენის პაკეტი</text>
+    <text x="581" y="268" fill="#ffffff">ქართული ენის პაკეტი</text>
   </g>
 
-  <text x="960" y="420" text-anchor="middle" font-family="Helvetica Neue" font-weight="700" font-size="46" letter-spacing="10" fill="#8fa3b3">GEORGIAN LANGUAGE PACK + NAMES</text>
+  <text x="960" y="420" text-anchor="middle" font-family="Helvetica Neue" font-weight="700" font-size="46" letter-spacing="10" fill="#8fa3b3">GEORGIAN LANGUAGE PACK</text>
 
   <!-- menus: the game's main menu in Georgian -->
   <g transform="translate(80 500)">

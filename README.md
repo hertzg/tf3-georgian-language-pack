@@ -1,4 +1,4 @@
-# Georgian Language Pack + Names (ქართული)
+# Georgian Language Pack (ქართული)
 
 A Transport Fever 3 mod that plays the game in Georgian: about 2,400 game texts
 translated, a font that can draw Georgian letters, and a name set with real
