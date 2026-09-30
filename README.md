@@ -68,6 +68,14 @@ rsvg-convert -w 1920 -h 1080 tools/cover.svg -o hertzg_georgian_names/_metadata/
 To try your changes in the game, link `hertzg_georgian_names/` into the game's
 `staging_area` folder (next to `settings.lua` in the game's user data).
 
+## Release
+
+Upload from the game (Mod Hub > My Mods): it validates the mod and prepares
+the console versions. Before each update, raise `revision` in `mod.json`.
+The first upload writes `_metadata/mod.io_fileid.txt`; keep it committed, it
+is how the game knows to update the same mod. Edit the name and description
+in `modinfo.json`, not on mod.io: each upload overwrites them.
+
 ## License
 
 MIT (see `LICENSE`) for the code, translations and name lists. The fonts in
