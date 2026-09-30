@@ -300,7 +300,7 @@
  },
  {
   "msgid": "VEHICLE_SHIP_HERKULES_XI_UNIVERSAL_NAME",
-  "msgstr": "Hercules XI ბუქსირი"
+  "msgstr": "Hercules XI საბუქსირო გემი"
  },
  {
   "msgid": "VEHICLE_SHIP_HONG_KONG_FERRY_BOAT_NAME",
@@ -308,11 +308,11 @@
  },
  {
   "msgid": "VEHICLE_SHIP_HOVERCRAFT_AP1_88_NAME",
-  "msgstr": "AP1-88 ჰოვერკრაფტი"
+  "msgstr": "AP1-88 ჰაერბალიშიანი გემი"
  },
  {
   "msgid": "VEHICLE_SHIP_OITA_HOVERCRAFT_NAME",
-  "msgstr": "GHL Oita ჰოვერკრაფტი"
+  "msgstr": "GHL Oita ჰაერბალიშიანი გემი"
  },
  {
   "msgid": "VEHICLE_SHIP_TORA_TYP_NAME",
@@ -320,15 +320,15 @@
  },
  {
   "msgid": "VEHICLE_SHIP_VIRGO_UNIVERSAL_NAME",
-  "msgstr": "Virgo ბუქსირი"
+  "msgstr": "Virgo საბუქსირო გემი"
  },
  {
   "msgid": "VEHICLE_SHIP_VOTRANS_TANKER_NAME",
-  "msgstr": "Votrans ბუქსირ-ტანკერი"
+  "msgstr": "Votrans საბუქსირო ტანკერი"
  },
  {
   "msgid": "VEHICLE_SHIP_VOTRANS_UNIVERSAL_NAME",
-  "msgstr": "Votrans სატვირთო ბუქსირი"
+  "msgstr": "Votrans საბუქსირო სატვირთო გემი"
  },
  {
   "msgid": "VEHICLE_TRAIN_HST_125_MIDDLE1_NAME",
