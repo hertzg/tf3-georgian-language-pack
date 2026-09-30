@@ -1,0 +1,42 @@
+name: თარგმანი / Translation
+description: არასწორი, უთარგმნელი ან მოჭრილი ტექსტი / Wrong, untranslated or cut-off text
+labels: [translation]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: რა ხდება? / What's wrong?
+      options:
+        - არასწორი ან უცნაური თარგმანი / Wrong or odd translation
+        - ტექსტი ინგლისურადაა / Text is still in English
+        - ტექსტი მოჭრილია ან არ ეტევა / Text is cut off or doesn't fit
+        - ასოები არ ჩანს (კვადრატები) / Letters show as boxes
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: სად ნახეთ? / Where in the game?
+      placeholder: "მაგ. ხაზის ფანჯარა > სტატისტიკა / e.g. Line window > Statistics"
+    validations:
+      required: true
+  - type: input
+    id: shown
+    attributes:
+      label: რა წერია? / What does it say?
+      description: ზუსტად ისე, როგორც ეკრანზეა / Exactly as on screen
+    validations:
+      required: true
+  - type: input
+    id: wanted
+    attributes:
+      label: რა უნდა ეწეროს? / What should it say?
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: ეკრანის სურათი / Screenshot
+      description: ჩააგდეთ სურათი აქ. ძალიან გვეხმარება / Drop an image here. It helps a lot
+  - type: textarea
+    id: notes
+    attributes:
+      label: დამატებით / Anything else

@@ -20,8 +20,8 @@ letters.
 
 შეცდომა იპოვეთ ან უკეთესი სიტყვა იცით? დაწერეთ Issue ან გამოგზავნეთ Pull Request.
 
-- **Report a string:** open an issue with a screenshot of where you saw it,
-  the text shown, and what it should say.
+- **Report a string:** open a [Translation issue](../../issues/new?template=translation.yml)
+  with a screenshot of where you saw it, the text shown, and what it should say.
 - **Fix a string:** edit the matching entry in `translations/*.json` and send a
   pull request. Each entry is the game's English text and its Georgian:
 
