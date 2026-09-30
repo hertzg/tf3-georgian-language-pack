@@ -33,8 +33,7 @@
  },
  {
   "msgid": "Paused",
-  "msgstr": "შეჩერებულია",
-  "note": "Shown in place of the speed factor while the game is paused."
+  "msgstr": "დაპაუზებულია"
  },
  {
   "msgid": "Calendar Speed",
@@ -183,8 +182,7 @@
  },
  {
   "msgid": "Water",
-  "msgstr": "წყლის ტრანსპორტი",
-  "note": "Shared msgid: game bar build-menu tooltip, construction filter category and finance table column. If the finance column is too narrow, fall back to the adjective alone."
+  "msgstr": "საზღვაო ტრანსპორტი"
  },
  {
   "msgid": "Air",

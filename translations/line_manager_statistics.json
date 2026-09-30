@@ -212,8 +212,7 @@
  },
  {
   "msgid": "Reversible Vehicle",
-  "msgstr": "ორმხრივი მოძრაობის სატრანსპორტო საშუალება",
-  "note": "Can drive in both directions without turning around."
+  "msgstr": "შექცევადი (ორმხრივი)"
  },
  {
   "msgid": "There are no vehicles matching this category.",
@@ -1063,8 +1062,7 @@
  },
  {
   "msgid": "Boosters",
-  "msgstr": "ამაჩქარებლები",
-  "note": "Things that speed up production; same root as Production Speed Boost = წარმოების სიჩქარის ზრდა."
+  "msgstr": "ბუსტერები"
  },
  {
   "msgid": "Workplaces",

@@ -83,8 +83,7 @@
  {
   "msgid": "Booster",
   "msgid_plural": "Boosters",
-  "msgstr": "ამაჩქარებელი",
-  "note": "In line with წარმოების სიჩქარის ზრდა (Production Speed Boost)."
+  "msgstr": "ბუსტერი"
  },
  {
   "msgctxt": "day_night_cycle",
@@ -492,7 +491,7 @@
  {
   "msgctxt": "carrier",
   "msgid": "Water",
-  "msgstr": "წყლის"
+  "msgstr": "საზღვაო"
  },
  {
   "msgid": "{count} Unhappy Passenger",

@@ -26,8 +26,7 @@
  },
  {
   "msgid": "Discard All Cargo",
-  "msgstr": "მთელი ტვირთის განადგურება",
-  "note": "Discarded cargo is lost; matches 'Destroyed' => განადგურებული in the cargo stats."
+  "msgstr": "მთელი ტვირთის გადაყრა"
  },
  {
   "msgid": "Unspecified",
@@ -252,8 +251,7 @@
  },
  {
   "msgid": "Rail Crossing",
-  "msgstr": "სარკინიგზო გადასასვლელი",
-  "note": "Level crossing where road meets rail."
+  "msgstr": "რკინიგზის კვეთა"
  },
  {
   "msgid": "Signal",
@@ -267,8 +265,7 @@
  },
  {
   "msgid": "Crossing",
-  "msgstr": "გადაკვეთა",
-  "note": "Generic crossing (tracks or roads meeting), kept apart from Rail Crossing = გადასასვლელი. Check in game if this is a pedestrian crossing; then use ქვეითთა გადასასვლელი."
+  "msgstr": "გზაჯვარედინი"
  },
  {
   "msgid": "Bridge",

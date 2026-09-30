@@ -11,8 +11,7 @@
  },
  {
   "msgid": "VEHICLE_BUS_DROSHKY_NAME",
-  "msgstr": "ფაეტონი",
-  "note": "Droshky is Russian (дрожки); ფაეტონი is the Georgian word for a light hired carriage (old Tbilisi)."
+  "msgstr": "დროშკა"
  },
  {
   "msgid": "VEHICLE_SHIP_BRITISH_COLUMBIA_NAME",
@@ -99,15 +98,15 @@
  },
  {
   "msgid": "VEHICLE_TRAM_TANK_CAR_A_NAME",
-  "msgstr": "ცისტერნა 1899"
+  "msgstr": "ავზიანი ვაგონი 1899"
  },
  {
   "msgid": "VEHICLE_TRAM_TANK_CAR_B_NAME",
-  "msgstr": "ცისტერნა 1950"
+  "msgstr": "ავზიანი ვაგონი 1950"
  },
  {
   "msgid": "VEHICLE_TRAM_TANK_CAR_C_NAME",
-  "msgstr": "ცისტერნა 2005"
+  "msgstr": "ავზიანი ვაგონი 2005"
  },
  {
   "msgid": "VEHICLE_TRAM_UNIV_CAR_A_NAME",
@@ -133,7 +132,7 @@
  },
  {
   "msgid": "VEHICLE_TRUCK_HORSE_CART_SMALL_NAME",
-  "msgstr": "პატარა ცხენის ურემი"
+  "msgstr": "ცხენის პატარა ურემი"
  },
  {
   "msgid": "VEHICLE_TRUCK_STEAM_LORRY_UNIV_NAME",
@@ -213,27 +212,27 @@
  },
  {
   "msgid": "VEHICLE_WAGGON_LIQUID_1_N55_NAME",
-  "msgstr": "ცისტერნა 1899"
+  "msgstr": "ავზიანი ვაგონი 1899"
  },
  {
   "msgid": "VEHICLE_WAGGON_LIQUID_2_ZH_NAME",
-  "msgstr": "ცისტერნა 1912"
+  "msgstr": "ავზიანი ვაგონი 1912"
  },
  {
   "msgid": "VEHICLE_WAGGON_LIQUID_3_UGLX_NAME",
-  "msgstr": "ცისტერნა 1926"
+  "msgstr": "ავზიანი ვაგონი 1926"
  },
  {
   "msgid": "VEHICLE_WAGGON_LIQUID_4_EKW_NAME",
-  "msgstr": "ცისტერნა 1950"
+  "msgstr": "ავზიანი ვაგონი 1950"
  },
  {
   "msgid": "VEHICLE_WAGGON_LIQUID_5_3752_NAME",
-  "msgstr": "ცისტერნა 1982"
+  "msgstr": "ავზიანი ვაგონი 1982"
  },
  {
   "msgid": "VEHICLE_WAGGON_LIQUID_6_ZACNS_NAME",
-  "msgstr": "ცისტერნა 2005"
+  "msgstr": "ავზიანი ვაგონი 2005"
  },
  {
   "msgid": "VEHICLE_WAGGON_STREAMLINED_NYC_NAME",
@@ -262,5 +261,249 @@
  {
   "msgid": "VEHICLE_WAGGON_UNIV_5_RNS_NAME",
   "msgstr": "უნივერსალური ვაგონი 1999"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_AIRBUS_A310_300F_NAME",
+  "msgstr": "Airbus A310 300F სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_BAE_146_CARGO_NAME",
+  "msgstr": "Br. Aerospace 146 სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_BOEING_737_700_CARGO_NAME",
+  "msgstr": "Boeing 737-700-C სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_BOMBARDIER_DHC_8_402PF_NAME",
+  "msgstr": "Bombardier DHC-8 სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_BRISTOL_FREIGHTER_NAME",
+  "msgstr": "Bristol Type 170 სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_CANADAIR_CL_44_NAME",
+  "msgstr": "Canadair CL-44 სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_PLANE_TUPOLEV_TU_204_CARGO_NAME",
+  "msgstr": "Tupolev Tu-204C სატვირთო"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_DAMEN_FERRY_NAME",
+  "msgstr": "Damen ჩქაროსნული ბორანი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_DAMEN_TANKER_NAME",
+  "msgstr": "Damen ტანკერი 800"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_HERKULES_XI_UNIVERSAL_NAME",
+  "msgstr": "Hercules XI ბუქსირი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_HONG_KONG_FERRY_BOAT_NAME",
+  "msgstr": "Meridian ბორანი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_HOVERCRAFT_AP1_88_NAME",
+  "msgstr": "AP1-88 ჰოვერკრაფტი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_OITA_HOVERCRAFT_NAME",
+  "msgstr": "GHL Oita ჰოვერკრაფტი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_TORA_TYP_NAME",
+  "msgstr": "Tora სანაპირო გემი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_VIRGO_UNIVERSAL_NAME",
+  "msgstr": "Virgo ბუქსირი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_VOTRANS_TANKER_NAME",
+  "msgstr": "Votrans ბუქსირ-ტანკერი"
+ },
+ {
+  "msgid": "VEHICLE_SHIP_VOTRANS_UNIVERSAL_NAME",
+  "msgstr": "Votrans სატვირთო ბუქსირი"
+ },
+ {
+  "msgid": "VEHICLE_TRAIN_HST_125_MIDDLE1_NAME",
+  "msgstr": "British Mark 3 ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAIN_HST_125_MIDDLE2_NAME",
+  "msgstr": "British Mark 3 ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAIN_RE_450_BACK_NAME",
+  "msgstr": "Swiss DPZ სამართავი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAIN_RE_450_MIDDLE1_NAME",
+  "msgstr": "Swiss DPZ ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAIN_SCHIENENBUS_NAME",
+  "msgstr": "Uerdingen სარკინიგზო ავტობუსი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_DUEWAG_BW_NAME",
+  "msgstr": "DUEWAG ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_DUEWAG_TW_NAME",
+  "msgstr": "DUEWAG მოტორიანი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_FREIGHTCAR_24S_NAME",
+  "msgstr": "Sydney 24s მოტორიანი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_HALLE_NAME",
+  "msgstr": "AEG მოტორიანი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_MOSCOW_F_NAME",
+  "msgstr": "Nuremberg F მოტორიანი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_MOSCOW_NUREMBERG_NAME",
+  "msgstr": "Nuremberg F ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TATRA_T4_BOX_NAME",
+  "msgstr": "Tatra T4 ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TATRA_T4_TANK_NAME",
+  "msgstr": "Tatra T4 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TYP1_NAME",
+  "msgstr": "Gotha T1 მოტორიანი ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRAM_TYP1_WAGON_NAME",
+  "msgstr": "Gotha T1 ვაგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_AMO_F15_TANK_NAME",
+  "msgstr": "AMO F-15 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_BENZ1912_BOX_NAME",
+  "msgstr": "Benz 3-Ton ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_FAW_JIEFANG_J6P_BOX_NAME",
+  "msgstr": "FAW Jiefang J6P ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_NAME",
+  "msgstr": "FAW Jiefang J6P უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANK_NAME",
+  "msgstr": "FAW Jiefang J6P ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_FORD_AA_BOX_NAME",
+  "msgstr": "Ford Model AA ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_FREIGHTLINER_FLD_112_BOX_NAME",
+  "msgstr": "Freightliner FLD 112 ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_FREIGHTLINER_FLD_112_STAKE_NAME",
+  "msgstr": "Freightliner FLD 112 უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_GAZ_3307_BOX_NAME",
+  "msgstr": "GAZ 3307 ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_GAZ_3307_TANK_NAME",
+  "msgstr": "GAZ 3307 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_GAZ_MM_STAKE_NAME",
+  "msgstr": "GAZ MM უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_GMC_660_DFM_BOX_NAME",
+  "msgstr": "GMC 660 DFM ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_GMC_660_DFM_STAKE_NAME",
+  "msgstr": "GMC 660 DFM უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_GMC_660_DFM_TANK_NAME",
+  "msgstr": "GMC 660 DFM ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANK_NAME",
+  "msgstr": "Isuzu Elf TLD20 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_KENWORTH_K100E_BOX_NAME",
+  "msgstr": "Kenworth K100E ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_KENWORTH_K100E_STAKE_NAME",
+  "msgstr": "Kenworth K100E უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_KENWORTH_K100E_TANK_NAME",
+  "msgstr": "Kenworth K100E ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_MACK_AC_STAKE_NAME",
+  "msgstr": "Mack AC უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_MAN_19_304_BOX_NAME",
+  "msgstr": "MAN 19.304 ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_MAN_19_304_TANK_NAME",
+  "msgstr": "MAN 19.304 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_PETERBILT_359_BOX_NAME",
+  "msgstr": "Peterbilt 359 ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_PETERBILT_359_STAKE_NAME",
+  "msgstr": "Peterbilt 359 უბორტო"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_PETERBILT_359_TANK_NAME",
+  "msgstr": "Peterbilt 359 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_RIVIAN_EDV_NAME",
+  "msgstr": "Rivian EDV ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_SAURER_C_TYP_BOX_NAME",
+  "msgstr": "Saurer C Type ფურგონი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_SAURER_C_TYP_TANK_NAME",
+  "msgstr": "Saurer C Type ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_VOLVO_FH12_TANK_NAME",
+  "msgstr": "Volvo FH12 ავზი"
+ },
+ {
+  "msgid": "VEHICLE_TRUCK_ZIS_150_STAKE_NAME",
+  "msgstr": "ZIS-150 უბორტო"
  }
 ]

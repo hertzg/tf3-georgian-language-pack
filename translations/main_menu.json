@@ -21,8 +21,7 @@
  },
  {
   "msgid": "Deluxe Edition",
-  "msgstr": "დელუქს გამოცემა",
-  "note": "Edition name transliterated; 'Deluxe გამოცემა' also works if the Latin brand should stay."
+  "msgstr": "Deluxe გამოცემა"
  },
  {
   "msgid": "Standard Edition",
@@ -30,8 +29,7 @@
  },
  {
   "msgid": "(+ Pre-Order content)",
-  "msgstr": "(+ წინასწარი შეკვეთის დამატებები)",
-  "note": "დამატებები = add-on content; avoids the loanword კონტენტი."
+  "msgstr": "(+ წინასწარი შეკვეთის კონტენტი)"
  },
  {
   "msgid": "Continue",
@@ -69,8 +67,7 @@
  },
  {
   "msgid": "Mod Hub",
-  "msgstr": "მოდების ცენტრი",
-  "note": "Dictionary has no ჰაბი; hub = მორგვი (wheel) / გამანაწილებელი (network), neither fits. ცენტრი is attested in the 'X ცენტრი' pattern (დასაქმების ცენტრი = job centre)."
+  "msgstr": "Mod Hub"
  },
  {
   "msgid": "Map Editor",
