@@ -489,8 +489,7 @@
  },
  {
   "msgid": "Frequency",
-  "msgstr": "ინტერვალი",
-  "note": "Same as Frequency: {count} = ინტერვალი: the game shows a time between vehicles, which Georgian transport calls ინტერვალი."
+  "msgstr": "სიხშირე"
  },
  {
   "msgid": "Time interval between the vehicles.",

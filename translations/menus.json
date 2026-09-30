@@ -81,7 +81,7 @@
  },
  {
   "msgid": "Return to Desktop",
-  "msgstr": "სამუშაო მაგიდაზე გასვლა"
+  "msgstr": "თამაშის გამორთვა"
  },
  {
   "msgid": "Game Paused - {savegameName}",
@@ -520,8 +520,7 @@
  },
  {
   "msgid": "Ok",
-  "msgstr": "კარგი",
-  "note": "კარგი, as in Georgian Windows / Android dialogs."
+  "msgstr": "ოკ"
  },
  {
   "msgid": "Upload Mod: Unavailable",

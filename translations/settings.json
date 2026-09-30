@@ -1,1205 +1,1205 @@
 [
-  {
-    "msgid": "Difficulty Level",
-    "msgstr": "სირთულის დონე"
-  },
-  {
-    "msgid": "Apply a predefined set of difficulty options.",
-    "msgstr": "აირჩიეთ სირთულის პარამეტრების მზა ნაკრები."
-  },
-  {
-    "msgid": "Difficulty",
-    "msgstr": "სირთულე"
-  },
-  {
-    "msgid": "Settings for the economy.",
-    "msgstr": "ეკონომიკის პარამეტრები."
-  },
-  {
-    "msgid": "Town Ratings",
-    "msgstr": "დასახლებული პუნქტების შეფასებები"
-  },
-  {
-    "msgid": "Settings for the sensitivity of the town ratings.",
-    "msgstr": "დასახლებული პუნქტების შეფასებების მგრძნობელობის პარამეტრები."
-  },
-  {
-    "msgid": "Settings for the various costs.",
-    "msgstr": "სხვადასხვა ხარჯის პარამეტრები."
-  },
-  {
-    "msgid": "Advanced",
-    "msgstr": "დამატებითი"
-  },
-  {
-    "msgid": "Advanced settings to adjust the difficulty.",
-    "msgstr": "სირთულის დამატებითი პარამეტრები."
-  },
-  {
-    "msgid": "Change which industry chain is used.",
-    "msgstr": "შეცვალეთ, რომელი საწარმოო ჯაჭვი გამოიყენება."
-  },
-  {
-    "msgid": "Experimental",
-    "msgstr": "ექსპერიმენტული"
-  },
-  {
-    "msgid": "Experimental map features for having fun with climates and economies.",
-    "msgstr": "რუკის ექსპერიმენტული ფუნქციები კლიმატებითა და ეკონომიკებით გასართობად."
-  },
-  {
-    "msgid": "Climate",
-    "msgstr": "კლიმატი"
-  },
-  {
-    "msgid": "Change which climate is used.",
-    "msgstr": "შეცვალეთ, რომელი კლიმატი გამოიყენება."
-  },
-  {
-    "msgid": "Revert Changes",
-    "msgstr": "ცვლილებების გაუქმება"
-  },
-  {
-    "msgctxt": "weight-unit-settings",
-    "msgid": "Tonne (t)",
-    "msgstr": "ტონა (t)"
-  },
-  {
-    "msgctxt": "weight-unit-settings",
-    "msgid": "Kilogram (kg)",
-    "msgstr": "კილოგრამი (kg)"
-  },
-  {
-    "msgctxt": "weight-unit-settings",
-    "msgid": "Short Tonne (t)",
-    "msgstr": "მოკლე ტონა (t)"
-  },
-  {
-    "msgctxt": "weight-unit-settings",
-    "msgid": "Pounds (lb)",
-    "msgstr": "გირვანქა (lb)"
-  },
-  {
-    "msgctxt": "icon-overlap-settings",
-    "msgid": "Never",
-    "msgstr": "არასოდეს"
-  },
-  {
-    "msgctxt": "icon-overlap-settings",
-    "msgid": "Near Inspector",
-    "msgstr": "ინსპექტორთან ახლოს"
-  },
-  {
-    "msgctxt": "icon-overlap-settings",
-    "msgid": "Near Mouse Cursor",
-    "msgstr": "მაუსის კურსორთან ახლოს"
-  },
-  {
-    "msgctxt": "icon-overlap-settings",
-    "msgid": "Always",
-    "msgstr": "ყოველთვის"
-  },
-  {
-    "msgctxt": "cloud-transparency-settings",
-    "msgid": "None",
-    "msgstr": "არცერთი"
-  },
-  {
-    "msgctxt": "cloud-transparency-settings",
-    "msgid": "Near Screen Center",
-    "msgstr": "ეკრანის ცენტრთან ახლოს"
-  },
-  {
-    "msgctxt": "cloud-transparency-settings",
-    "msgid": "Near Inspector",
-    "msgstr": "ინსპექტორთან ახლოს"
-  },
-  {
-    "msgctxt": "cloud-transparency-settings",
-    "msgid": "Near Mouse Cursor",
-    "msgstr": "მაუსის კურსორთან ახლოს"
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Controller",
-    "msgstr": "კონტროლერი"
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Controller",
-    "msgstr": "კონტროლერი"
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Controller",
-    "msgstr": "კონტროლერი"
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Controller Settings",
-    "msgstr": "კონტროლერის პარამეტრები"
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Controller Settings",
-    "msgstr": "კონტროლერის პარამეტრები"
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Controller Settings",
-    "msgstr": "კონტროლერის პარამეტრები"
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the stick to the right will rotate the camera counter-clockwise.",
-    "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის მარჯვნივ გადახრა კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the stick to the right will rotate the camera counter-clockwise.",
-    "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის მარჯვნივ გადახრა კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the stick to the right will rotate the camera counter-clockwise.",
-    "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის მარჯვნივ გადახრა კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the stick up results in a top-down view.",
-    "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის ზემოთ გადახრა კამერას ზემოდან ხედზე გადაიყვანს."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the stick up results in a top-down view.",
-    "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის ზემოთ გადახრა კამერას ზემოდან ხედზე გადაიყვანს."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the stick up results in a top-down view.",
-    "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის ზემოთ გადახრა კამერას ზემოდან ხედზე გადაიყვანს."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Swap Sticks (Game Camera)",
-    "msgstr": "ბერკეტების გაცვლა (თამაშის კამერა)"
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Swap Sticks (Game Camera)",
-    "msgstr": "ბერკეტების გაცვლა (თამაშის კამერა)"
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Swap Sticks (Game Camera)",
-    "msgstr": "ბერკეტების გაცვლა (თამაშის კამერა)"
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Swap which stick is used for camera movement and which stick is used for rotation and tilt.\\n\\nWhen disabled, the left stick is used for movement and the right stick is used for rotation and tilt.",
-    "msgstr": "შეცვალეთ, რომელი ბერკეტი გადააადგილებს კამერას და რომელი აბრუნებს და ხრის მას.\\n\\nგამორთულ მდგომარეობაში მარცხენა ბერკეტი კამერას გადააადგილებს, მარჯვენა კი აბრუნებს და ხრის."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Swap which stick is used for camera movement and which stick is used for rotation and tilt.\\n\\nWhen disabled, the left stick is used for movement and the right stick is used for rotation and tilt.",
-    "msgstr": "შეცვალეთ, რომელი ბერკეტი გადააადგილებს კამერას და რომელი აბრუნებს და ხრის მას.\\n\\nგამორთულ მდგომარეობაში მარცხენა ბერკეტი კამერას გადააადგილებს, მარჯვენა კი აბრუნებს და ხრის."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Swap which stick is used for camera movement and which stick is used for rotation and tilt.\\n\\nWhen disabled, the left stick is used for movement and the right stick is used for rotation and tilt.",
-    "msgstr": "შეცვალეთ, რომელი ბერკეტი გადააადგილებს კამერას და რომელი აბრუნებს და ხრის მას.\\n\\nგამორთულ მდგომარეობაში მარცხენა ბერკეტი კამერას გადააადგილებს, მარჯვენა კი აბრუნებს და ხრის."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Swap Sticks (Menu Navigation)",
-    "msgstr": "ბერკეტების გაცვლა (მენიუში ნავიგაცია)"
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Swap Sticks (Menu Navigation)",
-    "msgstr": "ბერკეტების გაცვლა (მენიუში ნავიგაცია)"
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Swap Sticks (Menu Navigation)",
-    "msgstr": "ბერკეტების გაცვლა (მენიუში ნავიგაცია)"
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Swap which stick is used for navigation in full-screen menus. When disabled, the left stick is used.",
-    "msgstr": "შეცვალეთ, რომელი ბერკეტით ხდება ნავიგაცია სრულეკრანიან მენიუებში. გამორთულ მდგომარეობაში გამოიყენება მარცხენა ბერკეტი."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Swap which stick is used for navigation in full-screen menus. When disabled, the left stick is used.",
-    "msgstr": "შეცვალეთ, რომელი ბერკეტით ხდება ნავიგაცია სრულეკრანიან მენიუებში. გამორთულ მდგომარეობაში გამოიყენება მარცხენა ბერკეტი."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Swap which stick is used for navigation in full-screen menus. When disabled, the left stick is used.",
-    "msgstr": "შეცვალეთ, რომელი ბერკეტით ხდება ნავიგაცია სრულეკრანიან მენიუებში. გამორთულ მდგომარეობაში გამოიყენება მარცხენა ბერკეტი."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Invert settings for the controller.",
-    "msgstr": "კონტროლერის ინვერსიის პარამეტრები."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Invert settings for the controller.",
-    "msgstr": "კონტროლერის ინვერსიის პარამეტრები."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Invert settings for the controller.",
-    "msgstr": "კონტროლერის ინვერსიის პარამეტრები."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Adjust how far a stick must be moved before it is considered an input.\\n\\nA lower value is more reactive, while a higher value prevents drifting.",
-    "msgstr": "დააყენეთ, რამდენად შორს უნდა გადაიხაროს ბერკეტი, რომ მოძრაობა დაფიქსირდეს.\\n\\nდაბალი მნიშვნელობა უფრო სწრაფ რეაგირებას იძლევა, მაღალი კი თვითნებურ მოძრაობას (დრიფტს) აცილებს თავიდან."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Adjust how far a stick must be moved before it is considered an input.\\n\\nA lower value is more reactive, while a higher value prevents drifting.",
-    "msgstr": "დააყენეთ, რამდენად შორს უნდა გადაიხაროს ბერკეტი, რომ მოძრაობა დაფიქსირდეს.\\n\\nდაბალი მნიშვნელობა უფრო სწრაფ რეაგირებას იძლევა, მაღალი კი თვითნებურ მოძრაობას (დრიფტს) აცილებს თავიდან."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Adjust how far a stick must be moved before it is considered an input.\\n\\nA lower value is more reactive, while a higher value prevents drifting.",
-    "msgstr": "დააყენეთ, რამდენად შორს უნდა გადაიხაროს ბერკეტი, რომ მოძრაობა დაფიქსირდეს.\\n\\nდაბალი მნიშვნელობა უფრო სწრაფ რეაგირებას იძლევა, მაღალი კი თვითნებურ მოძრაობას (დრიფტს) აცილებს თავიდან."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Adjust the sensitivity of the camera rotation when moving the stick.\\n\\nA lower value will result in a slower and more precise rotation.",
-    "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Adjust the sensitivity of the camera rotation when moving the stick.\\n\\nA lower value will result in a slower and more precise rotation.",
-    "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Adjust the sensitivity of the camera rotation when moving the stick.\\n\\nA lower value will result in a slower and more precise rotation.",
-    "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Adjust the sensitivity of the camera movement when moving the stick.\\n\\nA lower value will result in a slower and more precise movement.",
-    "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Adjust the sensitivity of the camera movement when moving the stick.\\n\\nA lower value will result in a slower and more precise movement.",
-    "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Adjust the sensitivity of the camera movement when moving the stick.\\n\\nA lower value will result in a slower and more precise movement.",
-    "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgctxt": "platform-playstation",
-    "msgid": "Sensitivity settings for the controller.",
-    "msgstr": "კონტროლერის მგრძნობელობის პარამეტრები."
-  },
-  {
-    "msgctxt": "platform-xbox",
-    "msgid": "Sensitivity settings for the controller.",
-    "msgstr": "კონტროლერის მგრძნობელობის პარამეტრები."
-  },
-  {
-    "msgctxt": "platform-pc",
-    "msgid": "Sensitivity settings for the controller.",
-    "msgstr": "კონტროლერის მგრძნობელობის პარამეტრები."
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Low",
-    "msgstr": "დაბალი"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Medium",
-    "msgstr": "საშუალო"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "High",
-    "msgstr": "მაღალი"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Very High",
-    "msgstr": "ძალიან მაღალი"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Custom",
-    "msgstr": "საკუთარი"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Off",
-    "msgstr": "გამორთული"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Quality",
-    "msgstr": "ხარისხი"
-  },
-  {
-    "msgctxt": "graphics-quality-settings",
-    "msgid": "Performance",
-    "msgstr": "წარმადობა"
-  },
-  {
-    "msgid": "%.0f%%",
-    "msgstr": "%.0f%%"
-  },
-  {
-    "msgid": "Game",
-    "msgstr": "თამაში"
-  },
-  {
-    "msgid": "Camera",
-    "msgstr": "კამერა"
-  },
-  {
-    "msgid": "Camera Tool",
-    "msgstr": "კამერის ხელსაწყო"
-  },
-  {
-    "msgid": "Overwrite Existing Key Binding",
-    "msgstr": "არსებული მინიჭების ჩანაცვლება"
-  },
-  {
-    "msgid": "Accept",
-    "msgstr": "დადასტურება"
-  },
-  {
-    "msgid": "Invalid Input",
-    "msgstr": "არასწორი შეყვანა"
-  },
-  {
-    "msgid": "Okay",
-    "msgstr": "კარგი"
-  },
-  {
-    "msgid": "Accept the World as It Is",
-    "msgstr": "სამყაროს ისე მიღება, როგორც არის"
-  },
-  {
-    "msgid": "Press Any Key Combination...",
-    "msgstr": "დააჭირეთ ნებისმიერ კლავიშს ან კომბინაციას..."
-  },
-  {
-    "msgid": "<None>",
-    "msgstr": "<არცერთი>"
-  },
-  {
-    "msgid": "Interface",
-    "msgstr": "ინტერფეისი"
-  },
-  {
-    "msgid": "Basics",
-    "msgstr": "ძირითადი"
-  },
-  {
-    "msgid": "Language",
-    "msgstr": "ენა"
-  },
-  {
-    "msgid": "Change the display language of the game.",
-    "msgstr": "შეცვალეთ თამაშის ენა."
-  },
-  {
-    "msgid": "Basic interface options.",
-    "msgstr": "ინტერფეისის ძირითადი პარამეტრები."
-  },
-  {
-    "msgid": "Interface Scaling",
-    "msgstr": "ინტერფეისის მასშტაბი"
-  },
-  {
-    "msgid": "Text Scaling",
-    "msgstr": "ტექსტის ზომა"
-  },
-  {
-    "msgid": "Adjust the text size for better legibility from further away.",
-    "msgstr": "შეცვალეთ ტექსტის ზომა, რომ მოშორებითაც კარგად იკითხებოდეს."
-  },
-  {
-    "msgid": "Game UI Scaling",
-    "msgstr": "თამაშის ინტერფეისის მასშტაბი"
-  },
-  {
-    "msgid": "Reduce the scaling of the user interface in-game.\\n\\nThis can be helpful on high screen resolutions such as 4K.\\n\\nNote that this has no effect on the start menus.",
-    "msgstr": "შეამცირეთ თამაშის ინტერფეისის მასშტაბი.\\n\\nეს შეიძლება გამოგადგეთ მაღალი გარჩევადობის ეკრანებზე, მაგალითად 4K-ზე.\\n\\nგაითვალისწინეთ, რომ ეს საწყის მენიუებზე არ მოქმედებს."
-  },
-  {
-    "msgid": "Settings for interface sizes and scaling.",
-    "msgstr": "ინტერფეისის ზომისა და მასშტაბის პარამეტრები."
-  },
-  {
-    "msgid": "Localization",
-    "msgstr": "ლოკალიზაცია"
-  },
-  {
-    "msgid": "Money Number Format",
-    "msgstr": "თანხების ფორმატი"
-  },
-  {
-    "msgid": "Change the format in which monetary amounts are displayed.\\n\\nThe short format uses suffixes to abbreviate numbers, for example 1K for 1,000. The full format writes all digitis.",
-    "msgstr": "შეცვალეთ ფულადი თანხების ჩვენების ფორმატი.\\n\\nშემოკლებული ფორმატი რიცხვებს სუფიქსებით ამოკლებს, მაგალითად, 1,000 იწერება როგორც 1K. სრული ფორმატი ყველა ციფრს წერს."
-  },
-  {
-    "msgid": "Distance and Speed Units",
-    "msgstr": "მანძილისა და სიჩქარის ერთეულები"
-  },
-  {
-    "msgid": "Choose which unit is used to display distances and speeds.",
-    "msgstr": "აირჩიეთ მანძილისა და სიჩქარის საზომი ერთეული."
-  },
-  {
-    "msgid": "Power Units",
-    "msgstr": "სიმძლავრის ერთეულები"
-  },
-  {
-    "msgid": "Choose which unit is used to display power.",
-    "msgstr": "აირჩიეთ სიმძლავრის საზომი ერთეული."
-  },
-  {
-    "msgid": "Weight Units",
-    "msgstr": "წონის ერთეულები"
-  },
-  {
-    "msgid": "Choose which unit is used to display weights.",
-    "msgstr": "აირჩიეთ წონის საზომი ერთეული."
-  },
-  {
-    "msgid": "Force Units",
-    "msgstr": "ძალის ერთეულები"
-  },
-  {
-    "msgid": "Choose which unit is used to display forces.",
-    "msgstr": "აირჩიეთ ძალის საზომი ერთეული."
-  },
-  {
-    "msgid": "Settings for localization and internationalization.",
-    "msgstr": "ლოკალიზაციისა და რეგიონული ფორმატების პარამეტრები."
-  },
-  {
-    "msgid": "Prevent Overlapping Icons",
-    "msgstr": "ხატულების გადაფარვის თავიდან აცილება"
-  },
-  {
-    "msgid": "Change when HUD icons are spread out to avoid overlapping.\\n\\n\\\"Never\\\" completely disables the effect.\\n\\\"Near Inspector\\\" enables the effect only near the center of the inspector.\\n\\\"Always\\\" enables the effect for all HUD icons.",
-    "msgstr": "შეცვალეთ, როდის გაიშალოს ეკრანზე ხატულები, რომ ერთმანეთს არ გადაეფარონ.\\n\\n\\\"არასოდეს\\\" ეფექტს მთლიანად გამორთავს.\\n\\\"ინსპექტორთან ახლოს\\\" ეფექტს მხოლოდ ინსპექტორის ცენტრის მახლობლად რთავს.\\n\\\"ყოველთვის\\\" ეფექტს ეკრანის ყველა ხატულისთვის რთავს."
-  },
-  {
-    "msgid": "Change when HUD icons are spread out to avoid overlapping.\\n\\n\\\"Never\\\" completely disables the effect.\\n\\\"Near Mouse Cursor\\\" enables the effect only near the mouse cursor.\\n\\\"Always\\\" enables the effect for all HUD icons.",
-    "msgstr": "შეცვალეთ, როდის გაიშალოს ეკრანზე ხატულები, რომ ერთმანეთს არ გადაეფარონ.\\n\\n\\\"არასოდეს\\\" ეფექტს მთლიანად გამორთავს.\\n\\\"მაუსის კურსორთან ახლოს\\\" ეფექტს მხოლოდ მაუსის კურსორის მახლობლად რთავს.\\n\\\"ყოველთვის\\\" ეფექტს ეკრანის ყველა ხატულისთვის რთავს."
-  },
-  {
-    "msgid": "Rain Screen Effect",
-    "msgstr": "წვიმის ეფექტი ეკრანზე"
-  },
-  {
-    "msgid": "Change when raindrops appear on the screen.\\n\\n\\\"Never\\\" completely disables the effect.\\n\\\"Cockpit Only\\\" enables the effect only in the cockpit camera.\\n\\\"Always\\\" enables the effect for the normal camera as well.",
-    "msgstr": "შეცვალეთ, როდის გამოჩნდეს ეკრანზე წვიმის წვეთები.\\n\\n\\\"არასოდეს\\\" ეფექტს მთლიანად გამორთავს.\\n\\\"მხოლოდ კაბინაში\\\" ეფექტს მხოლოდ კაბინის კამერაში რთავს.\\n\\\"ყოველთვის\\\" ეფექტს ჩვეულებრივ კამერაშიც რთავს."
-  },
-  {
-    "msgid": "Cloud Transparency",
-    "msgstr": "ღრუბლების გამჭვირვალობა"
-  },
-  {
-    "msgid": "Change which clouds should be transparent when zoomed out.\\n\\n\\\"None\\\" disables cloud transparency.\\n\\\"Near Screen Center\\\" makes clouds around the center of the screen transparent.\\n\\\"Near Inspector\\\" makes clouds near the center of the inspector transparent.",
-    "msgstr": "შეცვალეთ, რომელი ღრუბლები გახდეს გამჭვირვალე კამერის დაშორებისას.\\n\\n\\\"არცერთი\\\" ღრუბლების გამჭვირვალობას გამორთავს.\\n\\\"ეკრანის ცენტრთან ახლოს\\\" ეკრანის ცენტრის ირგვლივ ღრუბლებს გამჭვირვალეს ხდის.\\n\\\"ინსპექტორთან ახლოს\\\" ინსპექტორის ცენტრის მახლობლად ღრუბლებს გამჭვირვალეს ხდის."
-  },
-  {
-    "msgid": "Change which clouds should be transparent when zoomed out.\\n\\n\\\"None\\\" disables cloud transparency.\\n\\\"Near Screen Center\\\" makes clouds around the center of the screen transparent.\\n\\\"Near Mouse Cursor\\\" makes clouds around the mouse cursor transparent.",
-    "msgstr": "შეცვალეთ, რომელი ღრუბლები გახდეს გამჭვირვალე კამერის დაშორებისას.\\n\\n\\\"არცერთი\\\" ღრუბლების გამჭვირვალობას გამორთავს.\\n\\\"ეკრანის ცენტრთან ახლოს\\\" ეკრანის ცენტრის ირგვლივ ღრუბლებს გამჭვირვალეს ხდის.\\n\\\"მაუსის კურსორთან ახლოს\\\" მაუსის კურსორის ირგვლივ ღრუბლებს გამჭვირვალეს ხდის."
-  },
-  {
-    "msgid": "Settings for the HUD.",
-    "msgstr": "ეკრანზე გამოსახული ელემენტების (HUD) პარამეტრები."
-  },
-  {
-    "msgid": "Miscellaneous",
-    "msgstr": "სხვადასხვა"
-  },
-  {
-    "msgid": "Enable Interactive Guides",
-    "msgstr": "ინტერაქტიური მინიშნებების ჩართვა"
-  },
-  {
-    "msgid": "Display guide hints with useful information.",
-    "msgstr": "სასარგებლო ინფორმაციის შემცველი მინიშნებების ჩვენება."
-  },
-  {
-    "msgid": "Enable Celebrations",
-    "msgstr": "ზეიმების ჩართვა"
-  },
-  {
-    "msgid": "Display celebratory events when reaching specific milestones in free game.",
-    "msgstr": "საზეიმო მომენტების ჩვენება თავისუფალ თამაშში გარკვეული ეტაპების მიღწევისას."
-  },
-  {
-    "msgid": "Settings for miscellaneous things.",
-    "msgstr": "სხვადასხვა პარამეტრი."
-  },
-  {
-    "msgid": "Mouse",
-    "msgstr": "მაუსი"
-  },
-  {
-    "msgid": "Mouse Settings",
-    "msgstr": "მაუსის პარამეტრები"
-  },
-  {
-    "msgid": "Invert Panning",
-    "msgstr": "გადაადგილების ინვერსია"
-  },
-  {
-    "msgid": "Invert the camera movement.\\n\\nWhen disabled, draging with the right mouse button feels like pulling the map.",
-    "msgstr": "კამერის გადაადგილების ინვერსია.\\n\\nგამორთულ მდგომარეობაში მარჯვენა ღილაკით გადათრევისას ისეთი შეგრძნებაა, თითქოს რუკას ექაჩებით."
-  },
-  {
-    "msgid": "Invert Rotation",
-    "msgstr": "ბრუნვის ინვერსია"
-  },
-  {
-    "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the mouse to the right will rotate the camera counter-clockwise.",
-    "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში მაუსის მარჯვნივ გადაადგილება კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
-  },
-  {
-    "msgid": "Invert Tilt",
-    "msgstr": "დახრის ინვერსია"
-  },
-  {
-    "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the mouse up results in a top-down view.",
-    "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში მაუსის ზემოთ გადაადგილება კამერას ზემოდან ხედზე გადაიყვანს."
-  },
-  {
-    "msgid": "Invert Zooming",
-    "msgstr": "მასშტაბირების ინვერსია"
-  },
-  {
-    "msgid": "Invert the camera zoom.\\n\\nWhen disabled, scrolling up zooms the camera in.",
-    "msgstr": "კამერის მასშტაბირების ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბორბლის ზემოთ დატრიალება კამერას აახლოებს."
-  },
-  {
-    "msgid": "Zoom In to Cursor",
-    "msgstr": "კურსორისკენ მიახლოება"
-  },
-  {
-    "msgid": "Zoom in to the mouse cursor instead of the center of the screen.",
-    "msgstr": "კამერის მიახლოება მაუსის კურსორისკენ და არა ეკრანის ცენტრისკენ."
-  },
-  {
-    "msgid": "Zoom Out From Cursor",
-    "msgstr": "კურსორიდან დაშორება"
-  },
-  {
-    "msgid": "Zoom out from the mouse cursor instead of the center of the screen.",
-    "msgstr": "კამერის დაშორება მაუსის კურსორიდან და არა ეკრანის ცენტრიდან."
-  },
-  {
-    "msgid": "Continuous Zoom",
-    "msgstr": "უწყვეტი მასშტაბირება"
-  },
-  {
-    "msgid": "Continuously zoom the camera.\\n\\nWhen disabled, zooming occurs in steps, otherwise it occurs continuously.",
-    "msgstr": "კამერის უწყვეტი მასშტაბირება.\\n\\nგამორთულ მდგომარეობაში მასშტაბი საფეხურებად იცვლება, ჩართულში კი უწყვეტად."
-  },
-  {
-    "msgid": "Panning Mode",
-    "msgstr": "გადაადგილების რეჟიმი"
-  },
-  {
-    "msgid": "Choose the panning mode.\\n\\n\\\"Simple\\\" moves the camera evenly regardless of where you drag on the map.\\n\\\"Perspective\\\" moves the camera more subtly for nearby points and more dramatically for distant points.\\n\\\"Grab\\\" grabs the map at a point and moves the camera accordingly.",
-    "msgstr": "აირჩიეთ კამერის გადაადგილების რეჟიმი.\\n\\n\\\"მარტივი\\\" კამერას თანაბრად გადააადგილებს, რუკის რომელ წერტილსაც არ უნდა გადაათრევდეთ.\\n\\\"პერსპექტიული\\\" ახლო წერტილების გადათრევისას კამერას ოდნავ გადააადგილებს, შორეულისას კი ბევრად მეტად.\\n\\\"ჩაჭიდებით\\\" რუკას ერთ წერტილში ეჭიდება და კამერას შესაბამისად გადააადგილებს."
-  },
-  {
-    "msgid": "Edge Scrolling",
-    "msgstr": "ეკრანის კიდით გადაადგილება"
-  },
-  {
-    "msgid": "Enable automatic panning when the mouse cursor is moved to the edge of the screen.",
-    "msgstr": "კამერის ავტომატური გადაადგილების ჩართვა, როცა მაუსის კურსორი ეკრანის კიდესთან მიდის."
-  },
-  {
-    "msgid": "Mouse Wheel Sensitivity",
-    "msgstr": "მაუსის ბორბლის მგრძნობელობა"
-  },
-  {
-    "msgid": "Adjust the sensitivity of the mouse wheel.",
-    "msgstr": "დააყენეთ მაუსის ბორბლის მგრძნობელობა."
-  },
-  {
-    "msgid": "Back With Right-Click",
-    "msgstr": "უკან დაბრუნება მარჯვენა დაწკაპუნებით"
-  },
-  {
-    "msgid": "Navigate back, close windows and abort actions with right-click.\\n\\nThe ESC key will also work, even when right-click is disabled.",
-    "msgstr": "მარჯვენა დაწკაპუნებით უკან დაბრუნება, ფანჯრების დახურვა და მოქმედებების გაუქმება.\\n\\nკლავიში ESC იმუშავებს მაშინაც, როცა მარჯვენა დაწკაპუნება გამორთულია."
-  },
-  {
-    "msgid": "Mouse Movement Sensitivity",
-    "msgstr": "მაუსის მოძრაობის მგრძნობელობა"
-  },
-  {
-    "msgid": "%i",
-    "msgstr": "%i"
-  },
-  {
-    "msgid": "Adjust the sensitivity when moving the mouse.",
-    "msgstr": "დააყენეთ მაუსის მოძრაობის მგრძნობელობა."
-  },
-  {
-    "msgid": "Settings for the mouse.",
-    "msgstr": "მაუსის პარამეტრები."
-  },
-  {
-    "msgid": "Keyboard",
-    "msgstr": "კლავიატურა"
-  },
-  {
-    "msgid": "Keyboard Settings",
-    "msgstr": "კლავიატურის პარამეტრები"
-  },
-  {
-    "msgid": "Invert Rotation Keys",
-    "msgstr": "ბრუნვის კლავიშების ინვერსია"
-  },
-  {
-    "msgid": "Invert the camera rotation keys.\\n\\nWhen disabled, the rotate right key will rotate the camera counter-clockwise.",
-    "msgstr": "კამერის ბრუნვის კლავიშების ინვერსია.\\n\\nგამორთულ მდგომარეობაში მარჯვნივ ბრუნვის კლავიში კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
-  },
-  {
-    "msgid": "Camera Movement Speed",
-    "msgstr": "კამერის მოძრაობის სიჩქარე"
-  },
-  {
-    "msgid": "Adjust the speed of the camera movement, rotation and tilt when holding a key.",
-    "msgstr": "დააყენეთ კამერის გადაადგილების, ბრუნვისა და დახრის სიჩქარე კლავიშზე თითის დაჭერისას."
-  },
-  {
-    "msgid": "Settings for the keyboard.",
-    "msgstr": "კლავიატურის პარამეტრები."
-  },
-  {
-    "msgid": "Key Mapping",
-    "msgstr": "კლავიშების მინიჭება"
-  },
-  {
-    "msgid": "Change the key mapping.\\n\\nSelect a mapping and press the desired key to assign it. Press ESC to cancel and discard the change.",
-    "msgstr": "შეცვალეთ კლავიშების მინიჭება.\\n\\nაირჩიეთ მოქმედება და დააჭირეთ სასურველ კლავიშს, რომ მიანიჭოთ. ცვლილების გასაუქმებლად დააჭირეთ კლავიშს ESC."
-  },
-  {
-    "msgid": "Invert Zoom",
-    "msgstr": "მასშტაბირების ინვერსია"
-  },
-  {
-    "msgid": "Invert the camera zoom.\\n\\nWhen disabled, [iaHint=IA_CAMERA_ZOOM_IN/] zooms the camera in.",
-    "msgstr": "კამერის მასშტაბირების ინვერსია.\\n\\nგამორთულ მდგომარეობაში [iaHint=IA_CAMERA_ZOOM_IN/] კამერას აახლოებს."
-  },
-  {
-    "msgid": "Sensitivity Settings",
-    "msgstr": "მგრძნობელობის პარამეტრები"
-  },
-  {
-    "msgid": "Deadzone",
-    "msgstr": "მკვდარი ზონა"
-  },
-  {
-    "msgid": "%.2f",
-    "msgstr": "%.2f"
-  },
-  {
-    "msgid": "Rotation Sensitivity",
-    "msgstr": "ბრუნვის მგრძნობელობა"
-  },
-  {
-    "msgid": "Pan Sensitivity",
-    "msgstr": "გადაადგილების მგრძნობელობა"
-  },
-  {
-    "msgid": "Zoom Sensitivity",
-    "msgstr": "მასშტაბირების მგრძნობელობა"
-  },
-  {
-    "msgid": "Adjust the sensitivity of the camera zoom when using [iaHint=IA_CAMERA_ZOOM_OUT/] or [iaHint=IA_CAMERA_ZOOM_IN/].\\n\\nA lower value will result in a slower and more precise zoom.",
-    "msgstr": "დააყენეთ კამერის მასშტაბირების მგრძნობელობა [iaHint=IA_CAMERA_ZOOM_OUT/] და [iaHint=IA_CAMERA_ZOOM_IN/] გამოყენებისას.\\n\\nდაბალი მნიშვნელობისას მასშტაბირება უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgid": "Rotation Sensitivity (Free Camera)",
-    "msgstr": "ბრუნვის მგრძნობელობა (თავისუფალი კამერა)"
-  },
-  {
-    "msgid": "Adjust the sensitivity of the camera rotation in the free camera mode.\\n\\nA lower value will result in a slower and more precise rotation.",
-    "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა თავისუფალი კამერის რეჟიმში.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgid": "Pan Sensitivity (Free Camera)",
-    "msgstr": "გადაადგილების მგრძნობელობა (თავისუფალი კამერა)"
-  },
-  {
-    "msgid": "Adjust the sensitivity of the camera movement in the free camera mode.\\n\\nA lower value will result in a slower and more precise movement.",
-    "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა თავისუფალი კამერის რეჟიმში.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
-  },
-  {
-    "msgid": "Vulkan",
-    "msgstr": "Vulkan"
-  },
-  {
-    "msgid": "OpenGL",
-    "msgstr": "OpenGL"
-  },
-  {
-    "msgid": "Off",
-    "msgstr": "გამორთული"
-  },
-  {
-    "msgid": "Graphics",
-    "msgstr": "გრაფიკა"
-  },
-  {
-    "msgid": "Window Settings",
-    "msgstr": "ფანჯრის პარამეტრები"
-  },
-  {
-    "msgid": "Display Mode",
-    "msgstr": "ეკრანის რეჟიმი"
-  },
-  {
-    "msgid": "Windowed",
-    "msgstr": "ფანჯარაში"
-  },
-  {
-    "msgid": "Borderless",
-    "msgstr": "ჩარჩოს გარეშე"
-  },
-  {
-    "msgid": "Fullscreen",
-    "msgstr": "სრულ ეკრანზე"
-  },
-  {
-    "msgid": "Change how the game window behaves.\\n\\nIn fullscreen mode, the entire screen is used and the mouse cannot be moved outside the window, while borderless mode allows this. In windowed mode, the game window behaves like a normal window that can be resized and minimized.\\n\\nUse <Alt> + <Enter> to toggle the windowed mode.",
-    "msgstr": "შეცვალეთ თამაშის ფანჯრის ქცევა.\\n\\nსრული ეკრანის რეჟიმში გამოიყენება მთელი ეკრანი და მაუსის ფანჯრის გარეთ გატანა შეუძლებელია, ჩარჩოს გარეშე რეჟიმში კი ეს შესაძლებელია. ფანჯრის რეჟიმში თამაშის ფანჯარა ჩვეულებრივი ფანჯარასავით იქცევა: მისი ზომის შეცვლა და ჩაკეცვა შეიძლება.\\n\\nფანჯრის რეჟიმის ჩასართავად და გამოსართავად გამოიყენეთ <Alt> + <Enter>."
-  },
-  {
-    "msgid": "Graphic API",
-    "msgstr": "გრაფიკული API"
-  },
-  {
-    "msgid": "This setting controls which graphic API should be used. Vulkan is more modern and normally the better choice.",
-    "msgstr": "ეს პარამეტრი განსაზღვრავს, რომელი გრაფიკული API გამოიყენება. Vulkan უფრო თანამედროვეა და, როგორც წესი, უკეთესი არჩევანია."
-  },
-  {
-    "msgid": "Resolution",
-    "msgstr": "გარჩევადობა"
-  },
-  {
-    "msgid": "Change which screen resolution is used for the game.",
-    "msgstr": "შეცვალეთ თამაშის ეკრანის გარჩევადობა."
-  },
-  {
-    "msgid": "Resolution Scale",
-    "msgstr": "გარჩევადობის მასშტაბი"
-  },
-  {
-    "msgid": "Adjust the resolution at which the game is rendered. Upscaling is performed using AMD FidelityFX™ Super Resolution.\\n\\nA higher value results in better quality, but requires more rendering performance.",
-    "msgstr": "დააყენეთ გარჩევადობა, რომლითაც თამაში რენდერდება. გადიდება ხდება AMD FidelityFX™ Super Resolution-ის მეშვეობით.\\n\\nმაღალი მნიშვნელობა უკეთეს ხარისხს იძლევა, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "VSync",
-    "msgstr": "ვერტიკალური სინქრონიზაცია"
-  },
-  {
-    "msgid": "Enable vertical synchronization.\\n\\nThis prevents screen tearing effects.",
-    "msgstr": "ვერტიკალური სინქრონიზაციის (VSync) ჩართვა.\\n\\nეს აცილებს გამოსახულების დახევას (tearing)."
-  },
-  {
-    "msgid": "Settings for the basic game window.",
-    "msgstr": "თამაშის ფანჯრის ძირითადი პარამეტრები."
-  },
-  {
-    "msgid": "Graphics Settings",
-    "msgstr": "გრაფიკის პარამეტრები"
-  },
-  {
-    "msgid": "Presets",
-    "msgstr": "მზა ნაკრები"
-  },
-  {
-    "msgid": "Apply a predefined set of graphic options.\\n\\nHigher values result in a more beautiful game world, but require more rendering performance.",
-    "msgstr": "აირჩიეთ გრაფიკის პარამეტრების მზა ნაკრები.\\n\\nმაღალი მნიშვნელობისას თამაშის სამყარო უფრო ლამაზია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Textures",
-    "msgstr": "ტექსტურები"
-  },
-  {
-    "msgid": "Change which quality is used for textures.\\n\\nBetter quality results in more detailed objects, but requires more rendering performance.",
-    "msgstr": "შეცვალეთ ტექსტურების ხარისხი.\\n\\nუკეთესი ხარისხისას ობიექტები უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Terrain Textures",
-    "msgstr": "რელიეფის ტექსტურები"
-  },
-  {
-    "msgid": "Change which quality is used for terrain textures.\\n\\nBetter quality results in more detailed terrain textures, but requires more rendering performance.",
-    "msgstr": "შეცვალეთ რელიეფის ტექსტურების ხარისხი.\\n\\nუკეთესი ხარისხისას რელიეფის ტექსტურები უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Anti-Aliasing",
-    "msgstr": "კიდეების გაგლუვება"
-  },
-  {
-    "msgid": "Change the quality of anti-aliasing.\\n\\nHigher values make diagonal lines and curves look smoother, but require more rendering performance.",
-    "msgstr": "შეცვალეთ კიდეების გაგლუვების (anti-aliasing) ხარისხი.\\n\\nმაღალი მნიშვნელობისას დახრილი ხაზები და მრუდები უფრო გლუვად გამოიყურება, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Ambient Occlusion (SSAO)",
-    "msgstr": "ფონური დაჩრდილვა (SSAO)"
-  },
-  {
-    "msgid": "Enable screen space ambient occlusion.\\n\\nThis results in more natural shadows, but requires more rendering performance.",
-    "msgstr": "ეკრანის სივრცეში ფონური დაჩრდილვის (SSAO) ჩართვა.\\n\\nჩრდილები უფრო ბუნებრივი ხდება, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Reflections (SSR)",
-    "msgstr": "ანარეკლები (SSR)"
-  },
-  {
-    "msgid": "Change the quality of screen space reflections.\\n\\nHigher values result in more natural and dynamic reflections, but require more rendering performance.",
-    "msgstr": "შეცვალეთ ეკრანის სივრცეში ანარეკლების (SSR) ხარისხი.\\n\\nმაღალი მნიშვნელობისას ანარეკლები უფრო ბუნებრივი და ცოცხალია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Geometry",
-    "msgstr": "გეომეტრია"
-  },
-  {
-    "msgid": "Change which quality is used for geometry.\\n\\nBetter quality results in more detailed geometry, but requires more rendering performance.",
-    "msgstr": "შეცვალეთ გეომეტრიის ხარისხი.\\n\\nუკეთესი ხარისხისას გეომეტრია უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Shadows",
-    "msgstr": "ჩრდილები"
-  },
-  {
-    "msgid": "Change which quality is used for shadows.\\n\\nBetter quality results in more natural shadows, but requires more rendering performance.",
-    "msgstr": "შეცვალეთ ჩრდილების ხარისხი.\\n\\nუკეთესი ხარისხისას ჩრდილები უფრო ბუნებრივია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Change which quality is used for terrain.\\n\\nBetter quality results in more detailed terrain, but requires more rendering performance.",
-    "msgstr": "შეცვალეთ რელიეფის ხარისხი.\\n\\nუკეთესი ხარისხისას რელიეფი უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Grass",
-    "msgstr": "ბალახი"
-  },
-  {
-    "msgid": "Change which quality is used for grass.\\n\\nBetter quality results in more vivid grass, but requires more rendering performance.",
-    "msgstr": "შეცვალეთ ბალახის ხარისხი.\\n\\nუკეთესი ხარისხისას ბალახი უფრო ცოცხალია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
-  },
-  {
-    "msgid": "Settings for the graphics quality.",
-    "msgstr": "გრაფიკის ხარისხის პარამეტრები."
-  },
-  {
-    "msgid": "Graphic Mode",
-    "msgstr": "გრაფიკის რეჟიმი"
-  },
-  {
-    "msgid": "Apply a predefined set of graphic options.\\n\\nQuality results in a more beautiful game world, while performance ensures higher FPS.",
-    "msgstr": "აირჩიეთ გრაფიკის პარამეტრების მზა ნაკრები.\\n\\nხარისხის რეჟიმი თამაშის სამყაროს უფრო ლამაზს ხდის, წარმადობის რეჟიმი კი კადრების უფრო მაღალ სიხშირეს (FPS) უზრუნველყოფს."
-  },
-  {
-    "msgid": "Audio Settings",
-    "msgstr": "ხმის პარამეტრები"
-  },
-  {
-    "msgid": "Music",
-    "msgstr": "მუსიკა"
-  },
-  {
-    "msgid": "Play music when starting a game.\\n\\nWhen disabled, the music can still be started manually via the in-game music player.",
-    "msgstr": "მუსიკის დაკვრა თამაშის დაწყებისას.\\n\\nგამორთულ მდგომარეობაშიც შეგიძლიათ მუსიკა ხელით ჩართოთ თამაშის მუსიკის დამკვრელში."
-  },
-  {
-    "msgid": "Menu Music",
-    "msgstr": "მენიუს მუსიკა"
-  },
-  {
-    "msgid": "Play music in the menu.",
-    "msgstr": "მუსიკის დაკვრა მენიუში."
-  },
-  {
-    "msgid": "Splash Screen Sound",
-    "msgstr": "შესავალი ეკრანის ხმა"
-  },
-  {
-    "msgid": "Play the splash screen sound.",
-    "msgstr": "შესავალი ეკრანის ხმის დაკვრა."
-  },
-  {
-    "msgid": "Voice-Over",
-    "msgstr": "გახმოვანება"
-  },
-  {
-    "msgid": "Play voice-overs during the campaign missions.",
-    "msgstr": "გახმოვანების ჩართვა კამპანიის მისიებში."
-  },
-  {
-    "msgid": "Settings to enable or disable individual audio parts.",
-    "msgstr": "ხმის ცალკეული ნაწილების ჩართვა და გამორთვა."
-  },
-  {
-    "msgid": "Soundtrack",
-    "msgstr": "საუნდტრეკი"
-  },
-  {
-    "msgid": "Default Playlist",
-    "msgstr": "ნაგულისხმევი დასაკრავი სია"
-  },
-  {
-    "msgid": "Change which playlist is used as the default starting playlist for the in-game music player.",
-    "msgstr": "შეცვალეთ, რომელი დასაკრავი სიით იწყებს თამაშის მუსიკის დამკვრელი."
-  },
-  {
-    "msgid": "Settings for the soundtrack.",
-    "msgstr": "საუნდტრეკის პარამეტრები."
-  },
-  {
-    "msgid": "Volume Settings",
-    "msgstr": "ხმის დონე"
-  },
-  {
-    "msgid": "Master",
-    "msgstr": "საერთო"
-  },
-  {
-    "msgid": "Adjust the overall volume of the game.",
-    "msgstr": "დააყენეთ თამაშის საერთო ხმის დონე."
-  },
-  {
-    "msgid": "Sound Effects",
-    "msgstr": "ხმოვანი ეფექტები"
-  },
-  {
-    "msgid": "Adjust the volume of sound effects.",
-    "msgstr": "დააყენეთ ხმოვანი ეფექტების ხმის დონე."
-  },
-  {
-    "msgid": "Adjust the volume of the music.",
-    "msgstr": "დააყენეთ მუსიკის ხმის დონე."
-  },
-  {
-    "msgid": "Adjust the volume of voice-overs during campaign missions.",
-    "msgstr": "დააყენეთ გახმოვანების ხმის დონე კამპანიის მისიებში."
-  },
-  {
-    "msgid": "Settings to adjust the different volumes individually.",
-    "msgstr": "ხმის სხვადასხვა დონის ცალ-ცალკე დაყენება."
-  },
-  {
-    "msgid": "Play a sound effect when bulldozing things.",
-    "msgstr": "ხმოვანი ეფექტის დაკვრა ობიექტების დანგრევისას."
-  },
-  {
-    "msgid": "Play a sound effect when building things.",
-    "msgstr": "ხმოვანი ეფექტის დაკვრა ობიექტების აშენებისას."
-  },
-  {
-    "msgid": "Settings for the sound effects.",
-    "msgstr": "ხმოვანი ეფექტების პარამეტრები."
-  },
-  {
-    "msgid": "Audio",
-    "msgstr": "ხმა"
-  },
-  {
-    "msgid": "Advanced Settings",
-    "msgstr": "დამატებითი პარამეტრები"
-  },
-  {
-    "msgid": "Enable Background Contrast Layer",
-    "msgstr": "კონტრასტული ფონის ჩართვა"
-  },
-  {
-    "msgid": "Never",
-    "msgstr": "არასოდეს"
-  },
-  {
-    "msgid": "Line Manager Only",
-    "msgstr": "მხოლოდ ხაზების მართვა"
-  },
-  {
-    "msgid": "Module Builder Only",
-    "msgstr": "მხოლოდ მოდულების რედაქტორი"
-  },
-  {
-    "msgid": "Both",
-    "msgstr": "ორივე"
-  },
-  {
-    "msgid": "Change which background is used in line management and module building modes.\\n\\n\\\"Never\\\" disables the white base layer and uses the normal world rendering.\\n\\\"Line Manager Only\\\" uses the white base layer in the line manager.\\n\\\"Module Builder Only\\\" uses the white base layer in the module builder.\\n\\\"Both\\\" uses the white base layer in both modes.",
-    "msgstr": "შეცვალეთ, რომელი ფონი გამოიყენება ხაზების მართვისა და მოდულების რედაქტირების რეჟიმებში.\\n\\n\\\"არასოდეს\\\" თეთრ ფონს გამორთავს და სამყარო ჩვეულებრივად გამოისახება.\\n\\\"მხოლოდ ხაზების მართვა\\\" თეთრ ფონს ხაზების მართვაში იყენებს.\\n\\\"მხოლოდ მოდულების რედაქტორი\\\" თეთრ ფონს მოდულების რედაქტორში იყენებს.\\n\\\"ორივე\\\" თეთრ ფონს ორივე რეჟიმში იყენებს."
-  },
-  {
-    "msgid": "Enable Drag-and-Confirm Construction Mode",
-    "msgstr": "მშენებლობა დადასტურებით"
-  },
-  {
-    "msgid": "Enable drag-and-confirm construction mode for tracks and roads.\\n\\nWhen enabled, construction is performed in two steps. Proposals can be adjusted after placement and are built after confirmation.",
-    "msgstr": "ლიანდაგებისა და გზების მშენებლობა გავლებითა და დადასტურებით.\\n\\nჩართულ მდგომარეობაში მშენებლობა ორ ეტაპად მიმდინარეობს: გავლებული პროექტის შესწორება განთავსების შემდეგაც შეიძლება და ის მხოლოდ დადასტურების შემდეგ შენდება."
-  },
-  {
-    "msgid": "Enable Advanced Camera Tool",
-    "msgstr": "გაფართოებული კამერის ჩართვა"
-  },
-  {
-    "msgid": "Enable the advanced camera tool in-game.\\n\\nThis tool can be used to create complex renderings.",
-    "msgstr": "გაფართოებული კამერის ხელსაწყოს ჩართვა თამაშში.\\n\\nამ ხელსაწყოთი რთული კადრების შექმნა შეიძლება."
-  },
-  {
-    "msgid": "Enable GUI Effects",
-    "msgstr": "ინტერფეისის ეფექტების ჩართვა"
-  },
-  {
-    "msgid": "Enable GUI effects like smooth transitions and animations.",
-    "msgstr": "ინტერფეისის ეფექტების, მაგალითად, გლუვი გადასვლებისა და ანიმაციების ჩართვა."
-  },
-  {
-    "msgid": "Autosave Interval",
-    "msgstr": "ავტომატური შენახვის ინტერვალი"
-  },
-  {
-    "msgid": "1 min",
-    "msgstr": "1 წთ"
-  },
-  {
-    "msgid": "2 min",
-    "msgstr": "2 წთ"
-  },
-  {
-    "msgid": "5 min",
-    "msgstr": "5 წთ"
-  },
-  {
-    "msgid": "10 min",
-    "msgstr": "10 წთ"
-  },
-  {
-    "msgid": "15 min",
-    "msgstr": "15 წთ"
-  },
-  {
-    "msgid": "30 min",
-    "msgstr": "30 წთ"
-  },
-  {
-    "msgid": "60 min",
-    "msgstr": "60 წთ"
-  },
-  {
-    "msgid": "Change how often the game is automatically saved.",
-    "msgstr": "შეცვალეთ, რამდენად ხშირად შეინახოს თამაში ავტომატურად."
-  },
-  {
-    "msgid": "Autosaves To Keep",
-    "msgstr": "შესანახი ავტოშენახვები"
-  },
-  {
-    "msgid": "All",
-    "msgstr": "ყველა"
-  },
-  {
-    "msgid": "Change how many autosaves are kept.\\n\\nOnce this number is reached, the oldest autosaves will be overwritten.",
-    "msgstr": "შეცვალეთ, რამდენი ავტომატური შენახვა დარჩეს.\\n\\nროცა მათი რაოდენობა ამ ზღვარს მიაღწევს, ყველაზე ძველი ავტოშენახვები გადაიწერება."
-  },
-  {
-    "msgid": "Use System Mouse Cursor",
-    "msgstr": "სისტემური კურსორის გამოყენება"
-  },
-  {
-    "msgid": "Enable the mouse cursor drawn by the operating system. When disabled, a cursor drawn by the game is used instead.\\n\\nDisabling this setting may help certain screen recording tools to capture the cursor.",
-    "msgstr": "ოპერაციული სისტემის მაუსის კურსორის გამოყენება. გამორთულ მდგომარეობაში გამოიყენება თამაშის საკუთარი კურსორი.\\n\\nამ პარამეტრის გამორთვა ზოგიერთ ეკრანის ჩამწერ პროგრამას კურსორის ჩაწერაში დაეხმარება."
-  },
-  {
-    "msgid": "Advanced settings for experts.",
-    "msgstr": "დამატებითი პარამეტრები გამოცდილი მოთამაშეებისთვის."
-  },
-  {
-    "msgid": "Debug Options",
-    "msgstr": "გამართვის პარამეტრები"
-  },
-  {
-    "msgid": "Debug Mode",
-    "msgstr": "გამართვის რეჟიმი"
-  },
-  {
-    "msgid": "Enable in-game debug features.\\n\\nThese features can be helpful during modding or support requests.",
-    "msgstr": "თამაშში გამართვის ფუნქციების ჩართვა.\\n\\nეს ფუნქციები შეიძლება გამოგადგეთ მოდების შექმნისას ან მხარდაჭერის სამსახურთან მიმართვისას."
-  },
-  {
-    "msgid": "Show Missing Resources Dialog",
-    "msgstr": "მიუწვდომელი რესურსების ფანჯრის ჩვენება"
-  },
-  {
-    "msgid": "Display a warning if resources are missing when loading a savegame.\\n\\nMissing resources usually occur when a mod is not available.",
-    "msgstr": "გაფრთხილების ჩვენება, თუ შენახული თამაშის ჩატვირთვისას რესურსები აკლია.\\n\\nრესურსები, როგორც წესი, მაშინ აკლია, როცა რომელიმე მოდი მიუწვდომელია."
-  },
-  {
-    "msgid": "Send Crash Reports",
-    "msgstr": "ავარიის ანგარიშების გაგზავნა"
-  },
-  {
-    "msgid": "Enable automatic crash report sending.\\n\\nLeaving this feature enabled helps to detect and fix bugs and crashes.",
-    "msgstr": "ავარიის ანგარიშების ავტომატური გაგზავნის ჩართვა.\\n\\nჩართული ფუნქცია ხარვეზებისა და ავარიების აღმოჩენასა და გამოსწორებაში გვეხმარება."
-  },
-  {
-    "msgid": "Show Unsupported Hardware Warning",
-    "msgstr": "მხარდაუჭერელი აპარატურის გაფრთხილება"
-  },
-  {
-    "msgid": "Display a warning if unsupported hardware is detected.",
-    "msgstr": "გაფრთხილების ჩვენება, თუ მხარდაუჭერელი აპარატურა აღმოჩნდა."
-  },
-  {
-    "msgid": "Show Video Memory Usage Warning",
-    "msgstr": "ვიდეომეხსიერების გაფრთხილება"
-  },
-  {
-    "msgid": "Display a warning if the graphics settings are too high.",
-    "msgstr": "გაფრთხილების ჩვენება, თუ გრაფიკის პარამეტრები ზედმეტად მაღალია."
-  },
-  {
-    "msgid": "Debug options that can be helpful to troubleshoot issues.",
-    "msgstr": "გამართვის პარამეტრები, რომლებიც პრობლემების მოგვარებაში დაგეხმარებათ."
-  },
-  {
-    "msgid": "Open User Data Folder",
-    "msgstr": "მომხმარებლის მონაცემების საქაღალდის გახსნა"
-  },
-  {
-    "msgid": "Open the user data folder, that contains savegames, screenshots, and other useful files.",
-    "msgstr": "მომხმარებლის მონაცემების საქაღალდის გახსნა, სადაც შენახული თამაშები, ეკრანის ანაბეჭდები და სხვა სასარგებლო ფაილებია."
-  },
-  {
-    "msgid": "Search",
-    "msgstr": "ძიება"
-  },
-  {
-    "msgid": "On",
-    "msgstr": "ჩართული"
-  },
-  {
-    "msgid": "Restart Required",
-    "msgstr": "საჭიროა თავიდან გაშვება"
-  }
+ {
+  "msgid": "Difficulty Level",
+  "msgstr": "სირთულის დონე"
+ },
+ {
+  "msgid": "Apply a predefined set of difficulty options.",
+  "msgstr": "აირჩიეთ სირთულის პარამეტრების მზა ნაკრები."
+ },
+ {
+  "msgid": "Difficulty",
+  "msgstr": "სირთულე"
+ },
+ {
+  "msgid": "Settings for the economy.",
+  "msgstr": "ეკონომიკის პარამეტრები."
+ },
+ {
+  "msgid": "Town Ratings",
+  "msgstr": "დასახლებული პუნქტების შეფასებები"
+ },
+ {
+  "msgid": "Settings for the sensitivity of the town ratings.",
+  "msgstr": "დასახლებული პუნქტების შეფასებების მგრძნობელობის პარამეტრები."
+ },
+ {
+  "msgid": "Settings for the various costs.",
+  "msgstr": "სხვადასხვა ხარჯის პარამეტრები."
+ },
+ {
+  "msgid": "Advanced",
+  "msgstr": "დამატებითი"
+ },
+ {
+  "msgid": "Advanced settings to adjust the difficulty.",
+  "msgstr": "სირთულის დამატებითი პარამეტრები."
+ },
+ {
+  "msgid": "Change which industry chain is used.",
+  "msgstr": "შეცვალეთ, რომელი საწარმოო ჯაჭვი გამოიყენება."
+ },
+ {
+  "msgid": "Experimental",
+  "msgstr": "ექსპერიმენტული"
+ },
+ {
+  "msgid": "Experimental map features for having fun with climates and economies.",
+  "msgstr": "რუკის ექსპერიმენტული ფუნქციები კლიმატებითა და ეკონომიკებით გასართობად."
+ },
+ {
+  "msgid": "Climate",
+  "msgstr": "კლიმატი"
+ },
+ {
+  "msgid": "Change which climate is used.",
+  "msgstr": "შეცვალეთ, რომელი კლიმატი გამოიყენება."
+ },
+ {
+  "msgid": "Revert Changes",
+  "msgstr": "ცვლილებების გაუქმება"
+ },
+ {
+  "msgctxt": "weight-unit-settings",
+  "msgid": "Tonne (t)",
+  "msgstr": "ტონა (t)"
+ },
+ {
+  "msgctxt": "weight-unit-settings",
+  "msgid": "Kilogram (kg)",
+  "msgstr": "კილოგრამი (kg)"
+ },
+ {
+  "msgctxt": "weight-unit-settings",
+  "msgid": "Short Tonne (t)",
+  "msgstr": "მოკლე ტონა (t)"
+ },
+ {
+  "msgctxt": "weight-unit-settings",
+  "msgid": "Pounds (lb)",
+  "msgstr": "გირვანქა (lb)"
+ },
+ {
+  "msgctxt": "icon-overlap-settings",
+  "msgid": "Never",
+  "msgstr": "არასოდეს"
+ },
+ {
+  "msgctxt": "icon-overlap-settings",
+  "msgid": "Near Inspector",
+  "msgstr": "ინსპექტორთან ახლოს"
+ },
+ {
+  "msgctxt": "icon-overlap-settings",
+  "msgid": "Near Mouse Cursor",
+  "msgstr": "მაუსის კურსორთან ახლოს"
+ },
+ {
+  "msgctxt": "icon-overlap-settings",
+  "msgid": "Always",
+  "msgstr": "ყოველთვის"
+ },
+ {
+  "msgctxt": "cloud-transparency-settings",
+  "msgid": "None",
+  "msgstr": "არცერთი"
+ },
+ {
+  "msgctxt": "cloud-transparency-settings",
+  "msgid": "Near Screen Center",
+  "msgstr": "ეკრანის ცენტრთან ახლოს"
+ },
+ {
+  "msgctxt": "cloud-transparency-settings",
+  "msgid": "Near Inspector",
+  "msgstr": "ინსპექტორთან ახლოს"
+ },
+ {
+  "msgctxt": "cloud-transparency-settings",
+  "msgid": "Near Mouse Cursor",
+  "msgstr": "მაუსის კურსორთან ახლოს"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Controller",
+  "msgstr": "კონტროლერი"
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Controller",
+  "msgstr": "კონტროლერი"
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Controller",
+  "msgstr": "კონტროლერი"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Controller Settings",
+  "msgstr": "კონტროლერის პარამეტრები"
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Controller Settings",
+  "msgstr": "კონტროლერის პარამეტრები"
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Controller Settings",
+  "msgstr": "კონტროლერის პარამეტრები"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the stick to the right will rotate the camera counter-clockwise.",
+  "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის მარჯვნივ გადახრა კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the stick to the right will rotate the camera counter-clockwise.",
+  "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის მარჯვნივ გადახრა კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the stick to the right will rotate the camera counter-clockwise.",
+  "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის მარჯვნივ გადახრა კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the stick up results in a top-down view.",
+  "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის ზემოთ გადახრა კამერას ზემოდან ხედზე გადაიყვანს."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the stick up results in a top-down view.",
+  "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის ზემოთ გადახრა კამერას ზემოდან ხედზე გადაიყვანს."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the stick up results in a top-down view.",
+  "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბერკეტის ზემოთ გადახრა კამერას ზემოდან ხედზე გადაიყვანს."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Swap Sticks (Game Camera)",
+  "msgstr": "ბერკეტების გაცვლა (თამაშის კამერა)"
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Swap Sticks (Game Camera)",
+  "msgstr": "ბერკეტების გაცვლა (თამაშის კამერა)"
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Swap Sticks (Game Camera)",
+  "msgstr": "ბერკეტების გაცვლა (თამაშის კამერა)"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Swap which stick is used for camera movement and which stick is used for rotation and tilt.\\n\\nWhen disabled, the left stick is used for movement and the right stick is used for rotation and tilt.",
+  "msgstr": "შეცვალეთ, რომელი ბერკეტი გადააადგილებს კამერას და რომელი აბრუნებს და ხრის მას.\\n\\nგამორთულ მდგომარეობაში მარცხენა ბერკეტი კამერას გადააადგილებს, მარჯვენა კი აბრუნებს და ხრის."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Swap which stick is used for camera movement and which stick is used for rotation and tilt.\\n\\nWhen disabled, the left stick is used for movement and the right stick is used for rotation and tilt.",
+  "msgstr": "შეცვალეთ, რომელი ბერკეტი გადააადგილებს კამერას და რომელი აბრუნებს და ხრის მას.\\n\\nგამორთულ მდგომარეობაში მარცხენა ბერკეტი კამერას გადააადგილებს, მარჯვენა კი აბრუნებს და ხრის."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Swap which stick is used for camera movement and which stick is used for rotation and tilt.\\n\\nWhen disabled, the left stick is used for movement and the right stick is used for rotation and tilt.",
+  "msgstr": "შეცვალეთ, რომელი ბერკეტი გადააადგილებს კამერას და რომელი აბრუნებს და ხრის მას.\\n\\nგამორთულ მდგომარეობაში მარცხენა ბერკეტი კამერას გადააადგილებს, მარჯვენა კი აბრუნებს და ხრის."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Swap Sticks (Menu Navigation)",
+  "msgstr": "ბერკეტების გაცვლა (მენიუში ნავიგაცია)"
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Swap Sticks (Menu Navigation)",
+  "msgstr": "ბერკეტების გაცვლა (მენიუში ნავიგაცია)"
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Swap Sticks (Menu Navigation)",
+  "msgstr": "ბერკეტების გაცვლა (მენიუში ნავიგაცია)"
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Swap which stick is used for navigation in full-screen menus. When disabled, the left stick is used.",
+  "msgstr": "შეცვალეთ, რომელი ბერკეტით ხდება ნავიგაცია სრულეკრანიან მენიუებში. გამორთულ მდგომარეობაში გამოიყენება მარცხენა ბერკეტი."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Swap which stick is used for navigation in full-screen menus. When disabled, the left stick is used.",
+  "msgstr": "შეცვალეთ, რომელი ბერკეტით ხდება ნავიგაცია სრულეკრანიან მენიუებში. გამორთულ მდგომარეობაში გამოიყენება მარცხენა ბერკეტი."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Swap which stick is used for navigation in full-screen menus. When disabled, the left stick is used.",
+  "msgstr": "შეცვალეთ, რომელი ბერკეტით ხდება ნავიგაცია სრულეკრანიან მენიუებში. გამორთულ მდგომარეობაში გამოიყენება მარცხენა ბერკეტი."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Invert settings for the controller.",
+  "msgstr": "კონტროლერის ინვერსიის პარამეტრები."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Invert settings for the controller.",
+  "msgstr": "კონტროლერის ინვერსიის პარამეტრები."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Invert settings for the controller.",
+  "msgstr": "კონტროლერის ინვერსიის პარამეტრები."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Adjust how far a stick must be moved before it is considered an input.\\n\\nA lower value is more reactive, while a higher value prevents drifting.",
+  "msgstr": "დააყენეთ, რამდენად შორს უნდა გადაიხაროს ბერკეტი, რომ მოძრაობა დაფიქსირდეს.\\n\\nდაბალი მნიშვნელობა უფრო სწრაფ რეაგირებას იძლევა, მაღალი კი თვითნებურ მოძრაობას (დრიფტს) აცილებს თავიდან."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Adjust how far a stick must be moved before it is considered an input.\\n\\nA lower value is more reactive, while a higher value prevents drifting.",
+  "msgstr": "დააყენეთ, რამდენად შორს უნდა გადაიხაროს ბერკეტი, რომ მოძრაობა დაფიქსირდეს.\\n\\nდაბალი მნიშვნელობა უფრო სწრაფ რეაგირებას იძლევა, მაღალი კი თვითნებურ მოძრაობას (დრიფტს) აცილებს თავიდან."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Adjust how far a stick must be moved before it is considered an input.\\n\\nA lower value is more reactive, while a higher value prevents drifting.",
+  "msgstr": "დააყენეთ, რამდენად შორს უნდა გადაიხაროს ბერკეტი, რომ მოძრაობა დაფიქსირდეს.\\n\\nდაბალი მნიშვნელობა უფრო სწრაფ რეაგირებას იძლევა, მაღალი კი თვითნებურ მოძრაობას (დრიფტს) აცილებს თავიდან."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Adjust the sensitivity of the camera rotation when moving the stick.\\n\\nA lower value will result in a slower and more precise rotation.",
+  "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Adjust the sensitivity of the camera rotation when moving the stick.\\n\\nA lower value will result in a slower and more precise rotation.",
+  "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Adjust the sensitivity of the camera rotation when moving the stick.\\n\\nA lower value will result in a slower and more precise rotation.",
+  "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Adjust the sensitivity of the camera movement when moving the stick.\\n\\nA lower value will result in a slower and more precise movement.",
+  "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Adjust the sensitivity of the camera movement when moving the stick.\\n\\nA lower value will result in a slower and more precise movement.",
+  "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Adjust the sensitivity of the camera movement when moving the stick.\\n\\nA lower value will result in a slower and more precise movement.",
+  "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა ბერკეტის გადახრისას.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgctxt": "platform-playstation",
+  "msgid": "Sensitivity settings for the controller.",
+  "msgstr": "კონტროლერის მგრძნობელობის პარამეტრები."
+ },
+ {
+  "msgctxt": "platform-xbox",
+  "msgid": "Sensitivity settings for the controller.",
+  "msgstr": "კონტროლერის მგრძნობელობის პარამეტრები."
+ },
+ {
+  "msgctxt": "platform-pc",
+  "msgid": "Sensitivity settings for the controller.",
+  "msgstr": "კონტროლერის მგრძნობელობის პარამეტრები."
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Low",
+  "msgstr": "დაბალი"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Medium",
+  "msgstr": "საშუალო"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "High",
+  "msgstr": "მაღალი"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Very High",
+  "msgstr": "ძალიან მაღალი"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Custom",
+  "msgstr": "საკუთარი"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Off",
+  "msgstr": "გამორთული"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Quality",
+  "msgstr": "ხარისხი"
+ },
+ {
+  "msgctxt": "graphics-quality-settings",
+  "msgid": "Performance",
+  "msgstr": "წარმადობა"
+ },
+ {
+  "msgid": "%.0f%%",
+  "msgstr": "%.0f%%"
+ },
+ {
+  "msgid": "Game",
+  "msgstr": "თამაში"
+ },
+ {
+  "msgid": "Camera",
+  "msgstr": "კამერა"
+ },
+ {
+  "msgid": "Camera Tool",
+  "msgstr": "კამერის ხელსაწყო"
+ },
+ {
+  "msgid": "Overwrite Existing Key Binding",
+  "msgstr": "არსებული მინიჭების ჩანაცვლება"
+ },
+ {
+  "msgid": "Accept",
+  "msgstr": "დადასტურება"
+ },
+ {
+  "msgid": "Invalid Input",
+  "msgstr": "არასწორი შეყვანა"
+ },
+ {
+  "msgid": "Okay",
+  "msgstr": "ოკ"
+ },
+ {
+  "msgid": "Accept the World as It Is",
+  "msgstr": "სამყაროს ისე მიღება, როგორც არის"
+ },
+ {
+  "msgid": "Press Any Key Combination...",
+  "msgstr": "დააჭირეთ ნებისმიერ კლავიშს ან კომბინაციას..."
+ },
+ {
+  "msgid": "<None>",
+  "msgstr": "<არცერთი>"
+ },
+ {
+  "msgid": "Interface",
+  "msgstr": "ინტერფეისი"
+ },
+ {
+  "msgid": "Basics",
+  "msgstr": "ძირითადი"
+ },
+ {
+  "msgid": "Language",
+  "msgstr": "ენა"
+ },
+ {
+  "msgid": "Change the display language of the game.",
+  "msgstr": "შეცვალეთ თამაშის ენა."
+ },
+ {
+  "msgid": "Basic interface options.",
+  "msgstr": "ინტერფეისის ძირითადი პარამეტრები."
+ },
+ {
+  "msgid": "Interface Scaling",
+  "msgstr": "ინტერფეისის მასშტაბი"
+ },
+ {
+  "msgid": "Text Scaling",
+  "msgstr": "ტექსტის ზომა"
+ },
+ {
+  "msgid": "Adjust the text size for better legibility from further away.",
+  "msgstr": "შეცვალეთ ტექსტის ზომა, რომ მოშორებითაც კარგად იკითხებოდეს."
+ },
+ {
+  "msgid": "Game UI Scaling",
+  "msgstr": "თამაშის ინტერფეისის მასშტაბი"
+ },
+ {
+  "msgid": "Reduce the scaling of the user interface in-game.\\n\\nThis can be helpful on high screen resolutions such as 4K.\\n\\nNote that this has no effect on the start menus.",
+  "msgstr": "შეამცირეთ თამაშის ინტერფეისის მასშტაბი.\\n\\nეს შეიძლება გამოგადგეთ მაღალი გარჩევადობის ეკრანებზე, მაგალითად 4K-ზე.\\n\\nგაითვალისწინეთ, რომ ეს საწყის მენიუებზე არ მოქმედებს."
+ },
+ {
+  "msgid": "Settings for interface sizes and scaling.",
+  "msgstr": "ინტერფეისის ზომისა და მასშტაბის პარამეტრები."
+ },
+ {
+  "msgid": "Localization",
+  "msgstr": "ლოკალიზაცია"
+ },
+ {
+  "msgid": "Money Number Format",
+  "msgstr": "თანხების ფორმატი"
+ },
+ {
+  "msgid": "Change the format in which monetary amounts are displayed.\\n\\nThe short format uses suffixes to abbreviate numbers, for example 1K for 1,000. The full format writes all digitis.",
+  "msgstr": "შეცვალეთ ფულადი თანხების ჩვენების ფორმატი.\\n\\nშემოკლებული ფორმატი რიცხვებს სუფიქსებით ამოკლებს, მაგალითად, 1,000 იწერება როგორც 1K. სრული ფორმატი ყველა ციფრს წერს."
+ },
+ {
+  "msgid": "Distance and Speed Units",
+  "msgstr": "მანძილისა და სიჩქარის ერთეულები"
+ },
+ {
+  "msgid": "Choose which unit is used to display distances and speeds.",
+  "msgstr": "აირჩიეთ მანძილისა და სიჩქარის საზომი ერთეული."
+ },
+ {
+  "msgid": "Power Units",
+  "msgstr": "სიმძლავრის ერთეულები"
+ },
+ {
+  "msgid": "Choose which unit is used to display power.",
+  "msgstr": "აირჩიეთ სიმძლავრის საზომი ერთეული."
+ },
+ {
+  "msgid": "Weight Units",
+  "msgstr": "წონის ერთეულები"
+ },
+ {
+  "msgid": "Choose which unit is used to display weights.",
+  "msgstr": "აირჩიეთ წონის საზომი ერთეული."
+ },
+ {
+  "msgid": "Force Units",
+  "msgstr": "ძალის ერთეულები"
+ },
+ {
+  "msgid": "Choose which unit is used to display forces.",
+  "msgstr": "აირჩიეთ ძალის საზომი ერთეული."
+ },
+ {
+  "msgid": "Settings for localization and internationalization.",
+  "msgstr": "ლოკალიზაციისა და რეგიონული ფორმატების პარამეტრები."
+ },
+ {
+  "msgid": "Prevent Overlapping Icons",
+  "msgstr": "ხატულების გადაფარვის თავიდან აცილება"
+ },
+ {
+  "msgid": "Change when HUD icons are spread out to avoid overlapping.\\n\\n\\\"Never\\\" completely disables the effect.\\n\\\"Near Inspector\\\" enables the effect only near the center of the inspector.\\n\\\"Always\\\" enables the effect for all HUD icons.",
+  "msgstr": "შეცვალეთ, როდის გაიშალოს ეკრანზე ხატულები, რომ ერთმანეთს არ გადაეფარონ.\\n\\n\\\"არასოდეს\\\" ეფექტს მთლიანად გამორთავს.\\n\\\"ინსპექტორთან ახლოს\\\" ეფექტს მხოლოდ ინსპექტორის ცენტრის მახლობლად რთავს.\\n\\\"ყოველთვის\\\" ეფექტს ეკრანის ყველა ხატულისთვის რთავს."
+ },
+ {
+  "msgid": "Change when HUD icons are spread out to avoid overlapping.\\n\\n\\\"Never\\\" completely disables the effect.\\n\\\"Near Mouse Cursor\\\" enables the effect only near the mouse cursor.\\n\\\"Always\\\" enables the effect for all HUD icons.",
+  "msgstr": "შეცვალეთ, როდის გაიშალოს ეკრანზე ხატულები, რომ ერთმანეთს არ გადაეფარონ.\\n\\n\\\"არასოდეს\\\" ეფექტს მთლიანად გამორთავს.\\n\\\"მაუსის კურსორთან ახლოს\\\" ეფექტს მხოლოდ მაუსის კურსორის მახლობლად რთავს.\\n\\\"ყოველთვის\\\" ეფექტს ეკრანის ყველა ხატულისთვის რთავს."
+ },
+ {
+  "msgid": "Rain Screen Effect",
+  "msgstr": "წვიმის ეფექტი ეკრანზე"
+ },
+ {
+  "msgid": "Change when raindrops appear on the screen.\\n\\n\\\"Never\\\" completely disables the effect.\\n\\\"Cockpit Only\\\" enables the effect only in the cockpit camera.\\n\\\"Always\\\" enables the effect for the normal camera as well.",
+  "msgstr": "შეცვალეთ, როდის გამოჩნდეს ეკრანზე წვიმის წვეთები.\\n\\n\\\"არასოდეს\\\" ეფექტს მთლიანად გამორთავს.\\n\\\"მხოლოდ კაბინაში\\\" ეფექტს მხოლოდ კაბინის კამერაში რთავს.\\n\\\"ყოველთვის\\\" ეფექტს ჩვეულებრივ კამერაშიც რთავს."
+ },
+ {
+  "msgid": "Cloud Transparency",
+  "msgstr": "ღრუბლების გამჭვირვალობა"
+ },
+ {
+  "msgid": "Change which clouds should be transparent when zoomed out.\\n\\n\\\"None\\\" disables cloud transparency.\\n\\\"Near Screen Center\\\" makes clouds around the center of the screen transparent.\\n\\\"Near Inspector\\\" makes clouds near the center of the inspector transparent.",
+  "msgstr": "შეცვალეთ, რომელი ღრუბლები გახდეს გამჭვირვალე კამერის დაშორებისას.\\n\\n\\\"არცერთი\\\" ღრუბლების გამჭვირვალობას გამორთავს.\\n\\\"ეკრანის ცენტრთან ახლოს\\\" ეკრანის ცენტრის ირგვლივ ღრუბლებს გამჭვირვალეს ხდის.\\n\\\"ინსპექტორთან ახლოს\\\" ინსპექტორის ცენტრის მახლობლად ღრუბლებს გამჭვირვალეს ხდის."
+ },
+ {
+  "msgid": "Change which clouds should be transparent when zoomed out.\\n\\n\\\"None\\\" disables cloud transparency.\\n\\\"Near Screen Center\\\" makes clouds around the center of the screen transparent.\\n\\\"Near Mouse Cursor\\\" makes clouds around the mouse cursor transparent.",
+  "msgstr": "შეცვალეთ, რომელი ღრუბლები გახდეს გამჭვირვალე კამერის დაშორებისას.\\n\\n\\\"არცერთი\\\" ღრუბლების გამჭვირვალობას გამორთავს.\\n\\\"ეკრანის ცენტრთან ახლოს\\\" ეკრანის ცენტრის ირგვლივ ღრუბლებს გამჭვირვალეს ხდის.\\n\\\"მაუსის კურსორთან ახლოს\\\" მაუსის კურსორის ირგვლივ ღრუბლებს გამჭვირვალეს ხდის."
+ },
+ {
+  "msgid": "Settings for the HUD.",
+  "msgstr": "ეკრანზე გამოსახული ელემენტების (HUD) პარამეტრები."
+ },
+ {
+  "msgid": "Miscellaneous",
+  "msgstr": "სხვადასხვა"
+ },
+ {
+  "msgid": "Enable Interactive Guides",
+  "msgstr": "ინტერაქტიური მინიშნებების ჩართვა"
+ },
+ {
+  "msgid": "Display guide hints with useful information.",
+  "msgstr": "სასარგებლო ინფორმაციის შემცველი მინიშნებების ჩვენება."
+ },
+ {
+  "msgid": "Enable Celebrations",
+  "msgstr": "ზეიმების ჩართვა"
+ },
+ {
+  "msgid": "Display celebratory events when reaching specific milestones in free game.",
+  "msgstr": "საზეიმო მომენტების ჩვენება თავისუფალ თამაშში გარკვეული ეტაპების მიღწევისას."
+ },
+ {
+  "msgid": "Settings for miscellaneous things.",
+  "msgstr": "სხვადასხვა პარამეტრი."
+ },
+ {
+  "msgid": "Mouse",
+  "msgstr": "მაუსი"
+ },
+ {
+  "msgid": "Mouse Settings",
+  "msgstr": "მაუსის პარამეტრები"
+ },
+ {
+  "msgid": "Invert Panning",
+  "msgstr": "გადაადგილების ინვერსია"
+ },
+ {
+  "msgid": "Invert the camera movement.\\n\\nWhen disabled, draging with the right mouse button feels like pulling the map.",
+  "msgstr": "კამერის გადაადგილების ინვერსია.\\n\\nგამორთულ მდგომარეობაში მარჯვენა ღილაკით გადათრევისას ისეთი შეგრძნებაა, თითქოს რუკას ექაჩებით."
+ },
+ {
+  "msgid": "Invert Rotation",
+  "msgstr": "ბრუნვის ინვერსია"
+ },
+ {
+  "msgid": "Invert the camera rotation.\\n\\nWhen disabled, moving the mouse to the right will rotate the camera counter-clockwise.",
+  "msgstr": "კამერის ბრუნვის ინვერსია.\\n\\nგამორთულ მდგომარეობაში მაუსის მარჯვნივ გადაადგილება კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
+ },
+ {
+  "msgid": "Invert Tilt",
+  "msgstr": "დახრის ინვერსია"
+ },
+ {
+  "msgid": "Invert the camera tilt.\\n\\nWhen disabled, moving the mouse up results in a top-down view.",
+  "msgstr": "კამერის დახრის ინვერსია.\\n\\nგამორთულ მდგომარეობაში მაუსის ზემოთ გადაადგილება კამერას ზემოდან ხედზე გადაიყვანს."
+ },
+ {
+  "msgid": "Invert Zooming",
+  "msgstr": "მასშტაბირების ინვერსია"
+ },
+ {
+  "msgid": "Invert the camera zoom.\\n\\nWhen disabled, scrolling up zooms the camera in.",
+  "msgstr": "კამერის მასშტაბირების ინვერსია.\\n\\nგამორთულ მდგომარეობაში ბორბლის ზემოთ დატრიალება კამერას აახლოებს."
+ },
+ {
+  "msgid": "Zoom In to Cursor",
+  "msgstr": "კურსორისკენ მიახლოება"
+ },
+ {
+  "msgid": "Zoom in to the mouse cursor instead of the center of the screen.",
+  "msgstr": "კამერის მიახლოება მაუსის კურსორისკენ და არა ეკრანის ცენტრისკენ."
+ },
+ {
+  "msgid": "Zoom Out From Cursor",
+  "msgstr": "კურსორიდან დაშორება"
+ },
+ {
+  "msgid": "Zoom out from the mouse cursor instead of the center of the screen.",
+  "msgstr": "კამერის დაშორება მაუსის კურსორიდან და არა ეკრანის ცენტრიდან."
+ },
+ {
+  "msgid": "Continuous Zoom",
+  "msgstr": "უწყვეტი მასშტაბირება"
+ },
+ {
+  "msgid": "Continuously zoom the camera.\\n\\nWhen disabled, zooming occurs in steps, otherwise it occurs continuously.",
+  "msgstr": "კამერის უწყვეტი მასშტაბირება.\\n\\nგამორთულ მდგომარეობაში მასშტაბი საფეხურებად იცვლება, ჩართულში კი უწყვეტად."
+ },
+ {
+  "msgid": "Panning Mode",
+  "msgstr": "გადაადგილების რეჟიმი"
+ },
+ {
+  "msgid": "Choose the panning mode.\\n\\n\\\"Simple\\\" moves the camera evenly regardless of where you drag on the map.\\n\\\"Perspective\\\" moves the camera more subtly for nearby points and more dramatically for distant points.\\n\\\"Grab\\\" grabs the map at a point and moves the camera accordingly.",
+  "msgstr": "აირჩიეთ კამერის გადაადგილების რეჟიმი.\\n\\n\\\"მარტივი\\\" კამერას თანაბრად გადააადგილებს, რუკის რომელ წერტილსაც არ უნდა გადაათრევდეთ.\\n\\\"პერსპექტიული\\\" ახლო წერტილების გადათრევისას კამერას ოდნავ გადააადგილებს, შორეულისას კი ბევრად მეტად.\\n\\\"ჩაჭიდებით\\\" რუკას ერთ წერტილში ეჭიდება და კამერას შესაბამისად გადააადგილებს."
+ },
+ {
+  "msgid": "Edge Scrolling",
+  "msgstr": "ეკრანის კიდით გადაადგილება"
+ },
+ {
+  "msgid": "Enable automatic panning when the mouse cursor is moved to the edge of the screen.",
+  "msgstr": "კამერის ავტომატური გადაადგილების ჩართვა, როცა მაუსის კურსორი ეკრანის კიდესთან მიდის."
+ },
+ {
+  "msgid": "Mouse Wheel Sensitivity",
+  "msgstr": "მაუსის ბორბლის მგრძნობელობა"
+ },
+ {
+  "msgid": "Adjust the sensitivity of the mouse wheel.",
+  "msgstr": "დააყენეთ მაუსის ბორბლის მგრძნობელობა."
+ },
+ {
+  "msgid": "Back With Right-Click",
+  "msgstr": "უკან დაბრუნება მარჯვენა დაწკაპუნებით"
+ },
+ {
+  "msgid": "Navigate back, close windows and abort actions with right-click.\\n\\nThe ESC key will also work, even when right-click is disabled.",
+  "msgstr": "მარჯვენა დაწკაპუნებით უკან დაბრუნება, ფანჯრების დახურვა და მოქმედებების გაუქმება.\\n\\nკლავიში ESC იმუშავებს მაშინაც, როცა მარჯვენა დაწკაპუნება გამორთულია."
+ },
+ {
+  "msgid": "Mouse Movement Sensitivity",
+  "msgstr": "მაუსის მოძრაობის მგრძნობელობა"
+ },
+ {
+  "msgid": "%i",
+  "msgstr": "%i"
+ },
+ {
+  "msgid": "Adjust the sensitivity when moving the mouse.",
+  "msgstr": "დააყენეთ მაუსის მოძრაობის მგრძნობელობა."
+ },
+ {
+  "msgid": "Settings for the mouse.",
+  "msgstr": "მაუსის პარამეტრები."
+ },
+ {
+  "msgid": "Keyboard",
+  "msgstr": "კლავიატურა"
+ },
+ {
+  "msgid": "Keyboard Settings",
+  "msgstr": "კლავიატურის პარამეტრები"
+ },
+ {
+  "msgid": "Invert Rotation Keys",
+  "msgstr": "ბრუნვის კლავიშების ინვერსია"
+ },
+ {
+  "msgid": "Invert the camera rotation keys.\\n\\nWhen disabled, the rotate right key will rotate the camera counter-clockwise.",
+  "msgstr": "კამერის ბრუნვის კლავიშების ინვერსია.\\n\\nგამორთულ მდგომარეობაში მარჯვნივ ბრუნვის კლავიში კამერას საათის ისრის საწინააღმდეგოდ აბრუნებს."
+ },
+ {
+  "msgid": "Camera Movement Speed",
+  "msgstr": "კამერის მოძრაობის სიჩქარე"
+ },
+ {
+  "msgid": "Adjust the speed of the camera movement, rotation and tilt when holding a key.",
+  "msgstr": "დააყენეთ კამერის გადაადგილების, ბრუნვისა და დახრის სიჩქარე კლავიშზე თითის დაჭერისას."
+ },
+ {
+  "msgid": "Settings for the keyboard.",
+  "msgstr": "კლავიატურის პარამეტრები."
+ },
+ {
+  "msgid": "Key Mapping",
+  "msgstr": "კლავიშების მინიჭება"
+ },
+ {
+  "msgid": "Change the key mapping.\\n\\nSelect a mapping and press the desired key to assign it. Press ESC to cancel and discard the change.",
+  "msgstr": "შეცვალეთ კლავიშების მინიჭება.\\n\\nაირჩიეთ მოქმედება და დააჭირეთ სასურველ კლავიშს, რომ მიანიჭოთ. ცვლილების გასაუქმებლად დააჭირეთ კლავიშს ESC."
+ },
+ {
+  "msgid": "Invert Zoom",
+  "msgstr": "მასშტაბირების ინვერსია"
+ },
+ {
+  "msgid": "Invert the camera zoom.\\n\\nWhen disabled, [iaHint=IA_CAMERA_ZOOM_IN/] zooms the camera in.",
+  "msgstr": "კამერის მასშტაბირების ინვერსია.\\n\\nგამორთულ მდგომარეობაში [iaHint=IA_CAMERA_ZOOM_IN/] კამერას აახლოებს."
+ },
+ {
+  "msgid": "Sensitivity Settings",
+  "msgstr": "მგრძნობელობის პარამეტრები"
+ },
+ {
+  "msgid": "Deadzone",
+  "msgstr": "მკვდარი ზონა"
+ },
+ {
+  "msgid": "%.2f",
+  "msgstr": "%.2f"
+ },
+ {
+  "msgid": "Rotation Sensitivity",
+  "msgstr": "ბრუნვის მგრძნობელობა"
+ },
+ {
+  "msgid": "Pan Sensitivity",
+  "msgstr": "გადაადგილების მგრძნობელობა"
+ },
+ {
+  "msgid": "Zoom Sensitivity",
+  "msgstr": "მასშტაბირების მგრძნობელობა"
+ },
+ {
+  "msgid": "Adjust the sensitivity of the camera zoom when using [iaHint=IA_CAMERA_ZOOM_OUT/] or [iaHint=IA_CAMERA_ZOOM_IN/].\\n\\nA lower value will result in a slower and more precise zoom.",
+  "msgstr": "დააყენეთ კამერის მასშტაბირების მგრძნობელობა [iaHint=IA_CAMERA_ZOOM_OUT/] და [iaHint=IA_CAMERA_ZOOM_IN/] გამოყენებისას.\\n\\nდაბალი მნიშვნელობისას მასშტაბირება უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgid": "Rotation Sensitivity (Free Camera)",
+  "msgstr": "ბრუნვის მგრძნობელობა (თავისუფალი კამერა)"
+ },
+ {
+  "msgid": "Adjust the sensitivity of the camera rotation in the free camera mode.\\n\\nA lower value will result in a slower and more precise rotation.",
+  "msgstr": "დააყენეთ კამერის ბრუნვის მგრძნობელობა თავისუფალი კამერის რეჟიმში.\\n\\nდაბალი მნიშვნელობისას ბრუნვა უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgid": "Pan Sensitivity (Free Camera)",
+  "msgstr": "გადაადგილების მგრძნობელობა (თავისუფალი კამერა)"
+ },
+ {
+  "msgid": "Adjust the sensitivity of the camera movement in the free camera mode.\\n\\nA lower value will result in a slower and more precise movement.",
+  "msgstr": "დააყენეთ კამერის გადაადგილების მგრძნობელობა თავისუფალი კამერის რეჟიმში.\\n\\nდაბალი მნიშვნელობისას გადაადგილება უფრო ნელი და ზუსტია."
+ },
+ {
+  "msgid": "Vulkan",
+  "msgstr": "Vulkan"
+ },
+ {
+  "msgid": "OpenGL",
+  "msgstr": "OpenGL"
+ },
+ {
+  "msgid": "Off",
+  "msgstr": "გამორთული"
+ },
+ {
+  "msgid": "Graphics",
+  "msgstr": "გრაფიკა"
+ },
+ {
+  "msgid": "Window Settings",
+  "msgstr": "ფანჯრის პარამეტრები"
+ },
+ {
+  "msgid": "Display Mode",
+  "msgstr": "ეკრანის რეჟიმი"
+ },
+ {
+  "msgid": "Windowed",
+  "msgstr": "ფანჯარაში"
+ },
+ {
+  "msgid": "Borderless",
+  "msgstr": "ჩარჩოს გარეშე"
+ },
+ {
+  "msgid": "Fullscreen",
+  "msgstr": "სრულ ეკრანზე"
+ },
+ {
+  "msgid": "Change how the game window behaves.\\n\\nIn fullscreen mode, the entire screen is used and the mouse cannot be moved outside the window, while borderless mode allows this. In windowed mode, the game window behaves like a normal window that can be resized and minimized.\\n\\nUse <Alt> + <Enter> to toggle the windowed mode.",
+  "msgstr": "შეცვალეთ თამაშის ფანჯრის ქცევა.\\n\\nსრული ეკრანის რეჟიმში გამოიყენება მთელი ეკრანი და მაუსის ფანჯრის გარეთ გატანა შეუძლებელია, ჩარჩოს გარეშე რეჟიმში კი ეს შესაძლებელია. ფანჯრის რეჟიმში თამაშის ფანჯარა ჩვეულებრივი ფანჯარასავით იქცევა: მისი ზომის შეცვლა და ჩაკეცვა შეიძლება.\\n\\nფანჯრის რეჟიმის ჩასართავად და გამოსართავად გამოიყენეთ <Alt> + <Enter>."
+ },
+ {
+  "msgid": "Graphic API",
+  "msgstr": "გრაფიკული API"
+ },
+ {
+  "msgid": "This setting controls which graphic API should be used. Vulkan is more modern and normally the better choice.",
+  "msgstr": "ეს პარამეტრი განსაზღვრავს, რომელი გრაფიკული API გამოიყენება. Vulkan უფრო თანამედროვეა და, როგორც წესი, უკეთესი არჩევანია."
+ },
+ {
+  "msgid": "Resolution",
+  "msgstr": "გარჩევადობა"
+ },
+ {
+  "msgid": "Change which screen resolution is used for the game.",
+  "msgstr": "შეცვალეთ თამაშის ეკრანის გარჩევადობა."
+ },
+ {
+  "msgid": "Resolution Scale",
+  "msgstr": "გარჩევადობის მასშტაბი"
+ },
+ {
+  "msgid": "Adjust the resolution at which the game is rendered. Upscaling is performed using AMD FidelityFX™ Super Resolution.\\n\\nA higher value results in better quality, but requires more rendering performance.",
+  "msgstr": "დააყენეთ გარჩევადობა, რომლითაც თამაში რენდერდება. გადიდება ხდება AMD FidelityFX™ Super Resolution-ის მეშვეობით.\\n\\nმაღალი მნიშვნელობა უკეთეს ხარისხს იძლევა, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "VSync",
+  "msgstr": "ვერტიკალური სინქრონიზაცია"
+ },
+ {
+  "msgid": "Enable vertical synchronization.\\n\\nThis prevents screen tearing effects.",
+  "msgstr": "ვერტიკალური სინქრონიზაციის (VSync) ჩართვა.\\n\\nეს აცილებს გამოსახულების დახევას (tearing)."
+ },
+ {
+  "msgid": "Settings for the basic game window.",
+  "msgstr": "თამაშის ფანჯრის ძირითადი პარამეტრები."
+ },
+ {
+  "msgid": "Graphics Settings",
+  "msgstr": "გრაფიკის პარამეტრები"
+ },
+ {
+  "msgid": "Presets",
+  "msgstr": "მზა ნაკრები"
+ },
+ {
+  "msgid": "Apply a predefined set of graphic options.\\n\\nHigher values result in a more beautiful game world, but require more rendering performance.",
+  "msgstr": "აირჩიეთ გრაფიკის პარამეტრების მზა ნაკრები.\\n\\nმაღალი მნიშვნელობისას თამაშის სამყარო უფრო ლამაზია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Textures",
+  "msgstr": "ტექსტურები"
+ },
+ {
+  "msgid": "Change which quality is used for textures.\\n\\nBetter quality results in more detailed objects, but requires more rendering performance.",
+  "msgstr": "შეცვალეთ ტექსტურების ხარისხი.\\n\\nუკეთესი ხარისხისას ობიექტები უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Terrain Textures",
+  "msgstr": "რელიეფის ტექსტურები"
+ },
+ {
+  "msgid": "Change which quality is used for terrain textures.\\n\\nBetter quality results in more detailed terrain textures, but requires more rendering performance.",
+  "msgstr": "შეცვალეთ რელიეფის ტექსტურების ხარისხი.\\n\\nუკეთესი ხარისხისას რელიეფის ტექსტურები უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Anti-Aliasing",
+  "msgstr": "კიდეების გაგლუვება"
+ },
+ {
+  "msgid": "Change the quality of anti-aliasing.\\n\\nHigher values make diagonal lines and curves look smoother, but require more rendering performance.",
+  "msgstr": "შეცვალეთ კიდეების გაგლუვების (anti-aliasing) ხარისხი.\\n\\nმაღალი მნიშვნელობისას დახრილი ხაზები და მრუდები უფრო გლუვად გამოიყურება, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Ambient Occlusion (SSAO)",
+  "msgstr": "ფონური დაჩრდილვა (SSAO)"
+ },
+ {
+  "msgid": "Enable screen space ambient occlusion.\\n\\nThis results in more natural shadows, but requires more rendering performance.",
+  "msgstr": "ეკრანის სივრცეში ფონური დაჩრდილვის (SSAO) ჩართვა.\\n\\nჩრდილები უფრო ბუნებრივი ხდება, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Reflections (SSR)",
+  "msgstr": "ანარეკლები (SSR)"
+ },
+ {
+  "msgid": "Change the quality of screen space reflections.\\n\\nHigher values result in more natural and dynamic reflections, but require more rendering performance.",
+  "msgstr": "შეცვალეთ ეკრანის სივრცეში ანარეკლების (SSR) ხარისხი.\\n\\nმაღალი მნიშვნელობისას ანარეკლები უფრო ბუნებრივი და ცოცხალია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Geometry",
+  "msgstr": "გეომეტრია"
+ },
+ {
+  "msgid": "Change which quality is used for geometry.\\n\\nBetter quality results in more detailed geometry, but requires more rendering performance.",
+  "msgstr": "შეცვალეთ გეომეტრიის ხარისხი.\\n\\nუკეთესი ხარისხისას გეომეტრია უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Shadows",
+  "msgstr": "ჩრდილები"
+ },
+ {
+  "msgid": "Change which quality is used for shadows.\\n\\nBetter quality results in more natural shadows, but requires more rendering performance.",
+  "msgstr": "შეცვალეთ ჩრდილების ხარისხი.\\n\\nუკეთესი ხარისხისას ჩრდილები უფრო ბუნებრივია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Change which quality is used for terrain.\\n\\nBetter quality results in more detailed terrain, but requires more rendering performance.",
+  "msgstr": "შეცვალეთ რელიეფის ხარისხი.\\n\\nუკეთესი ხარისხისას რელიეფი უფრო დეტალურია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Grass",
+  "msgstr": "ბალახი"
+ },
+ {
+  "msgid": "Change which quality is used for grass.\\n\\nBetter quality results in more vivid grass, but requires more rendering performance.",
+  "msgstr": "შეცვალეთ ბალახის ხარისხი.\\n\\nუკეთესი ხარისხისას ბალახი უფრო ცოცხალია, მაგრამ მეტ გრაფიკულ რესურსს მოითხოვს."
+ },
+ {
+  "msgid": "Settings for the graphics quality.",
+  "msgstr": "გრაფიკის ხარისხის პარამეტრები."
+ },
+ {
+  "msgid": "Graphic Mode",
+  "msgstr": "გრაფიკის რეჟიმი"
+ },
+ {
+  "msgid": "Apply a predefined set of graphic options.\\n\\nQuality results in a more beautiful game world, while performance ensures higher FPS.",
+  "msgstr": "აირჩიეთ გრაფიკის პარამეტრების მზა ნაკრები.\\n\\nხარისხის რეჟიმი თამაშის სამყაროს უფრო ლამაზს ხდის, წარმადობის რეჟიმი კი კადრების უფრო მაღალ სიხშირეს (FPS) უზრუნველყოფს."
+ },
+ {
+  "msgid": "Audio Settings",
+  "msgstr": "ხმის პარამეტრები"
+ },
+ {
+  "msgid": "Music",
+  "msgstr": "მუსიკა"
+ },
+ {
+  "msgid": "Play music when starting a game.\\n\\nWhen disabled, the music can still be started manually via the in-game music player.",
+  "msgstr": "მუსიკის დაკვრა თამაშის დაწყებისას.\\n\\nგამორთულ მდგომარეობაშიც შეგიძლიათ მუსიკა ხელით ჩართოთ თამაშის მუსიკის დამკვრელში."
+ },
+ {
+  "msgid": "Menu Music",
+  "msgstr": "მენიუს მუსიკა"
+ },
+ {
+  "msgid": "Play music in the menu.",
+  "msgstr": "მუსიკის დაკვრა მენიუში."
+ },
+ {
+  "msgid": "Splash Screen Sound",
+  "msgstr": "შესავალი ეკრანის ხმა"
+ },
+ {
+  "msgid": "Play the splash screen sound.",
+  "msgstr": "შესავალი ეკრანის ხმის დაკვრა."
+ },
+ {
+  "msgid": "Voice-Over",
+  "msgstr": "გახმოვანება"
+ },
+ {
+  "msgid": "Play voice-overs during the campaign missions.",
+  "msgstr": "გახმოვანების ჩართვა კამპანიის მისიებში."
+ },
+ {
+  "msgid": "Settings to enable or disable individual audio parts.",
+  "msgstr": "ხმის ცალკეული ნაწილების ჩართვა და გამორთვა."
+ },
+ {
+  "msgid": "Soundtrack",
+  "msgstr": "საუნდტრეკი"
+ },
+ {
+  "msgid": "Default Playlist",
+  "msgstr": "ნაგულისხმევი დასაკრავი სია"
+ },
+ {
+  "msgid": "Change which playlist is used as the default starting playlist for the in-game music player.",
+  "msgstr": "შეცვალეთ, რომელი დასაკრავი სიით იწყებს თამაშის მუსიკის დამკვრელი."
+ },
+ {
+  "msgid": "Settings for the soundtrack.",
+  "msgstr": "საუნდტრეკის პარამეტრები."
+ },
+ {
+  "msgid": "Volume Settings",
+  "msgstr": "ხმის დონე"
+ },
+ {
+  "msgid": "Master",
+  "msgstr": "საერთო"
+ },
+ {
+  "msgid": "Adjust the overall volume of the game.",
+  "msgstr": "დააყენეთ თამაშის საერთო ხმის დონე."
+ },
+ {
+  "msgid": "Sound Effects",
+  "msgstr": "ხმოვანი ეფექტები"
+ },
+ {
+  "msgid": "Adjust the volume of sound effects.",
+  "msgstr": "დააყენეთ ხმოვანი ეფექტების ხმის დონე."
+ },
+ {
+  "msgid": "Adjust the volume of the music.",
+  "msgstr": "დააყენეთ მუსიკის ხმის დონე."
+ },
+ {
+  "msgid": "Adjust the volume of voice-overs during campaign missions.",
+  "msgstr": "დააყენეთ გახმოვანების ხმის დონე კამპანიის მისიებში."
+ },
+ {
+  "msgid": "Settings to adjust the different volumes individually.",
+  "msgstr": "ხმის სხვადასხვა დონის ცალ-ცალკე დაყენება."
+ },
+ {
+  "msgid": "Play a sound effect when bulldozing things.",
+  "msgstr": "ხმოვანი ეფექტის დაკვრა ობიექტების დანგრევისას."
+ },
+ {
+  "msgid": "Play a sound effect when building things.",
+  "msgstr": "ხმოვანი ეფექტის დაკვრა ობიექტების აშენებისას."
+ },
+ {
+  "msgid": "Settings for the sound effects.",
+  "msgstr": "ხმოვანი ეფექტების პარამეტრები."
+ },
+ {
+  "msgid": "Audio",
+  "msgstr": "ხმა"
+ },
+ {
+  "msgid": "Advanced Settings",
+  "msgstr": "დამატებითი პარამეტრები"
+ },
+ {
+  "msgid": "Enable Background Contrast Layer",
+  "msgstr": "კონტრასტული ფონის ჩართვა"
+ },
+ {
+  "msgid": "Never",
+  "msgstr": "არასოდეს"
+ },
+ {
+  "msgid": "Line Manager Only",
+  "msgstr": "მხოლოდ ხაზების მართვა"
+ },
+ {
+  "msgid": "Module Builder Only",
+  "msgstr": "მხოლოდ მოდულების რედაქტორი"
+ },
+ {
+  "msgid": "Both",
+  "msgstr": "ორივე"
+ },
+ {
+  "msgid": "Change which background is used in line management and module building modes.\\n\\n\\\"Never\\\" disables the white base layer and uses the normal world rendering.\\n\\\"Line Manager Only\\\" uses the white base layer in the line manager.\\n\\\"Module Builder Only\\\" uses the white base layer in the module builder.\\n\\\"Both\\\" uses the white base layer in both modes.",
+  "msgstr": "შეცვალეთ, რომელი ფონი გამოიყენება ხაზების მართვისა და მოდულების რედაქტირების რეჟიმებში.\\n\\n\\\"არასოდეს\\\" თეთრ ფონს გამორთავს და სამყარო ჩვეულებრივად გამოისახება.\\n\\\"მხოლოდ ხაზების მართვა\\\" თეთრ ფონს ხაზების მართვაში იყენებს.\\n\\\"მხოლოდ მოდულების რედაქტორი\\\" თეთრ ფონს მოდულების რედაქტორში იყენებს.\\n\\\"ორივე\\\" თეთრ ფონს ორივე რეჟიმში იყენებს."
+ },
+ {
+  "msgid": "Enable Drag-and-Confirm Construction Mode",
+  "msgstr": "მშენებლობა დადასტურებით"
+ },
+ {
+  "msgid": "Enable drag-and-confirm construction mode for tracks and roads.\\n\\nWhen enabled, construction is performed in two steps. Proposals can be adjusted after placement and are built after confirmation.",
+  "msgstr": "ლიანდაგებისა და გზების მშენებლობა გავლებითა და დადასტურებით.\\n\\nჩართულ მდგომარეობაში მშენებლობა ორ ეტაპად მიმდინარეობს: გავლებული პროექტის შესწორება განთავსების შემდეგაც შეიძლება და ის მხოლოდ დადასტურების შემდეგ შენდება."
+ },
+ {
+  "msgid": "Enable Advanced Camera Tool",
+  "msgstr": "გაფართოებული კამერის ჩართვა"
+ },
+ {
+  "msgid": "Enable the advanced camera tool in-game.\\n\\nThis tool can be used to create complex renderings.",
+  "msgstr": "გაფართოებული კამერის ხელსაწყოს ჩართვა თამაშში.\\n\\nამ ხელსაწყოთი რთული კადრების შექმნა შეიძლება."
+ },
+ {
+  "msgid": "Enable GUI Effects",
+  "msgstr": "ინტერფეისის ეფექტების ჩართვა"
+ },
+ {
+  "msgid": "Enable GUI effects like smooth transitions and animations.",
+  "msgstr": "ინტერფეისის ეფექტების, მაგალითად, გლუვი გადასვლებისა და ანიმაციების ჩართვა."
+ },
+ {
+  "msgid": "Autosave Interval",
+  "msgstr": "ავტომატური შენახვის ინტერვალი"
+ },
+ {
+  "msgid": "1 min",
+  "msgstr": "1 წთ"
+ },
+ {
+  "msgid": "2 min",
+  "msgstr": "2 წთ"
+ },
+ {
+  "msgid": "5 min",
+  "msgstr": "5 წთ"
+ },
+ {
+  "msgid": "10 min",
+  "msgstr": "10 წთ"
+ },
+ {
+  "msgid": "15 min",
+  "msgstr": "15 წთ"
+ },
+ {
+  "msgid": "30 min",
+  "msgstr": "30 წთ"
+ },
+ {
+  "msgid": "60 min",
+  "msgstr": "60 წთ"
+ },
+ {
+  "msgid": "Change how often the game is automatically saved.",
+  "msgstr": "შეცვალეთ, რამდენად ხშირად შეინახოს თამაში ავტომატურად."
+ },
+ {
+  "msgid": "Autosaves To Keep",
+  "msgstr": "შესანახი ავტოშენახვები"
+ },
+ {
+  "msgid": "All",
+  "msgstr": "ყველა"
+ },
+ {
+  "msgid": "Change how many autosaves are kept.\\n\\nOnce this number is reached, the oldest autosaves will be overwritten.",
+  "msgstr": "შეცვალეთ, რამდენი ავტომატური შენახვა დარჩეს.\\n\\nროცა მათი რაოდენობა ამ ზღვარს მიაღწევს, ყველაზე ძველი ავტოშენახვები გადაიწერება."
+ },
+ {
+  "msgid": "Use System Mouse Cursor",
+  "msgstr": "სისტემური კურსორის გამოყენება"
+ },
+ {
+  "msgid": "Enable the mouse cursor drawn by the operating system. When disabled, a cursor drawn by the game is used instead.\\n\\nDisabling this setting may help certain screen recording tools to capture the cursor.",
+  "msgstr": "ოპერაციული სისტემის მაუსის კურსორის გამოყენება. გამორთულ მდგომარეობაში გამოიყენება თამაშის საკუთარი კურსორი.\\n\\nამ პარამეტრის გამორთვა ზოგიერთ ეკრანის ჩამწერ პროგრამას კურსორის ჩაწერაში დაეხმარება."
+ },
+ {
+  "msgid": "Advanced settings for experts.",
+  "msgstr": "დამატებითი პარამეტრები გამოცდილი მოთამაშეებისთვის."
+ },
+ {
+  "msgid": "Debug Options",
+  "msgstr": "გამართვის პარამეტრები"
+ },
+ {
+  "msgid": "Debug Mode",
+  "msgstr": "გამართვის რეჟიმი"
+ },
+ {
+  "msgid": "Enable in-game debug features.\\n\\nThese features can be helpful during modding or support requests.",
+  "msgstr": "თამაშში გამართვის ფუნქციების ჩართვა.\\n\\nეს ფუნქციები შეიძლება გამოგადგეთ მოდების შექმნისას ან მხარდაჭერის სამსახურთან მიმართვისას."
+ },
+ {
+  "msgid": "Show Missing Resources Dialog",
+  "msgstr": "მიუწვდომელი რესურსების ფანჯრის ჩვენება"
+ },
+ {
+  "msgid": "Display a warning if resources are missing when loading a savegame.\\n\\nMissing resources usually occur when a mod is not available.",
+  "msgstr": "გაფრთხილების ჩვენება, თუ შენახული თამაშის ჩატვირთვისას რესურსები აკლია.\\n\\nრესურსები, როგორც წესი, მაშინ აკლია, როცა რომელიმე მოდი მიუწვდომელია."
+ },
+ {
+  "msgid": "Send Crash Reports",
+  "msgstr": "ავარიის ანგარიშების გაგზავნა"
+ },
+ {
+  "msgid": "Enable automatic crash report sending.\\n\\nLeaving this feature enabled helps to detect and fix bugs and crashes.",
+  "msgstr": "ავარიის ანგარიშების ავტომატური გაგზავნის ჩართვა.\\n\\nჩართული ფუნქცია ხარვეზებისა და ავარიების აღმოჩენასა და გამოსწორებაში გვეხმარება."
+ },
+ {
+  "msgid": "Show Unsupported Hardware Warning",
+  "msgstr": "მხარდაუჭერელი აპარატურის გაფრთხილება"
+ },
+ {
+  "msgid": "Display a warning if unsupported hardware is detected.",
+  "msgstr": "გაფრთხილების ჩვენება, თუ მხარდაუჭერელი აპარატურა აღმოჩნდა."
+ },
+ {
+  "msgid": "Show Video Memory Usage Warning",
+  "msgstr": "ვიდეომეხსიერების გაფრთხილება"
+ },
+ {
+  "msgid": "Display a warning if the graphics settings are too high.",
+  "msgstr": "გაფრთხილების ჩვენება, თუ გრაფიკის პარამეტრები ზედმეტად მაღალია."
+ },
+ {
+  "msgid": "Debug options that can be helpful to troubleshoot issues.",
+  "msgstr": "გამართვის პარამეტრები, რომლებიც პრობლემების მოგვარებაში დაგეხმარებათ."
+ },
+ {
+  "msgid": "Open User Data Folder",
+  "msgstr": "მომხმარებლის მონაცემების საქაღალდის გახსნა"
+ },
+ {
+  "msgid": "Open the user data folder, that contains savegames, screenshots, and other useful files.",
+  "msgstr": "მომხმარებლის მონაცემების საქაღალდის გახსნა, სადაც შენახული თამაშები, ეკრანის ანაბეჭდები და სხვა სასარგებლო ფაილებია."
+ },
+ {
+  "msgid": "Search",
+  "msgstr": "ძიება"
+ },
+ {
+  "msgid": "On",
+  "msgstr": "ჩართული"
+ },
+ {
+  "msgid": "Restart Required",
+  "msgstr": "საჭიროა თავიდან გაშვება"
+ }
 ]

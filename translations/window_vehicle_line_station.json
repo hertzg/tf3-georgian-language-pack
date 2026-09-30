@@ -161,8 +161,7 @@
  },
  {
   "msgid": "Frequency: {count}",
-  "msgstr": "ინტერვალი: {count}",
-  "note": "TF shows this as a time between vehicles (e.g. 2 min), which Georgian transport calls ინტერვალი. Use სიხშირე if the value turns out to be a count per hour."
+  "msgstr": "სიხშირე: {count}"
  },
  {
   "msgid": "Invalid",

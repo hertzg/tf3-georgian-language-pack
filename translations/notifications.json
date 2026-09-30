@@ -85,8 +85,7 @@
  },
  {
   "msgid": "Building complex road networks just got easier. Pre-made options for roundabouts, highway T-intersections and cloverleaf interchanges are now available in the roads menu.",
-  "msgstr": "რთული საგზაო ქსელის მშენებლობა გამარტივდა. გზების მენიუში უკვე ხელმისაწვდომია მზა ვარიანტები: წრიული გზაჯვარედინები, ავტომაგისტრალის T-ის ფორმის გზაჯვარედინები და სამყურას ტიპის სატრანსპორტო კვანძები.",
-  "note": "Cloverleaf interchange = სამყურას ტიპის კვანძი; check if a native speaker prefers ოთხფოთოლა."
+  "msgstr": "რთული საგზაო ქსელის მშენებლობა გამარტივდა. გზების მენიუში უკვე ხელმისაწვდომია მზა ვარიანტები: წრიული გზაჯვარედინები, ავტომაგისტრალის T-ის ფორმის გზაჯვარედინები და ოთხფოთოლა სატრანსპორტო კვანძები."
  },
  {
   "msgid": "First Airplanes Available",

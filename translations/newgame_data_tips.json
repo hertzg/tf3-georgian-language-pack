@@ -30,8 +30,7 @@
  },
  {
   "msgid": "Monument Valley",
-  "msgstr": "მონუმენტ-ველი",
-  "note": "proper place name (US), transliterated"
+  "msgstr": "Monument Valley"
  },
  {
   "msgid": "Mountains",
@@ -63,12 +62,11 @@
  },
  {
   "msgid": "Sparse",
-  "msgstr": "ძალიან ცოტა",
-  "note": "density ladder read as amount (hints say 'number of'): ძალიან ცოტა < ცოტა < საშუალო < ბევრი < ძალიან ბევრი; Georgian იშვიათი/გაფანტული would not show which of Sparse/Scattered is less"
+  "msgstr": "იშვიათად"
  },
  {
   "msgid": "Scattered",
-  "msgstr": "ცოტა"
+  "msgstr": "გაფანტულად"
  },
  {
   "msgid": "Medium",
@@ -76,12 +74,11 @@
  },
  {
   "msgid": "Dense",
-  "msgstr": "ბევრი",
-  "note": "shared plain msgid: if the game also uses it for vegetation or town density, ბევრი still reads, ხშირი would be the density word"
+  "msgstr": "მჭიდროდ"
  },
  {
   "msgid": "Packed",
-  "msgstr": "ძალიან ბევრი"
+  "msgstr": "ხშირად"
  },
  {
   "msgid": "Adjust the number of rivers on the map.",
@@ -238,8 +235,7 @@
  },
  {
   "msgid": "TIP_VEHICLES_4",
-  "msgstr": "ხაზის ინტერვალი გვიჩვენებს, რა დრო გადის სატრანსპორტო საშუალებებს შორის.",
-  "note": "Frequency = ინტერვალი, as in line manager"
+  "msgstr": "ხაზის სიხშირე გვიჩვენებს, რა დრო გადის სატრანსპორტო საშუალებებს შორის."
  },
  {
   "msgid": "TIP_VEHICLES_6",
