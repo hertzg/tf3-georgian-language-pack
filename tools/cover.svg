@@ -56,24 +56,24 @@
     <text x="200" y="204" text-anchor="middle" font-family="DIN Alternate" font-weight="700" font-size="52" letter-spacing="2" fill="#111">SIGHNAGHI</text>
   </g>
 
-  <!-- street: Tbilisi street plate: blue, name + "ქ", English below, house number -->
+  <!-- street: Tbilisi street plate: blue, name + "გამზ.", English below, house number -->
   <g transform="translate(986 500)">
     <rect x="12" y="12" width="400" height="260" rx="26" fill="#222"/>
     <rect width="400" height="260" rx="26" fill="#3f62da"/>
-    <text x="26" y="66" font-family=".SF Georgian" font-weight="700" font-size="40" fill="#ffffff">ალაზნის ქ</text>
-    <text x="28" y="106" font-family="Helvetica Neue" font-size="28" fill="#ffffff">Alazani St</text>
+    <text x="26" y="66" font-family=".SF Georgian" font-weight="700" font-size="36" fill="#ffffff">რუსთაველის გამზ.</text>
+    <text x="28" y="106" font-family="Helvetica Neue" font-size="28" fill="#ffffff">Rustaveli Ave</text>
     <text x="376" y="196" text-anchor="end" font-family="Helvetica Neue" font-weight="700" font-size="110" fill="#ffffff">12</text>
-    <text x="26" y="236" font-family=".SF Georgian" font-weight="700" font-size="26" fill="#ffffff">ვაკე</text>
+    <text x="26" y="236" font-family=".SF Georgian" font-weight="700" font-size="26" fill="#ffffff">მთაწმინდა</text>
   </g>
 
   <!-- person: name card -->
   <g transform="translate(1439 500)">
     <rect x="12" y="12" width="400" height="260" rx="26" fill="#222"/>
     <rect width="400" height="260" rx="26" fill="#ffffff"/>
-    <circle cx="96" cy="104" r="40" fill="#1a2630"/>
-    <path d="M26 210 a70 64 0 0 1 140 0 z" fill="#1a2630"/>
-    <text x="178" y="122" font-family=".SF Georgian" font-weight="700" font-size="46" fill="#1a2630">ნინო</text>
-    <text x="178" y="190" font-family=".SF Georgian" font-weight="700" font-size="46" fill="#1a2630">ლომიძე</text>
+    <circle cx="86" cy="104" r="38" fill="#1a2630"/>
+    <path d="M20 210 a66 62 0 0 1 132 0 z" fill="#1a2630"/>
+    <text x="166" y="122" font-family=".SF Georgian" font-weight="700" font-size="38" fill="#1a2630">ილია</text>
+    <text x="166" y="186" font-family=".SF Georgian" font-weight="700" font-size="38" fill="#1a2630">ჭავჭავაძე</text>
   </g>
 
   <!-- captions -->
