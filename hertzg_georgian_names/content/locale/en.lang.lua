@@ -1,11 +1,14 @@
--- Adds "English + Georgian" to Settings > Language: the base game's English
--- with Georgian Names Sans as the UI font (the game's Lato plus Georgian
--- letters), so Georgian names can be drawn. Mods add languages; they can't
--- change the base ones. The game loads every font listed here from this
--- mod's locale folder, and the language's text from this mod's strings folder.
+-- Adds "ქართული (Georgian)" to Settings > Language: the game's text in
+-- Georgian, falling back to English for strings not translated yet, with
+-- Georgian Names Sans as the UI font (the game's Lato plus Georgian letters).
+-- The name keeps "(Georgian)" in Latin because the language list is drawn in
+-- the current language's font, which may have no Georgian letters.
+-- Mods add languages; they can't change the base ones. The game loads every
+-- font listed here from this mod's locale folder, and the language's text
+-- from this mod's strings folder.
 function data()
 return {
-	name = "English + Georgian",
+	name = "ქართული (Georgian)",
 	locale = "en_US",
 	fontMap = {
 		regular = "GeorgianNamesSans/GeorgianNamesSans-Regular.ttf",
